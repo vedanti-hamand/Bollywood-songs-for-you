@@ -426,4 +426,14 @@
         "genre": ["Romantic","Pop","Hindi"],
         "link":""
 }
+{
+        "id": 43,
+        "name": "Banjaara",
+        "lyrics": "https://www.lyricsmint.com/ek-villain/banjaara-mohd-irfan",
+        "album": "Ek Villain",
+        "Duration":"5 min 34 sec",
+        "singer": ["Mohammed Irfan"],
+        "genre": ["Romantic"],
+        "link": "https://www.youtube.com/watch?v=0NFxcNheoLc"
+}
 ]
