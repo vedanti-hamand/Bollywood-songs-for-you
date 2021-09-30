@@ -289,7 +289,7 @@
     },
  {
 
-        "id": 19,
+        "id": 29,
         "name": "ranjha",
         "lyrics": "https://www.hinditracks.in/ranjha-lyrics",
         "album": "Shershaah",
@@ -302,7 +302,7 @@
 
  {
 
-        "id": 20,
+        "id": 30,
         "name": "aarambh hai prachand",
         "lyrics": "https://www.hinditracks.in/aarambh-hai-prachand-lyrics-in-hindi-gulaal",
         "album": "Gulaal",
@@ -313,7 +313,7 @@
  },
 {
 
-        "id": 21,
+        "id": 31,
         "name": "Snake",
         "lyrics": "https://genius.com/Mc-stan-snake-lyrics",
         "album": "Snake",
@@ -323,9 +323,9 @@
         "link": "https://youtu.be/DSb7tmVcZm4"
 
 
-}
+},
 {
-        "id": 22,
+        "id": 32,
         "name": "Tujhse Naraz Nahi Zindagi - Sanam",
         "lyrics": "https://www.hinditracks.in/ranjha-lyrics",
         "album": "SANAM",
@@ -333,19 +333,46 @@
         "singer": ["Lata Mangeshkar"],
         "genre": ["Romantic"],
         "link": "https://www.youtube.com/watch?v=V7LwfY5U5WI"
+
+}, 
+
+
+
+
+{
+        "id": 33,
+        "name": "Saagar Kinare-Sagar(1985)",
+        "lyrics": "https://www.lyrics.com/lyric/28653018/Kishore+Kumar/Saagar+Kinare",
+        "album": "Saagar Kinare-Saagar
+        "Duration":"3 min 45 sec",
+        "singer": ["Lata Mangeshkar","Kishore Kumar"],
+         "link":"https://youtu.be/2q_nsR_9xqY"
 },
+
   {
-        "id": 30,
+        "id": 34,
         "name": "Zara Zara by Maadhyam",
         "lyrics": "https://youtu.be/MB6bUI5uaoc",
         "album": "M.S.Dhoni",
         "Duration":"4 min 6 sec",
         "singer": ["Bombay Jayashree"],
+
         "genre": ["Romantic"],
-        "link": "https://youtu.be/MB6bUI5uaoc"
-    },
+        "link": "https://youtu.be/2q_nsR_9xqY"
+},
 {
-        "id": 31,
+        "id": 35,
+        "name": "Tum Hi Ho",
+        "lyrics": "https://www.indicine.com/movies/lyrics/tum-hi-ho-lyrics-aashiqui-2/",
+        "album": "Aashiqui 2",
+        "Duration":"04 minutes 21 seconds",
+        "singer": ["Arijit Singh"],
+        "genre": [" Acoustic music", "Filmi", "Indian pop"],
+        "link": "https://youtu.be/IJq0yyWug1k"
+    },
+
+{
+        "id": 36,
         "name": "O Saathi",
         "lyrics": "https://gaana.com/lyrics/o-saathi",
         "album": "Baaghi 2",
@@ -353,6 +380,19 @@
         "singer": ["Arko | Ahmed Khan Sajid Nadiadwala"],
         "genre": ["Romantic"],
         "link": "https://youtu.be/OX-h7MtkeOI"
+    },
+
+        
+{
+        "id": 37,
+        "name": "Qaafirana",
+        "lyrics": "https://www.lyricsmint.com/kedarnath/qaafirana",
+        "album": "Kedarnath",
+        "Duration":"6 min 16 sec",
+        "singer": ["Amit Trivedi"],
+        "genre": ["Romantic"],
+
+        "link": "https://youtu.be/MB6bUI5uaoc"
     },
 
 ]
