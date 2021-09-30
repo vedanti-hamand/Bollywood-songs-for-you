@@ -375,7 +375,7 @@
         "Duration":"4 min 6 sec",
         "singer": ["Bombay Jayashree"],
         "genre": ["Romantic"],
-        "link": "https://youtu.be/MB6bUI5uaoc"
+        "link": "https://youtu.be/2q_nsR_9xqY"
     },
 
 {
@@ -398,7 +398,7 @@
         "link":"https://youtu.be/ofTxceS4wLI"
 },
 {
-        "id": 24,
+        "id": 36,
         "name": "Qaafirana",
         "lyrics": "https://www.lyricsmint.com/kedarnath/qaafirana",
         "album": "Kedarnath",
@@ -408,7 +408,7 @@
         "link": "https://www.youtube.com/watch?v=ZmcBC9-wAXM"
 },
 {
-            "id": 43,
+            "id": 37,
             "name": "Te Amo",
             "lyrics": "https://www.lyricsmint.com/dum-maaro-dum/te-amo",
             "album": "Dum Maaro Dum",
@@ -418,7 +418,7 @@
             "link": "https://youtu.be/lPXdn-pR8mI"
  },
 {
-        "id": 40,
+        "id": 38,
         "name": "Heropanti : Raat Bhar ",
         "lyrics": "https://youtu.be/4KFVySixs_E",
         "album": "Heropanti",
@@ -428,7 +428,7 @@
         "link":""
 },
 {
-        "id": 41,
+        "id": 39,
         "name": "Main Shayar To Nahin ",
         "lyrics": "https://www.youtube.com/watch?v=jmeMg-gm1Us",
         "album": "Main Shayar ",
@@ -436,9 +436,9 @@
         "singer": ["Kishor Kumar, Shreya Bhosle"],
         "genre": ["Romantic","Hindi"],
         "link":"https://www.youtube.com/watch?v=jmeMg-gm1Us"
-}
+},
 {
-        "id": 46,
+        "id": 40,
         "name": "Banjaara",
         "lyrics": "https://www.lyricsmint.com/ek-villain/banjaara-mohd-irfan",
         "album": "Ek Villain",
