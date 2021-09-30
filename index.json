@@ -160,13 +160,13 @@
         "link": "https://www.youtube.com/watch?v=atVof3pjT-I"
     },
     {
-        "id": 17,
+        "id": 18,
         "name": "Arziyan",
         "lyrics": "https://gaana.com/lyrics/arziyan",
         "album": "Delhi-6",
         "Duration":"8 min 39 sec",
         "singer": ["Javed Ali", "Kailash Kher"],
-        "genre": ["Spiritual"],
+        "genre": ["Sufi"],
         "link": "https://www.youtube.com/watch?v=JA09HEGTzCU"
     }
 ]
