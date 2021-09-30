@@ -297,6 +297,16 @@
         "singer": ["B Praak","Jasleen Royal"],
         "genre": ["Romantic"],
         "link": "https://www.youtube.com/watch?v=V7LwfY5U5WI"
+},
+ {
+        "id": 29,
+        "name": "Tujhse Naraz Nahi Zindagi - Sanam",
+        "lyrics": "https://www.hinditracks.in/ranjha-lyrics",
+        "album": "SANAM",
+        "Duration":"4 min 12 sec",
+        "singer": ["Lata Mangeshkar"],
+        "genre": ["Romantic"],
+        "link": "https://www.youtube.com/watch?v=V7LwfY5U5WI"
 }
 
 ]
