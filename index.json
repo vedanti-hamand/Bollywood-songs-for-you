@@ -148,10 +148,10 @@
         "singer": ["Amit Trivedi"],
         "genre": ["Pop","Romantic"],
         "link": "https://youtu.be/WwvVUbllNkM"
-    },
+    }
     {
         "id": 16,
-        "name": "Kaun Tujhe",
+        "name": "kaun tujhe",
         "lyrics": "https://www.lyricsbell.com/kaun-tujhe",
         "album": "M.S.Dhoni",
         "Duration":"3 min 30 sec",
@@ -159,25 +159,14 @@
         "genre": ["Romantic"],
         "link": "https://www.youtube.com/watch?v=atVof3pjT-I"
     },
-
     {
-        "id": 18,
-        "name": "Arziyan",
-        "lyrics": "https://gaana.com/lyrics/arziyan",
-        "album": "Delhi-6",
-        "Duration":"8 min 39 sec",
-        "singer": ["Javed Ali", "Kailash Kher"],
-        "genre": ["Sufi"],
-        "link": "https://www.youtube.com/watch?v=JA09HEGTzCU"
-    },
-   {
         "id": 17,
-        "name": "Humnava",
-        "lyrics": "https://www.azlyrics.com/lyrics/arijitsingh/hamariadhurikahani.html",
-        "album": " (2015)",
-        "Duration":"6 min 19 sec",
-        "singer": ["Papoon","Mithun"],
-        "genre": ["Romantic"],
-        "link": "https://www.youtube.com/watch?v=ktPD6TMovxs"
+        "name": "Broke is a Joke",
+        "lyrics": "https://genius.com/Mc-stan-broke-is-a-joke-lyrics",
+        "album": "Broke is a Joke",
+        "Duration":"3 min 35 sec",
+        "singer": ["MC STAN"],
+        "genre": ["Motivation","Pop"],
+        "link": "https://youtu.be/YdIxAdTDpWU"
     }
 ]
