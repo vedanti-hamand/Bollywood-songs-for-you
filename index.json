@@ -244,20 +244,21 @@
 
 
     },
+    
     {
-        
-        "id": 25,
-        "name": "Dildaara",
-        "lyrics": "https://gaana.com/lyrics/dildaara-stand-by-me",
-        "album": "Ra.One",
-        "Duration":"5 min 20 sec",
-        "singer": ["Shafqat Amanat Ali"],
-        "genre": ["Romanace"],
-        "link": "https://youtu.be/OA7yVcqlX_Y"
-
-
-    }"
+        "id": 24,
+        "name": "Mumbai Dance",
+        "lyrics": "",
+        "album": "Bass Rani",
+        "Duration":"3 min 02 sec",
+        "singer": ["Nucleya"],
+        "genre": ["EDM"],
+        "link": "https://www.youtube.com/watch?v=f0DkVn-joQc"
 
 
     }
+    
+    
+    
+    
 ]
