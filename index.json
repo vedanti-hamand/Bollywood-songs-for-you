@@ -334,6 +334,16 @@
         "genre": ["Romantic"],
         "link": "https://www.youtube.com/watch?v=V7LwfY5U5WI"
 },
+{
+        "id": 29,
+        "name": "Mana ke hum yaar nahi",
+        "lyrics": "https://www.youtube.com/watch?v=k4R39ofX-CQ",
+        "album": "Meri Pyari Bindu",
+        "Duration":"3 min 18 sec",
+        "singer": ["Parineeti Chopra"],
+        "genre": ["Romantic"],
+        "link": "https://www.youtube.com/watch?v=k4R39ofX-CQ"
+    },
   {
         "id": 30,
         "name": "Zara Zara by Maadhyam",
