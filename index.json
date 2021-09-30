@@ -69,7 +69,16 @@
         "genre": ["Romantic","slow"],
         "link": "https://youtu.be/gvyUuxdRdR4"
     },
-    
+    {
+        "id": 8,
+        "name": "Ranjha ",
+        "lyrics": "https://www.ilyricshub.com/ranjha-shershaah-b-praak/",
+        "album": "Sheershaah",
+        "Duration":"3 min 13 sec",
+        "singer": ["B Praak","Jasleen Royal","Punjabi"],
+        "genre": ["Romantic","slow"],
+        "link": "https://youtu.be/V7LwfY5U5WI"
+    },
     {
         "id": 9,
         "name": "Pani Da Rang",
@@ -324,8 +333,7 @@
         "singer": ["Lata Mangeshkar"],
         "genre": ["Romantic"],
         "link": "https://www.youtube.com/watch?v=V7LwfY5U5WI"
-
-}, 
+},
 {
         "id": 35,
         "name": "Tum Hi Ho",
@@ -356,9 +364,19 @@
         "album": "M.S.Dhoni",
         "Duration":"4 min 6 sec",
         "singer": ["Bombay Jayashree"],
-
         "genre": ["Romantic"],
-        "link": "https://youtu.be/2q_nsR_9xqY"
+        "link": "https://youtu.be/MB6bUI5uaoc"
+    },
+
+{
+    "id":34,
+    "name":"Genda Phool",
+    "lyrics":"https://gaana.com/lyrics/genda-phool-6",
+    "albhum":"Genda Phool"
+    "Duration":"02:48",
+    "singer":["Badshah, Payal Dev"],
+     "genre":[" Indian pop"],
+     "link":"https://youtu.be/SD4Z8dlZPd8"
 },
 {
         "id": 35,
@@ -399,5 +417,4 @@
         "genre": ["Romantic","Pop","Hindi"],
         "link":""
 }
-
 ]
