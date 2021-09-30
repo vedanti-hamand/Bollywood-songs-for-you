@@ -159,7 +159,7 @@
         "genre": ["Romantic"],
         "link": "https://www.youtube.com/watch?v=atVof3pjT-I"
     },
-  {
+    {
         "id": 17,
         "name": "Raftaarein"",
         "lyrics": "https://www.indicine.com/movies/lyrics/raftaarein-lyrics-ra-one/",
@@ -285,18 +285,29 @@
         "link": "https://www.youtube.com/watch?v=TFr6G5zveS8"
 
           
+    }
+{
+        "id": 28,
+        "name": "Lag jaa gale",
+        "lyrics": "https://gaana.com/song/lag-ja-gale-24",
+        "album": "Lag jaa gale",
+        "Duration":"5 min 02 sec",
+        "singer": ["Lata Mangeshkar "],
+        "genre": ["Romance"],
+        "link": "https://www.youtube.com/watch?v=TFr6G5zveS8"
 
-    },
- {
+          
+    }
+{
+        "id": 28,
+        "name": "lag jaa gale",
+        "lyrics": "https://gaana.com/song/lag-ja-gale-24",
+        "album": "Lag jaa gale",
+        "Duration":"5 min 02 sec",
+        "singer": ["Lata Mangeshkar "],
+        "genre": ["Romance"],
+        "link": "https://www.youtube.com/watch?v=TFr6G5zveS8"
 
-        "id": 19,
-        "name": "ranjha",
-        "lyrics": "https://www.hinditracks.in/ranjha-lyrics",
-        "album": "Shershaah",
-        "Duration":"3 min 13 sec",
-        "singer": ["B Praak","Jasleen Royal"],
-        "genre": ["Romantic"],
-        "link": "https://www.youtube.com/watch?v=V7LwfY5U5WI"
-}
-
+          
+    }
 ]
