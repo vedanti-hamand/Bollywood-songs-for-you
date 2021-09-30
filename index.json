@@ -191,17 +191,19 @@
         "genre": ["Romanace"],
         "link": "https://www.youtube.com/watch?v=ktPD6TMovxs"
 
-    },
-   {
-    "id": 20,
-        "name": "Tere Sang Yaara ",
-        "lyrics": "https://www.azlyrics.com/lyrics/atifaslam/teresangyaara.html",
-        "album": "Rustom",
-        "Duration":" min  sec",
-        "singer": ["Atif Aslam"],
-        "genre": ["Romantic","slow"],
-        "link": "https://youtu.be/gIOea2pgfIo"
-}
+    }
+    ,
+   
+    {
+        "id": 20,
+        "name": "Kabira",
+        "lyrics": "https://gaana.com/lyrics/kabira-1",
+        "album": "Yeh Jawaani Hai Deewani",
+        "Duration":"4 min 11 sec",
+        "singer": ["TOCHI RAINA", "REKHA BHARDWAJ"],
+        "genre": ["Romanace"],
+        "link": "https://www.youtube.com/watch?v=jHNNMj5bNQw&list=PLP-07VKxSomFxGPP9Sa1lUBI_zTyGWHtu&index=10"
 
-    
+    }
+
 ]
