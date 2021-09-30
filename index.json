@@ -343,6 +343,16 @@
         "singer": ["Bombay Jayashree"],
         "genre": ["Romantic"],
         "link": "https://youtu.be/MB6bUI5uaoc"
-    }
+    },
+{
+        "id": 31,
+        "name": "O Saathi",
+        "lyrics": "https://gaana.com/lyrics/o-saathi",
+        "album": "Baaghi 2",
+        "Duration":"4 min 30 sec",
+        "singer": ["Arko | Ahmed Khan Sajid Nadiadwala"],
+        "genre": ["Romantic"],
+        "link": "https://youtu.be/OX-h7MtkeOI"
+    },
 
 ]
