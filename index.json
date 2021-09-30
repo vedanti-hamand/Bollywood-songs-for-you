@@ -168,5 +168,16 @@
         "singer": ["MC STAN"],
         "genre": ["Motivation","Pop"],
         "link": "https://youtu.be/YdIxAdTDpWU"
+    },
+   
+    {
+        "id": 18,
+        "name": "Humnava",
+        "lyrics": "https://www.azlyrics.com/lyrics/arijitsingh/hamariadhurikahani.html",
+        "album": "Humari Adhuri Kahani",
+        "Duration":"6 min 19 sec",
+        "singer": ["Papoon","Mithoon"],
+        "genre": ["Romanace"],
+        "link": "https://www.youtube.com/watch?v=ktPD6TMovxs"
     }
 ]
