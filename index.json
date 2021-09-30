@@ -360,7 +360,6 @@
         "genre": ["Romantic"],
         "link": "https://youtu.be/2q_nsR_9xqY"
 },
-
 {
         "id": 35,
         "name": "Enna Sona",
@@ -369,8 +368,7 @@
         "Duration":"3 min 51 sec",
         "singer": ["Arijit Singh"],
         "link":"https://youtu.be/ofTxceS4wLI"
-}
-
+},
 {
         "id": 24,
         "name": "Qaafirana",
