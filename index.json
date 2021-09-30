@@ -160,8 +160,16 @@
         "link": "https://www.youtube.com/watch?v=atVof3pjT-I"
     },
     {
-
         "id": 17,
+        "name": "Raftaarein"",
+        "lyrics": "https://www.indicine.com/movies/lyrics/raftaarein-lyrics-ra-one/",
+        "album": "Ra.One",
+        "Duration":4 min 45 sec",
+        "singer": ["Vishal Dadlani"],
+        "genre": ["Pop"],
+        "link": "https://www.youtube.com/watch?v=MlE-GojmNwM&ab_channel=T-Series"
+},
+{"id" :18,
         "name": "Aoi shiori",
         "lyrics": "https://www.smule.com/song/galileo-galilei-aoi-shiori-full-romaji-karaoke-lyrics/796913691_2920463/arrangement",
         "album": "",
@@ -171,7 +179,7 @@
         "link": "https://www.youtube.com/results?search_query=aoi+shiori"
 },
 {
-        "id": 18,
+        "id": 19,
         "name": "Broke is a Joke",
         "lyrics": "https://genius.com/Mc-stan-broke-is-a-joke-lyrics",
         "album": "Broke is a Joke",
@@ -182,7 +190,7 @@
     },
    
     {
-        "id": 19,
+        "id": 20,
         "name": "Humnava",
         "lyrics": "https://www.azlyrics.com/lyrics/arijitsingh/hamariadhurikahani.html",
         "album": "Humari Adhuri Kahani",
@@ -190,12 +198,9 @@
         "singer": ["Papoon","Mithoon"],
         "genre": ["Romanace"],
         "link": "https://www.youtube.com/watch?v=ktPD6TMovxs"
-
     },
-
-    
     {
-        "id": 20,
+        "id": 21,
         "name": "chand sa roshan chehra",
         "lyrics": "https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwiH9dL_nqfzAhWY8XMBHVfGAHoQFnoECBkQAQ&url=https%3A%2F%2Fwww.ajoobalyrics.com%2Fyeh-chaand-sa-roshan-chehra-lyrics-kashmir-ki-kali%2F&usg=AOvVaw0-My_DvQrryllZKs_xQUOu",
         "album": "Tamannaah.",
@@ -205,10 +210,9 @@
         "link": "https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwiH9dL_nqfzAhWY8XMBHVfGAHoQwqsBegQIBBAB&url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DVueN49P7JyU&usg=AOvVaw2i5UokZjIkxpd936yhE5y"
 
     },
-
-   
     {
-        "id": 21,
+
+        "id": 22,
         "name": "Kabira",
         "lyrics": "https://gaana.com/lyrics/kabira-1",
         "album": "Yeh Jawaani Hai Deewani",
@@ -216,12 +220,9 @@
         "singer": ["TOCHI RAINA", "REKHA BHARDWAJ"],
         "genre": ["Romanace"],
         "link": "https://www.youtube.com/watch?v=jHNNMj5bNQw&list=PLP-07VKxSomFxGPP9Sa1lUBI_zTyGWHtu&index=10"
-
     },
-
-   
     {
-        "id": 22,
+        "id": 23,
         "name": "Tu Chale",
         "lyrics": "https://gaana.com/lyrics/tu-chale",
         "album": "I",
@@ -231,9 +232,8 @@
         "link": "https://www.youtube.com/watch?v=iMuZRXsE7KI"
 
     },
-
     {
-        "id": 23,
+        "id": 24,
         "name": "Tu Hai Ki Nahi",
         "lyrics": "https://gaana.com/lyrics/tu-hai-ki-nahi",
         "album": "Roy",
@@ -241,12 +241,9 @@
         "singer": ["Ankit Tiwari"],
         "genre": ["Romanace"],
         "link": "https://www.youtube.com/watch?v=61floBUAiTY"
-
-
     },
-
     {
-        "id": 24,
+        "id": 25,
         "name": "LAAL ISHQ",
         "lyrics": "https://www.azlyrics.com/lyrics/arijitsingh/laalishq.html",
         "album": "Goliyon Ki Raasleela Ram-leela",
@@ -256,7 +253,7 @@
         "link": "https://www.youtube.com/watch?v=PycY_BqbWaw"
     },
   {
-        "id": 25,
+        "id": 26,
         "name": "Saibo",
         "lyrics": "https://gaana.com/lyrics/saibo-1",
         "album": "Shor in the City ",
@@ -265,9 +262,8 @@
         "genre": ["Filmi, Pop"],
         "link": "youtube.com/watch?v=P_HrHdFvcsg"
     },
-    
     {
-        "id": 26,
+        "id": 27,
         "name": "Mumbai Dance",
         "lyrics": "",
         "album": "Bass Rani",
@@ -275,10 +271,5 @@
         "singer": ["Nucleya"],
         "genre": ["EDM"],
         "link": "https://www.youtube.com/watch?v=f0DkVn-joQc"
-
     }
-    
-    
-    
-    
 ]
