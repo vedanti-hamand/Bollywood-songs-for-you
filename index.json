@@ -333,8 +333,17 @@
         "singer": ["Lata Mangeshkar"],
         "genre": ["Romantic"],
         "link": "https://www.youtube.com/watch?v=V7LwfY5U5WI"
-
-}, 
+},
+{
+        "id": 33,
+        "name": "Peaches-Justin Beiber",
+        "lyrics": "https://genius.com/Justin-bieber-peaches-lyrics",
+        "album": "Justin Beiber",
+        "Duration":"3 min 18 sec",
+        "singer": ["Justin Beiber"],
+        "genre": ["Justice"],
+        "link": "https://youtu.be/tQ0yjYUFKAE"
+},
 {
         "id": 35,
         "name": "Tum Hi Ho",
@@ -354,7 +363,8 @@
         "lyrics": "https://www.lyrics.com/lyric/28653018/Kishore+Kumar/Saagar+Kinare",
         "album": "Saagar Kinare-Saagar
         "Duration":"3 min 45 sec",
-        "singer": ["Lata Mangeshkar","Kishore Kumar"],
+        "singer": ["Lata Mangeshkar","Kishore Kumar"]
+},
 
 },
 {
@@ -364,12 +374,31 @@
         "album": "M.S.Dhoni",
         "Duration":"4 min 6 sec",
         "singer": ["Bombay Jayashree"],
-
         "genre": ["Romantic"],
         "link": "https://youtu.be/2q_nsR_9xqY"
+    },
+
+{
+    "id":34,
+    "name":"Genda Phool",
+    "lyrics":"https://gaana.com/lyrics/genda-phool-6",
+    "albhum":"Genda Phool"
+    "Duration":"02:48",
+    "singer":["Badshah, Payal Dev"],
+     "genre":[" Indian pop"],
+     "link":"https://youtu.be/SD4Z8dlZPd8"
 },
 {
-        "id": 24,
+        "id": 35,
+        "name": "Enna Sona",
+        "lyrics": "https://www.azlyrics.com/lyrics/arijitsingh/ennasona.html",
+        "album": "Ok Jaanu",
+        "Duration":"3 min 51 sec",
+        "singer": ["Arijit Singh"],
+        "link":"https://youtu.be/ofTxceS4wLI"
+},
+{
+        "id": 36,
         "name": "Qaafirana",
         "lyrics": "https://www.lyricsmint.com/kedarnath/qaafirana",
         "album": "Kedarnath",
@@ -378,9 +407,8 @@
         "genre": ["Romantic"],
         "link": "https://www.youtube.com/watch?v=ZmcBC9-wAXM"
 },
-
 {
-            "id": 43,
+            "id": 37,
             "name": "Te Amo",
             "lyrics": "https://www.lyricsmint.com/dum-maaro-dum/te-amo",
             "album": "Dum Maaro Dum",
@@ -388,6 +416,35 @@
             "singer": ["Ash King, Sunidhi Chauhan"],
             "genre": ["Romantic"],
             "link": "https://youtu.be/lPXdn-pR8mI"
- }
-
+ },
+{
+        "id": 38,
+        "name": "Heropanti : Raat Bhar ",
+        "lyrics": "https://youtu.be/4KFVySixs_E",
+        "album": "Heropanti",
+        "Duration":"2 min 28 sec",
+        "singer": ["Arijit Singh, Shreya Ghoshal"],
+        "genre": ["Romantic","Pop","Hindi"],
+        "link":""
+},
+{
+        "id": 39,
+        "name": "Main Shayar To Nahin ",
+        "lyrics": "https://www.youtube.com/watch?v=jmeMg-gm1Us",
+        "album": "Main Shayar ",
+        "Duration":"4 min 57 sec",
+        "singer": ["Kishor Kumar, Shreya Bhosle"],
+        "genre": ["Romantic","Hindi"],
+        "link":"https://www.youtube.com/watch?v=jmeMg-gm1Us"
+},
+{
+        "id": 40,
+        "name": "Banjaara",
+        "lyrics": "https://www.lyricsmint.com/ek-villain/banjaara-mohd-irfan",
+        "album": "Ek Villain",
+        "Duration":"5 min 34 sec",
+        "singer": ["Mohammed Irfan"],
+        "genre": ["Romantic"],
+        "link": "https://www.youtube.com/watch?v=0NFxcNheoLc"
+}
 ]
