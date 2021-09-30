@@ -191,8 +191,7 @@
         "genre": ["Romanace"],
         "link": "https://www.youtube.com/watch?v=ktPD6TMovxs"
 
-    }
-    ,
+    },
    
     {
         "id": 20,
@@ -206,8 +205,21 @@
 
     },
 
+   
     {
         "id": 21,
+        "name": "Tu Chale",
+        "lyrics": "https://gaana.com/lyrics/tu-chale",
+        "album": "I",
+        "Duration":"4 min 52 sec",
+        "singer": ["ARIJIT SINGH", "SHREYA GHOSHAL"],
+        "genre": ["Romanace"],
+        "link": "https://www.youtube.com/watch?v=iMuZRXsE7KI"
+
+    },
+
+    {
+        "id": 22,
         "name": "Tu Hai Ki Nahi",
         "lyrics": "https://gaana.com/lyrics/tu-hai-ki-nahi",
         "album": "Roy",
@@ -215,6 +227,7 @@
         "singer": ["Ankit Tiwari"],
         "genre": ["Romanace"],
         "link": "https://www.youtube.com/watch?v=61floBUAiTY"
+
 
     }
 ]
