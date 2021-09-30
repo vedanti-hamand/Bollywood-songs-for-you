@@ -192,9 +192,23 @@
         "link": "https://www.youtube.com/watch?v=ktPD6TMovxs"
 
     },
-   
+
+    
     {
         "id": 20,
+        "name": "chand sa roshan chehra",
+        "lyrics": "https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwiH9dL_nqfzAhWY8XMBHVfGAHoQFnoECBkQAQ&url=https%3A%2F%2Fwww.ajoobalyrics.com%2Fyeh-chaand-sa-roshan-chehra-lyrics-kashmir-ki-kali%2F&usg=AOvVaw0-My_DvQrryllZKs_xQUOu",
+        "album": "Tamannaah.",
+        "Duration":"6 min 19 sec",
+        "singer": ["Udit Narayan","Mithoon"],
+        "genre": ["Romanace"],
+        "link": "https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwiH9dL_nqfzAhWY8XMBHVfGAHoQwqsBegQIBBAB&url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DVueN49P7JyU&usg=AOvVaw2i5UokZjIkxpd936yhE5y"
+
+    },
+
+   
+    {
+        "id": 21,
         "name": "Kabira",
         "lyrics": "https://gaana.com/lyrics/kabira-1",
         "album": "Yeh Jawaani Hai Deewani",
@@ -207,7 +221,7 @@
 
    
     {
-        "id": 21,
+        "id": 22,
         "name": "Tu Chale",
         "lyrics": "https://gaana.com/lyrics/tu-chale",
         "album": "I",
@@ -219,7 +233,7 @@
     },
 
     {
-        "id": 22,
+        "id": 23,
         "name": "Tu Hai Ki Nahi",
         "lyrics": "https://gaana.com/lyrics/tu-hai-ki-nahi",
         "album": "Roy",
