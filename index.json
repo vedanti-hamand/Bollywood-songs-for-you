@@ -46,7 +46,7 @@
         "album": "Sheershaah",
         "Duration":"3 min 50 sec",
         "singer": ["B Praak"],
-        "genre": ["Emotional","slow","sad"],
+        "genre": ["Emotional","slow","sad","Punjabi"],
         "link": "https://youtu.be/1poXN3jF3Bw"
     },
     {
@@ -56,7 +56,7 @@
         "album": "Sheershaah",
         "Duration":"3 min 40 sec",
         "singer": ["Darshan Raval"],
-        "genre": ["Emotional","slow","sad","Romantic"],
+        "genre": ["Emotional","slow","sad","Romantic","Punjabi"],
         "link": "https://youtu.be/ByIZIKFmHOA"
     },
     {
@@ -65,7 +65,7 @@
         "lyrics": "https://www.ilyricshub.com/raataan-lambiyan-shershaah/",
         "album": "Sheershaah",
         "Duration":"2 min 31 sec",
-        "singer": ["Jubin Nautiyal","Asees Kaur"],
+        "singer": ["Jubin Nautiyal","Asees Kaur","Punjabi"],
         "genre": ["Romantic","slow"],
         "link": "https://youtu.be/gvyUuxdRdR4"
     },
@@ -75,8 +75,78 @@
         "lyrics": "https://www.ilyricshub.com/ranjha-shershaah-b-praak/",
         "album": "Sheershaah",
         "Duration":"3 min 13 sec",
-        "singer": ["B Praak","Jasleen Royal"],
+        "singer": ["B Praak","Jasleen Royal","Punjabi"],
         "genre": ["Romantic","slow"],
         "link": "https://youtu.be/V7LwfY5U5WI"
+    },
+    {
+        "id": 9,
+        "name": "Pani Da Rang",
+        "lyrics": "https://www.lyricsmint.com/vicky-donor/pani-da-rang",
+        "album": "Vicky Donor",
+        "Duration":"4 min 05 sec",
+        "singer": ["Ayushmann Khurrana"],
+        "genre": ["Romantic","Pop","Punjabi"],
+        "link": "https://youtu.be/2kgEc6oH9J0"
+    }, 
+    {
+        "id": 10,
+        "name": "Mere Liye Tum Kaafi Ho",
+        "lyrics": "https://gaana.com/lyrics/mere-liye-tum-kaafi-ho-from-shubh-mangal-zyada-saavdhan",
+        "album": "Shubh Mangal Zyada Saavdhan",
+        "Duration":"2 min 05 sec",
+        "singer": ["Ayushman Khurana"],
+        "genre": ["Romantic","Friendship"],
+        "link": "https://youtu.be/5LBB6OV3Ano"
+    },
+    {
+        "id": 11,
+        "name": "Rang De Basanti",
+        "lyrics": "https://www.hinditracks.in/mohe-rang-de-basanti-lyrics",
+        "album": "Rang De Basanti",
+        "Duration":"5 min 40 sec",
+        "singer": ["Daler Mehndi"],
+        "genre": ["Film Sountrack","Punjabi"],
+        "link": "https://youtu.be/5LBB6OV3Ano"
+    },
+    {
+        "id": 12,
+        "name": "Senorita",
+        "lyrics": "https://gaana.com/lyrics/senorita-17",
+        "album": "Zindagi Na Milegi Dobara",
+        "Duration":"3 min 51 sec",
+        "singer": ["Farhan Akhtar"," Hrithik Roshan","Abhay Deol"],
+        "genre": ["Dance","Disco"],
+        "link": "https://youtu.be/yDv0WSgXJVg"
+    },
+    {
+        "id": 13,
+        "name": "Slow Motion Angreza",
+        "lyrics": "https://gaana.com/lyrics/slow-motion-angreza",
+        "album": "Bhaag Milkha Bhaag",
+        "Duration":"4 min 54 sec",
+        "singer": ["Slow Motion Angreza","Shankar Mahadevan","Loy Mendonsa"],
+        "genre": ["Dance","Disco"],
+        "link": "https://youtu.be/60vIVA5AZ9M"
+    },
+    {
+        "id": 14,
+        "name": "Sooraj Ki Baahon Mein",
+        "lyrics": "https://gaana.com/lyrics/sooraj-ki-baahon-mein-1",
+        "album": "Zindagi Na Milegi Dobara",
+        "Duration":"3 min 22 sec",
+        "singer": ["Clinton Cerejo","Loy Mendonsa","Dominique Cerejo"],
+        "genre": ["Chill","Motivation","Travel"],
+        "link": "https://youtu.be/gnrSX7TQJqU"
+    },
+    {
+        "id": 15,
+        "name": "Naina Da Kya Kasoor",
+        "lyrics": "https://www.lyricsbell.com/naina-da-kya-kasoor-andhadhun/",
+        "album": "Andhadhun",
+        "Duration":"3 min 30 sec",
+        "singer": ["Amit Trivedi"],
+        "genre": ["Pop","Romantic"],
+        "link": "https://youtu.be/WwvVUbllNkM"
     }
 ]
