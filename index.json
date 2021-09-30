@@ -298,9 +298,21 @@
         "genre": ["Romantic"],
         "link": "https://www.youtube.com/watch?v=V7LwfY5U5WI"
 },
-{
+
+ {
 
         "id": 20,
+        "name": "aarambh hai prachand",
+        "lyrics": "https://www.hinditracks.in/aarambh-hai-prachand-lyrics-in-hindi-gulaal",
+        "album": "Gulaal",
+        "Duration":"4 min 55 sec",
+        "singer": ["Piyush Mishra"],
+        "genre": ["Motivational"],
+        "link": "https://www.youtube.com/watch?v=x9feF5rtMAc"
+ },
+{
+
+        "id": 21,
         "name": "Snake",
         "lyrics": "https://genius.com/Mc-stan-snake-lyrics",
         "album": "Snake",
@@ -308,6 +320,7 @@
         "singer": ["MC STAN"],
         "genre": ["Motivation", "Pop"],
         "link": "https://youtu.be/DSb7tmVcZm4"
+
 }
 
 ]
