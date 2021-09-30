@@ -289,7 +289,7 @@
     },
  {
 
-        "id": 19,
+        "id": 29,
         "name": "ranjha",
         "lyrics": "https://www.hinditracks.in/ranjha-lyrics",
         "album": "Shershaah",
@@ -297,6 +297,17 @@
         "singer": ["B Praak","Jasleen Royal"],
         "genre": ["Romantic"],
         "link": "https://www.youtube.com/watch?v=V7LwfY5U5WI"
+},
+{
+
+        "id": 30,
+        "name": "Sooraj Dooba Hain",
+        "lyrics": "https://gaana.com/lyrics/sooraj-dooba-hain-yaaron",
+        "album": "Roy",
+        "Duration":"4 min 24 sec",
+        "singer": ["Aditi Singh Sharma","Arijit Singh","Amaal Mallik"],
+        "genre": ["Party"],
+        "link": "https://www.youtube.com/watch?v=nJZcbidTutE"
 }
 
 ]
