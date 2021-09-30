@@ -335,6 +335,16 @@
         "link": "https://www.youtube.com/watch?v=V7LwfY5U5WI"
 },
 {
+        "id": 25,
+        "name": "Namo Namo",
+        "lyrics": "https://www.lyricsmint.com/kedarnath/namo-namo",
+        "album": "Kedarnath",
+        "Duration":"5 min 22 sec",
+        "singer": ["Amit Trivedi"],
+        "genre": ["Classic"],
+        "link": "https://www.youtube.com/watch?v=HFX6AZ5bDDo"
+},
+{
         "id": 35,
         "name": "Tum Hi Ho",
         "lyrics": "https://www.indicine.com/movies/lyrics/tum-hi-ho-lyrics-aashiqui-2/",
@@ -356,7 +366,6 @@
         "singer": ["Lata Mangeshkar","Kishore Kumar"]
 },
 
-},
 {
         "id": 34,
         "name": "Zara Zara by Maadhyam",
