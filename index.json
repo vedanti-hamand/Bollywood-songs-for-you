@@ -289,7 +289,7 @@
     },
  {
 
-        "id": 29,
+        "id": 19,
         "name": "ranjha",
         "lyrics": "https://www.hinditracks.in/ranjha-lyrics",
         "album": "Shershaah",
@@ -302,7 +302,7 @@
 
  {
 
-        "id": 30,
+        "id": 20,
         "name": "aarambh hai prachand",
         "lyrics": "https://www.hinditracks.in/aarambh-hai-prachand-lyrics-in-hindi-gulaal",
         "album": "Gulaal",
@@ -313,7 +313,7 @@
  },
 {
 
-        "id": 31,
+        "id": 21,
         "name": "Snake",
         "lyrics": "https://genius.com/Mc-stan-snake-lyrics",
         "album": "Snake",
@@ -323,9 +323,9 @@
         "link": "https://youtu.be/DSb7tmVcZm4"
 
 
-},
+}
 {
-        "id": 32,
+        "id": 22,
         "name": "Tujhse Naraz Nahi Zindagi - Sanam",
         "lyrics": "https://www.hinditracks.in/ranjha-lyrics",
         "album": "SANAM",
@@ -333,6 +333,16 @@
         "singer": ["Lata Mangeshkar"],
         "genre": ["Romantic"],
         "link": "https://www.youtube.com/watch?v=V7LwfY5U5WI"
-}
+},
+  {
+        "id": 30,
+        "name": "Zara Zara by Maadhyam",
+        "lyrics": "https://youtu.be/MB6bUI5uaoc",
+        "album": "M.S.Dhoni",
+        "Duration":"4 min 6 sec",
+        "singer": ["Bombay Jayashree"],
+        "genre": ["Romantic"],
+        "link": "https://youtu.be/MB6bUI5uaoc"
+    }
 
 ]
