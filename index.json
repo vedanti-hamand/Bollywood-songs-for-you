@@ -159,6 +159,7 @@
         "genre": ["Romantic"],
         "link": "https://www.youtube.com/watch?v=atVof3pjT-I"
     },
+
     {
         "id": 18,
         "name": "Arziyan",
@@ -168,5 +169,15 @@
         "singer": ["Javed Ali", "Kailash Kher"],
         "genre": ["Sufi"],
         "link": "https://www.youtube.com/watch?v=JA09HEGTzCU"
+    },
+   {
+        "id": 17,
+        "name": "Humnava",
+        "lyrics": "https://www.azlyrics.com/lyrics/arijitsingh/hamariadhurikahani.html",
+        "album": " (2015)",
+        "Duration":"6 min 19 sec",
+        "singer": ["Papoon","Mithun"],
+        "genre": ["Romantic"],
+        "link": "https://www.youtube.com/watch?v=ktPD6TMovxs"
     }
 ]
