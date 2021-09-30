@@ -204,6 +204,17 @@
         "genre": ["Romanace"],
         "link": "https://www.youtube.com/watch?v=jHNNMj5bNQw&list=PLP-07VKxSomFxGPP9Sa1lUBI_zTyGWHtu&index=10"
 
-    }
+    },
 
+    {
+        "id": 21,
+        "name": "Tu Hai Ki Nahi",
+        "lyrics": "https://gaana.com/lyrics/tu-hai-ki-nahi",
+        "album": "Roy",
+        "Duration":"5 min 33 sec",
+        "singer": ["Ankit Tiwari"],
+        "genre": ["Romanace"],
+        "link": "https://www.youtube.com/watch?v=61floBUAiTY"
+
+    }
 ]
