@@ -191,6 +191,17 @@
         "genre": ["Romanace"],
         "link": "https://www.youtube.com/watch?v=ktPD6TMovxs"
 
-    }
+    },
+   {
+    "id": 20,
+        "name": "Tere Sang Yaara ",
+        "lyrics": "https://www.azlyrics.com/lyrics/atifaslam/teresangyaara.html",
+        "album": "Rustom",
+        "Duration":" min  sec",
+        "singer": ["Atif Aslam"],
+        "genre": ["Romantic","slow"],
+        "link": "https://youtu.be/gIOea2pgfIo"
+}
 
+    
 ]
