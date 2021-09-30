@@ -191,8 +191,7 @@
         "genre": ["Romanace"],
         "link": "https://www.youtube.com/watch?v=ktPD6TMovxs"
 
-    }
-    ,
+    },
    
     {
         "id": 20,
@@ -203,6 +202,18 @@
         "singer": ["TOCHI RAINA", "REKHA BHARDWAJ"],
         "genre": ["Romanace"],
         "link": "https://www.youtube.com/watch?v=jHNNMj5bNQw&list=PLP-07VKxSomFxGPP9Sa1lUBI_zTyGWHtu&index=10"
+
+    },
+   
+    {
+        "id": 21,
+        "name": "Tu Chale",
+        "lyrics": "https://gaana.com/lyrics/tu-chale",
+        "album": "I",
+        "Duration":"4 min 52 sec",
+        "singer": ["ARIJIT SINGH", "SHREYA GHOSHAL"],
+        "genre": ["Romanace"],
+        "link": "https://www.youtube.com/watch?v=iMuZRXsE7KI"
 
     }
 
