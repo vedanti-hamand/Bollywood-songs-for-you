@@ -345,7 +345,8 @@
         "lyrics": "https://www.lyrics.com/lyric/28653018/Kishore+Kumar/Saagar+Kinare",
         "album": "Saagar Kinare-Saagar
         "Duration":"3 min 45 sec",
-        "singer": ["Lata Mangeshkar","Kishore Kumar"],
+        "singer": ["Lata Mangeshkar","Kishore Kumar"]
+},
 
   {
         "id": 34,
@@ -357,6 +358,15 @@
 
         "genre": ["Romantic"],
         "link": "https://youtu.be/2q_nsR_9xqY"
+},
+{
+        "id": 35,
+        "name": "Enna Sona",
+        "lyrics": "https://www.azlyrics.com/lyrics/arijitsingh/ennasona.html",
+        "album": "Ok Jaanu",
+        "Duration":"3 min 51 sec",
+        "singer": ["Arijit Singh"],
+        "link":"https://youtu.be/ofTxceS4wLI"
 }
 {
         "id": 24,
