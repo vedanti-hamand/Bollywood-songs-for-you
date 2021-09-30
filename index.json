@@ -446,5 +446,15 @@
         "singer": ["Mohammed Irfan"],
         "genre": ["Romantic"],
         "link": "https://www.youtube.com/watch?v=0NFxcNheoLc"
+},
+{
+        "id": 47,
+        "name": "Ilahi",
+        "lyrics": "https://www.lyricsmint.com/yjhd/ilahi",
+        "album": "Yeh Jawaani Hai Deewani",
+        "Duration": "3 min 48 sec",
+        "singer": ["Pritam", "Arijit Singh"],
+        "genre": ["Pop", "Celtic","Hindi"],
+        "link": "https://www.youtube.com/watch?v=fdubeMFwuGs"
 }
 ]
