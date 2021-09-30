@@ -6,7 +6,7 @@
         "album": "My Name is Khan (2010)",
         "Duration":"4 min 58 sec",
         "singer": ["Rahat Fateh Ali Khan","Shankar Mahadevan","Richa Sharma"],
-        "genre": ["Romantic", "Bollywoood"],
+        "genre": ["Romantic"],
         "link": "https://youtu.be/3rPEWcY6Oww"
     },
     {
@@ -16,7 +16,7 @@
         "album": "2 States",
         "Duration":"4 min 40 sec",
         "singer": ["Arijit Singh","Chinmayi Sripada"],
-        "genre": ["Romantic", "Bollywoood","slow","lofi"],
+        "genre": ["Romantic","slow","lofi"],
         "link": "https://youtu.be/fXRvluHnjxE"
     },
     {
@@ -26,7 +26,57 @@
         "album": "Khatta Meetha",
         "Duration":"5 min 5 sec",
         "singer": ["Pritam","K.K","Sunidhi Chauhan"],
-        "genre": ["Romantic", "Bollywoood","slow"],
+        "genre": ["Romantic","slow"],
         "link": "https://youtu.be/zfABYXP_NSA"
+    },
+    {
+        "id": 4,
+        "name": "Kholo Kholo",
+        "lyrics": "https://gaana.com/lyrics/kholo-kholo",
+        "album": "Taare Zameen Par",
+        "Duration":"6 min 34 sec",
+        "singer": ["Raman Mahadevan"],
+        "genre": ["Motivation","Pop"],
+        "link": "https://youtu.be/FIaUYKLg5S4"
+    },
+    {
+        "id": 5,
+        "name": "Mann Bharryaa 2.0",
+        "lyrics": "https://www.ilyricshub.com/mann-bharrya-2-0-shershaah-b-praak/",
+        "album": "Sheershaah",
+        "Duration":"3 min 50 sec",
+        "singer": ["B Praak"],
+        "genre": ["Emotional","slow","sad"],
+        "link": "https://youtu.be/1poXN3jF3Bw"
+    },
+    {
+        "id": 6,
+        "name": "Kabhii Tumhhe",
+        "lyrics": "https://www.ilyricshub.com/kabhi-tumhe-shershaah-darshan-raval/",
+        "album": "Sheershaah",
+        "Duration":"3 min 40 sec",
+        "singer": ["Darshan Raval"],
+        "genre": ["Emotional","slow","sad","Romantic"],
+        "link": "https://youtu.be/ByIZIKFmHOA"
+    },
+    {
+        "id": 7,
+        "name": "Raataan Lambiyan",
+        "lyrics": "https://www.ilyricshub.com/raataan-lambiyan-shershaah/",
+        "album": "Sheershaah",
+        "Duration":"2 min 31 sec",
+        "singer": ["Jubin Nautiyal","Asees Kaur"],
+        "genre": ["Romantic","slow"],
+        "link": "https://youtu.be/gvyUuxdRdR4"
+    },
+    {
+        "id": 8,
+        "name": "Ranjha ",
+        "lyrics": "https://www.ilyricshub.com/ranjha-shershaah-b-praak/",
+        "album": "Sheershaah",
+        "Duration":"3 min 13 sec",
+        "singer": ["B Praak","Jasleen Royal"],
+        "genre": ["Romantic","slow"],
+        "link": "https://youtu.be/V7LwfY5U5WI"
     }
 ]
