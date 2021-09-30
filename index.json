@@ -289,7 +289,7 @@
     },
  {
 
-        "id": 19,
+        "id": 29,
         "name": "ranjha",
         "lyrics": "https://www.hinditracks.in/ranjha-lyrics",
         "album": "Shershaah",
@@ -302,7 +302,7 @@
 
  {
 
-        "id": 20,
+        "id": 30,
         "name": "aarambh hai prachand",
         "lyrics": "https://www.hinditracks.in/aarambh-hai-prachand-lyrics-in-hindi-gulaal",
         "album": "Gulaal",
@@ -313,7 +313,7 @@
  },
 {
 
-        "id": 21,
+        "id": 31,
         "name": "Snake",
         "lyrics": "https://genius.com/Mc-stan-snake-lyrics",
         "album": "Snake",
@@ -325,7 +325,7 @@
 
 },
 {
-        "id": 22,
+        "id": 32,
         "name": "Tujhse Naraz Nahi Zindagi - Sanam",
         "lyrics": "https://www.hinditracks.in/ranjha-lyrics",
         "album": "SANAM",
@@ -333,16 +333,6 @@
         "singer": ["Lata Mangeshkar"],
         "genre": ["Romantic"],
         "link": "https://www.youtube.com/watch?v=V7LwfY5U5WI"
-},
-{
-        "id": 25,
-        "name": "Namo Namo",
-        "lyrics": "https://www.lyricsmint.com/kedarnath/namo-namo",
-        "album": "Kedarnath",
-        "Duration":"5 min 22 sec",
-        "singer": ["Amit Trivedi"],
-        "genre": ["Classic"],
-        "link": "https://www.youtube.com/watch?v=HFX6AZ5bDDo"
 },
 {
         "id": 35,
@@ -366,6 +356,7 @@
         "singer": ["Lata Mangeshkar","Kishore Kumar"]
 },
 
+},
 {
         "id": 34,
         "name": "Zara Zara by Maadhyam",
@@ -376,19 +367,7 @@
         "genre": ["Romantic"],
         "link": "https://youtu.be/MB6bUI5uaoc"
     },
- {
-        "id": 35,
-        "name": "FRIENDS",
-        "lyrics": "https://www.azlyrics.com/lyrics/marshmello/friends.html",
-        "album": "FRIENDS",
-        "Duration":"3 min 51 sec",
-        "singer": ["Marshmello & Anne-Marie "],
-        "genre": ["Romance"],
-        "link": "https://youtu.be/jzD_yyEcp0M"
 
-          
-
-    },
 {
     "id":34,
     "name":"Genda Phool",
@@ -437,6 +416,16 @@
         "singer": ["Arijit Singh, Shreya Ghoshal"],
         "genre": ["Romantic","Pop","Hindi"],
         "link":""
+},
+{
+        "id": 41,
+        "name": "Main Shayar To Nahin ",
+        "lyrics": "https://www.youtube.com/watch?v=jmeMg-gm1Us",
+        "album": "Main Shayar ",
+        "Duration":"4 min 57 sec",
+        "singer": ["Kishor Kumar, Shreya Bhosle"],
+        "genre": ["Romantic","Hindi"],
+        "link":"https://www.youtube.com/watch?v=jmeMg-gm1Us"
 }
 {
         "id": 46,
