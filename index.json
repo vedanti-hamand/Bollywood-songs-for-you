@@ -161,6 +161,7 @@
     },
     {
         "id": 17,
+
         "name": "Raftaarein"",
         "lyrics": "https://www.indicine.com/movies/lyrics/raftaarein-lyrics-ra-one/",
         "album": "Ra.One",
@@ -168,6 +169,27 @@
         "singer": ["Vishal Dadlani"],
         "genre": ["Pop"],
         "link": "https://www.youtube.com/watch?v=MlE-GojmNwM&ab_channel=T-Series"
+},
+{"id" :18,
+        "name": "Broke is a Joke",
+        "lyrics": "https://genius.com/Mc-stan-broke-is-a-joke-lyrics",
+        "album": "Broke is a Joke",
+        "Duration":"3 min 35 sec",
+        "singer": ["MC STAN"],
+        "genre": ["Motivation","Pop"],
+        "link": "https://youtu.be/YdIxAdTDpWU"
+    },
+   
+    {
+        "id": 19,
+        "name": "Humnava",
+        "lyrics": "https://www.azlyrics.com/lyrics/arijitsingh/hamariadhurikahani.html",
+        "album": "Humari Adhuri Kahani",
+        "Duration":"6 min 19 sec",
+        "singer": ["Papoon","Mithoon"],
+        "genre": ["Romanace"],
+        "link": "https://www.youtube.com/watch?v=ktPD6TMovxs"
+
     }
 
 ]
