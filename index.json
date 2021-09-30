@@ -161,7 +161,6 @@
     },
     {
         "id": 17,
-
         "name": "Raftaarein"",
         "lyrics": "https://www.indicine.com/movies/lyrics/raftaarein-lyrics-ra-one/",
         "album": "Ra.One",
@@ -171,6 +170,16 @@
         "link": "https://www.youtube.com/watch?v=MlE-GojmNwM&ab_channel=T-Series"
 },
 {"id" :18,
+        "name": "Aoi shiori",
+        "lyrics": "https://www.smule.com/song/galileo-galilei-aoi-shiori-full-romaji-karaoke-lyrics/796913691_2920463/arrangement",
+        "album": "",
+        "Duration":"2min",
+        "singer": ["Galileo Galilei"],
+        "genre": ["Romantic"],
+        "link": "https://www.youtube.com/results?search_query=aoi+shiori"
+},
+{
+        "id": 19,
         "name": "Broke is a Joke",
         "lyrics": "https://genius.com/Mc-stan-broke-is-a-joke-lyrics",
         "album": "Broke is a Joke",
@@ -181,7 +190,7 @@
     },
    
     {
-        "id": 19,
+        "id": 20,
         "name": "Humnava",
         "lyrics": "https://www.azlyrics.com/lyrics/arijitsingh/hamariadhurikahani.html",
         "album": "Humari Adhuri Kahani",
@@ -189,7 +198,18 @@
         "singer": ["Papoon","Mithoon"],
         "genre": ["Romanace"],
         "link": "https://www.youtube.com/watch?v=ktPD6TMovxs"
-
+    }
+    ,
+   
+    {
+        "id": 21,
+        "name": "Kabira",
+        "lyrics": "https://gaana.com/lyrics/kabira-1",
+        "album": "Yeh Jawaani Hai Deewani",
+        "Duration":"4 min 11 sec",
+        "singer": ["TOCHI RAINA", "REKHA BHARDWAJ"],
+        "genre": ["Romanace"],
+        "link": "https://www.youtube.com/watch?v=jHNNMj5bNQw&list=PLP-07VKxSomFxGPP9Sa1lUBI_zTyGWHtu&index=10"
     }
 
 ]
