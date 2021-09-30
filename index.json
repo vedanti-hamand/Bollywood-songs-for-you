@@ -203,7 +203,18 @@
         "genre": ["Romanace"],
         "link": "https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwiH9dL_nqfzAhWY8XMBHVfGAHoQwqsBegQIBBAB&url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DVueN49P7JyU&usg=AOvVaw2i5UokZjIkxpd936yhE5y"
 
-    }
+    },
    
+    {
+        "id": 20,
+        "name": "Kabira",
+        "lyrics": "https://gaana.com/lyrics/kabira-1",
+        "album": "Yeh Jawaani Hai Deewani",
+        "Duration":"4 min 11 sec",
+        "singer": ["TOCHI RAINA", "REKHA BHARDWAJ"],
+        "genre": ["Romanace"],
+        "link": "https://www.youtube.com/watch?v=jHNNMj5bNQw&list=PLP-07VKxSomFxGPP9Sa1lUBI_zTyGWHtu&index=10"
+
+    }
 
 ]
