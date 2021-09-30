@@ -334,5 +334,15 @@
         "genre": ["Romantic"],
         "link": "https://www.youtube.com/watch?v=V7LwfY5U5WI"
 }
+{
+        "id": 24,
+        "name": "Qaafirana",
+        "lyrics": "https://www.lyricsmint.com/kedarnath/qaafirana",
+        "album": "Kedarnath",
+        "Duration":"6 min 16 sec",
+        "singer": ["Amit Trivedi"],
+        "genre": ["Romantic"],
+        "link": "https://www.youtube.com/watch?v=ZmcBC9-wAXM"
+}
 
 ]
