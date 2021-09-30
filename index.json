@@ -130,14 +130,14 @@
         "link": "https://youtu.be/60vIVA5AZ9M"
     },
     {
-        "id": 13,
-        "name": "Lut Gaye",
-        "lyrics": "https://open.wynk.in/fNdMBBfHbeb",
-        "album": "Lut Gaye",
-        "Duration":"3 min 48 sec",
-        "singer": ["Jubin Nautiyal"],
-        "genre": ["Romantic"],
-        "link": "https://youtu.be/sCbbMZ-q4-I"
+        "id": 14,
+        "name": "Sooraj Ki Baahon Mein",
+        "lyrics": "https://gaana.com/lyrics/sooraj-ki-baahon-mein-1",
+        "album": "Zindagi Na Milegi Dobara",
+        "Duration":"3 min 22 sec",
+        "singer": ["Clinton Cerejo","Loy Mendonsa","Dominique Cerejo"],
+        "genre": ["Chill","Motivation","Travel"],
+        "link": "https://youtu.be/gnrSX7TQJqU"
     },
     {
         "id": 15,
@@ -227,6 +227,19 @@
         "singer": ["Ankit Tiwari"],
         "genre": ["Romanace"],
         "link": "https://www.youtube.com/watch?v=61floBUAiTY"
+
+
+    },
+
+    {
+        "id": 23,
+        "name": "LAAL ISHQ",
+        "lyrics": "https://www.azlyrics.com/lyrics/arijitsingh/laalishq.html",
+        "album": "Goliyon Ki Raasleela Ram-leela",
+        "Duration":"6 min 43 sec",
+        "singer": ["Arijit Singh"],
+        "genre": ["Romanace"],
+        "link": "https://www.youtube.com/watch?v=PycY_BqbWaw"
 
 
     }
