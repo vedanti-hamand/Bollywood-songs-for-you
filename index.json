@@ -148,7 +148,7 @@
         "singer": ["Amit Trivedi"],
         "genre": ["Pop","Romantic"],
         "link": "https://youtu.be/WwvVUbllNkM"
-    }
+    },
     {
         "id": 16,
         "name": "kaun tujhe",
@@ -160,7 +160,8 @@
         "link": "https://www.youtube.com/watch?v=atVof3pjT-I"
     },
     {
-        "id": 20,
+
+        "id": 17,
         "name": "Aoi shiori",
         "lyrics": "https://www.smule.com/song/galileo-galilei-aoi-shiori-full-romaji-karaoke-lyrics/796913691_2920463/arrangement",
         "album": "",
@@ -168,6 +169,28 @@
         "singer": ["Galileo Galilei"],
         "genre": ["Romantic"],
         "link": "https://www.youtube.com/results?search_query=aoi+shiori"
+},
+{
+        "id": 18,
+        "name": "Broke is a Joke",
+        "lyrics": "https://genius.com/Mc-stan-broke-is-a-joke-lyrics",
+        "album": "Broke is a Joke",
+        "Duration":"3 min 35 sec",
+        "singer": ["MC STAN"],
+        "genre": ["Motivation","Pop"],
+        "link": "https://youtu.be/YdIxAdTDpWU"
+    },
+   
+    {
+        "id": 19,
+        "name": "Humnava",
+        "lyrics": "https://www.azlyrics.com/lyrics/arijitsingh/hamariadhurikahani.html",
+        "album": "Humari Adhuri Kahani",
+        "Duration":"6 min 19 sec",
+        "singer": ["Papoon","Mithoon"],
+        "genre": ["Romanace"],
+        "link": "https://www.youtube.com/watch?v=ktPD6TMovxs"
+
     }
 
 ]
