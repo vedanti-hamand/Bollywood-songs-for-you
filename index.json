@@ -334,5 +334,14 @@
         "genre": ["Romantic"],
         "link": "https://www.youtube.com/watch?v=V7LwfY5U5WI"
 }
-
+{
+        "id": 25,
+        "name": "Namo Namo",
+        "lyrics": "https://www.lyricsmint.com/kedarnath/namo-namo",
+        "album": "Kedarnath",
+        "Duration":"5 min 22 sec",
+        "singer": ["Amit Trivedi"],
+        "genre": ["Classic"],
+        "link": "https://www.youtube.com/watch?v=HFX6AZ5bDDo"
+}
 ]
