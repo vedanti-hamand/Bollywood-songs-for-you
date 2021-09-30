@@ -158,5 +158,15 @@
         "singer": ["Palak Muchhal"],
         "genre": ["Romantic"],
         "link": "https://www.youtube.com/watch?v=atVof3pjT-I"
+    },
+    {
+        "id": 19,
+        "name": "ranjha",
+        "lyrics": "https://www.hinditracks.in/ranjha-lyrics",
+        "album": "Shershaah",
+        "Duration":"3 min 13 sec",
+        "singer": ["B Praak","Jasleen Royal"],
+        "genre": ["Romantic"],
+        "link": "https://www.youtube.com/watch?v=V7LwfY5U5WI"
     }
 ]
