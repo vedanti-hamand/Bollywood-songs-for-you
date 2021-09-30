@@ -69,16 +69,7 @@
         "genre": ["Romantic","slow"],
         "link": "https://youtu.be/gvyUuxdRdR4"
     },
-    {
-        "id": 8,
-        "name": "Ranjha ",
-        "lyrics": "https://www.ilyricshub.com/ranjha-shershaah-b-praak/",
-        "album": "Sheershaah",
-        "Duration":"3 min 13 sec",
-        "singer": ["B Praak","Jasleen Royal","Punjabi"],
-        "genre": ["Romantic","slow"],
-        "link": "https://youtu.be/V7LwfY5U5WI"
-    },
+    
     {
         "id": 9,
         "name": "Pani Da Rang",
@@ -354,7 +345,8 @@
         "lyrics": "https://www.lyrics.com/lyric/28653018/Kishore+Kumar/Saagar+Kinare",
         "album": "Saagar Kinare-Saagar
         "Duration":"3 min 45 sec",
-        "singer": ["Lata Mangeshkar","Kishore Kumar"],
+        "singer": ["Lata Mangeshkar","Kishore Kumar"]
+},
 
 },
 {
@@ -368,6 +360,17 @@
         "genre": ["Romantic"],
         "link": "https://youtu.be/2q_nsR_9xqY"
 },
+
+{
+        "id": 35,
+        "name": "Enna Sona",
+        "lyrics": "https://www.azlyrics.com/lyrics/arijitsingh/ennasona.html",
+        "album": "Ok Jaanu",
+        "Duration":"3 min 51 sec",
+        "singer": ["Arijit Singh"],
+        "link":"https://youtu.be/ofTxceS4wLI"
+}
+
 {
         "id": 24,
         "name": "Qaafirana",
@@ -378,7 +381,6 @@
         "genre": ["Romantic"],
         "link": "https://www.youtube.com/watch?v=ZmcBC9-wAXM"
 },
-
 {
             "id": 43,
             "name": "Te Amo",
@@ -388,6 +390,16 @@
             "singer": ["Ash King, Sunidhi Chauhan"],
             "genre": ["Romantic"],
             "link": "https://youtu.be/lPXdn-pR8mI"
- }
+ },
+{
+        "id": 40,
+        "name": "Heropanti : Raat Bhar ",
+        "lyrics": "https://youtu.be/4KFVySixs_E",
+        "album": "Heropanti",
+        "Duration":"2 min 28 sec",
+        "singer": ["Arijit Singh, Shreya Ghoshal"],
+        "genre": ["Romantic","Pop","Hindi"],
+        "link":""
+}
 
 ]
