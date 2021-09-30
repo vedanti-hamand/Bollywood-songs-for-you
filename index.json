@@ -333,6 +333,19 @@
         "singer": ["Lata Mangeshkar"],
         "genre": ["Romantic"],
         "link": "https://www.youtube.com/watch?v=V7LwfY5U5WI"
+
+}, 
+{
+        "id": 35,
+        "name": "Tum Hi Ho",
+        "lyrics": "https://www.indicine.com/movies/lyrics/tum-hi-ho-lyrics-aashiqui-2/",
+        "album": "Aashiqui 2",
+        "Duration":"04 minutes 21 seconds",
+        "singer": ["Arijit Singh"],
+        "genre": [" Acoustic music", "Filmi", "Indian pop"],
+        "link": "https://youtu.be/IJq0yyWug1k"
+    },
+
 },
 
 {
