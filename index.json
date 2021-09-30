@@ -69,7 +69,16 @@
         "genre": ["Romantic","slow"],
         "link": "https://youtu.be/gvyUuxdRdR4"
     },
-    
+    {
+        "id": 8,
+        "name": "Ranjha ",
+        "lyrics": "https://www.ilyricshub.com/ranjha-shershaah-b-praak/",
+        "album": "Sheershaah",
+        "Duration":"3 min 13 sec",
+        "singer": ["B Praak","Jasleen Royal","Punjabi"],
+        "genre": ["Romantic","slow"],
+        "link": "https://youtu.be/V7LwfY5U5WI"
+    },
     {
         "id": 9,
         "name": "Pani Da Rang",
@@ -324,68 +333,26 @@
         "singer": ["Lata Mangeshkar"],
         "genre": ["Romantic"],
         "link": "https://www.youtube.com/watch?v=V7LwfY5U5WI"
-
-}, 
-{
-        "id": 35,
-        "name": "Tum Hi Ho",
-        "lyrics": "https://www.indicine.com/movies/lyrics/tum-hi-ho-lyrics-aashiqui-2/",
-        "album": "Aashiqui 2",
-        "Duration":"04 minutes 21 seconds",
-        "singer": ["Arijit Singh"],
-        "genre": [" Acoustic music", "Filmi", "Indian pop"],
-        "link": "https://youtu.be/IJq0yyWug1k"
-    },
-
 },
-
-{
-        "id": 33,
-        "name": "Saagar Kinare-Sagar(1985)",
-        "lyrics": "https://www.lyrics.com/lyric/28653018/Kishore+Kumar/Saagar+Kinare",
-        "album": "Saagar Kinare-Saagar
-        "Duration":"3 min 45 sec",
-        "singer": ["Lata Mangeshkar","Kishore Kumar"]
-},
-
   {
-        "id": 34,
+        "id": 33,
         "name": "Zara Zara by Maadhyam",
         "lyrics": "https://youtu.be/MB6bUI5uaoc",
         "album": "M.S.Dhoni",
         "Duration":"4 min 6 sec",
         "singer": ["Bombay Jayashree"],
-
         "genre": ["Romantic"],
-        "link": "https://youtu.be/2q_nsR_9xqY"
-},
-{
-        "id": 35,
-        "name": "Enna Sona",
-        "lyrics": "https://www.azlyrics.com/lyrics/arijitsingh/ennasona.html",
-        "album": "Ok Jaanu",
-        "Duration":"3 min 51 sec",
-        "singer": ["Arijit Singh"],
-        "link":"https://youtu.be/ofTxceS4wLI"
-}
-{
-        "id": 24,
-        "name": "Qaafirana",
-        "lyrics": "https://www.lyricsmint.com/kedarnath/qaafirana",
-        "album": "Kedarnath",
-        "Duration":"6 min 16 sec",
-        "singer": ["Amit Trivedi"],
-        "genre": ["Romantic"],
-        "link": "https://www.youtube.com/watch?v=ZmcBC9-wAXM"
-}
-{
-        "id": 40,
-        "name": "Heropanti : Raat Bhar ",
-        "lyrics": "https://youtu.be/4KFVySixs_E",
-        "album": "Heropanti",
-        "Duration":"2 min 28 sec",
-        "singer": ["Arijit Singh, Shreya Ghoshal"],
-        "genre": ["Romantic","Pop","Hindi"],
-        "l
+        "link": "https://youtu.be/MB6bUI5uaoc"
+    },
 
+{
+    "id":34,
+    "name":"Genda Phool",
+    "lyrics":"https://gaana.com/lyrics/genda-phool-6",
+    "albhum":"Genda Phool"
+    "Duration":"02:48",
+    "singer":["Badshah, Payal Dev"],
+     "genre":[" Indian pop"],
+     "link":"https://youtu.be/SD4Z8dlZPd8"
+}
 ]
