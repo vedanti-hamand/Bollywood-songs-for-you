@@ -148,7 +148,7 @@
         "singer": ["Amit Trivedi"],
         "genre": ["Pop","Romantic"],
         "link": "https://youtu.be/WwvVUbllNkM"
-    }
+    },
     {
         "id": 16,
         "name": "kaun tujhe",
@@ -158,5 +158,16 @@
         "singer": ["Palak Muchhal"],
         "genre": ["Romantic"],
         "link": "https://www.youtube.com/watch?v=atVof3pjT-I"
+    },
+    {
+        "id": 17,
+        "name": "Raftaarein"",
+        "lyrics": "https://www.indicine.com/movies/lyrics/raftaarein-lyrics-ra-one/",
+        "album": "Ra.One",
+        "Duration":4 min 45 sec",
+        "singer": ["Vishal Dadlani"],
+        "genre": ["Pop"],
+        "link": "https://www.youtube.com/watch?v=MlE-GojmNwM&ab_channel=T-Series"
     }
+
 ]
