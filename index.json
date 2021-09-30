@@ -130,14 +130,14 @@
         "link": "https://youtu.be/60vIVA5AZ9M"
     },
     {
-        "id": 14,
-        "name": "Sooraj Ki Baahon Mein",
-        "lyrics": "https://gaana.com/lyrics/sooraj-ki-baahon-mein-1",
-        "album": "Zindagi Na Milegi Dobara",
-        "Duration":"3 min 22 sec",
-        "singer": ["Clinton Cerejo","Loy Mendonsa","Dominique Cerejo"],
-        "genre": ["Chill","Motivation","Travel"],
-        "link": "https://youtu.be/gnrSX7TQJqU"
+        "id": 13,
+        "name": "Lut Gaye",
+        "lyrics": "https://open.wynk.in/fNdMBBfHbeb",
+        "album": "Lut Gaye",
+        "Duration":"3 min 48 sec",
+        "singer": ["Jubin Nautiyal"],
+        "genre": ["Romantic"],
+        "link": "https://youtu.be/sCbbMZ-q4-I"
     },
     {
         "id": 15,
@@ -192,6 +192,7 @@
         "link": "https://www.youtube.com/watch?v=ktPD6TMovxs"
 
     },
+
     
     {
         "id": 20,
@@ -204,9 +205,10 @@
         "link": "https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwiH9dL_nqfzAhWY8XMBHVfGAHoQwqsBegQIBBAB&url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DVueN49P7JyU&usg=AOvVaw2i5UokZjIkxpd936yhE5y"
 
     },
+
    
     {
-        "id": 20,
+        "id": 21,
         "name": "Kabira",
         "lyrics": "https://gaana.com/lyrics/kabira-1",
         "album": "Yeh Jawaani Hai Deewani",
@@ -215,6 +217,31 @@
         "genre": ["Romanace"],
         "link": "https://www.youtube.com/watch?v=jHNNMj5bNQw&list=PLP-07VKxSomFxGPP9Sa1lUBI_zTyGWHtu&index=10"
 
-    }
+    },
 
+   
+    {
+        "id": 22,
+        "name": "Tu Chale",
+        "lyrics": "https://gaana.com/lyrics/tu-chale",
+        "album": "I",
+        "Duration":"4 min 52 sec",
+        "singer": ["ARIJIT SINGH", "SHREYA GHOSHAL"],
+        "genre": ["Romanace"],
+        "link": "https://www.youtube.com/watch?v=iMuZRXsE7KI"
+
+    },
+
+    {
+        "id": 23,
+        "name": "Tu Hai Ki Nahi",
+        "lyrics": "https://gaana.com/lyrics/tu-hai-ki-nahi",
+        "album": "Roy",
+        "Duration":"5 min 33 sec",
+        "singer": ["Ankit Tiwari"],
+        "genre": ["Romanace"],
+        "link": "https://www.youtube.com/watch?v=61floBUAiTY"
+
+
+    }
 ]
