@@ -535,6 +535,18 @@
     "genre": ["Romantic", "lo-fi"],
     "link": "https://youtu.be/Ad5s2_Z7-Pw"
 
+},
+{
+
+        "id": 21,
+        "name": "Sheikchillie",
+        "lyrics": "https://www.lyrics.com/sublyric/54086/Raftaar/Sheikh+Chilli+Original+Lyrics",
+        "album": "Sheikchillie",
+        "Duration":"4 min 13 sec",
+        "singer": ["sheikchilli"],
+        "genre": ["Pop"],
+        "link": "https://www.youtube.com/watch?v=uykOHAhId0Q"
+
 }
 ,
 {
@@ -645,4 +657,29 @@
         "genre": ["Sufi"],
         "link": "https://youtu.be/T94PHkuydcw"
     },
+
+{
+        "id": 56,
+        "name": "vienna waits for you",
+        "lyrics":" https://genius.com/Billy-joel-vienna-lyrics",
+        "album": "vienna",
+        "Duration":"3 min 37 sec",
+        "singer": ["billy joel "],
+        "genre": ["dance number","Pop"],
+        "link": "https://www.youtube.com/results?search_query=vienna"
+
+    },
+{
+        "id": 57,
+        "name": "Dildara",
+        "lyrics": "https://lyricsdna.com/songs/lyrics/dildara-dildara-lyrics-stand-by-me-ra-one",
+        "album": "Ra.One",
+        "Duration":"4 min 30 sec",
+        "singer": ["Abhijeet Bhattacharya, Sowmya Raoh "],
+        "genre": ["dance number","Pop"],
+        "link": "https://www.youtube.com/watch?v=gQ5qVtoLMk4"
+
+    }
+
+
 ]
