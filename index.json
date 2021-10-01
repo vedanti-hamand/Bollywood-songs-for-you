@@ -541,9 +541,19 @@
         "genre": ["Romantic", "Filmy"],
         "link": "https://www.youtube.com/watch?v=lrAM_H7v8wM"
 
-}
+},
+{		"id": 51,
+        "name": "Kal Ho Naa Ho",
+        "lyrics": "https://gaana.com/song/kya-mujhe-pyar-hai",
+        "album": "Kal Ho Naa Ho",
+        "Duration":"4 min 46 sec",
+        "singer": ["Sonu Nigam"],
+        "genre": ["Romantic", "Filmy"],
+        "link": "https://www.youtube.com/watch?v=g0eO74UmRBs"
+},
+
 {
-        "id": 50,
+        "id": 52,
         "name": "bazigar hai bazigar ",
         "lyrics": "https://www.indicine.com/movies/lyrics/baigar/",
         "album": "Bazigar",
@@ -553,5 +563,5 @@
         "link": "https://youtu.be/IJq0yyWug1k"
    
 
-},
+}
 ]
