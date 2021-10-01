@@ -506,7 +506,26 @@
 
 },
 {
-
+        "id": 49,
+        "name": "Bawaal",
+        "lyrics": "https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwi7v5zqyKjzAhXVXCsKHVZeDe0QFnoECAIQAQ&url=https%3A%2F%2Fwww.lyricsbell.com%2Fbawaal-mj5%2F&usg=AOvVaw2ptmUKxp_hdhV-MMKr5kP_",
+        "album": "ZBawaal",
+        "Duration":"3 min 14 sec",
+        "singer": [" Kartik, Rohit"],
+        "genre": [ "Filmy"],
+        "link": "https://youtu.be/SGLVh57-HJs"
+},
+{ 
+      "id": 49,
+        "name": "Stay a little longer",
+        "lyrics": "https://www.lyricsmint.com/half-girlfriend/stay-a-little-longer",
+        "album": "Half Girlfriend",
+        "Duration":"4 min 59 sec",
+        "singer": [" Anushka Shahaney "],
+        "genre": [" Western swing", "Filmy"],
+        "link": "https://www.youtube.com/watch?v=tjXHcyQhzqI"
+},
+{
     "id": 49,
     "name": "Dil Ko Karar Aaya",
     "lyrics": "https://gaana.com/lyrics/dil-ko-karaar-aaya",
@@ -531,6 +550,18 @@
 
 },
 {
+    "id": 50,
+        "name": "Bhul Bhulaiya Title Track",
+        "lyrics": "https://gaana.com/song/bhool-bhulaiyaa-remix-1",
+        "album": "Bhul Bhulaiya Remix",
+        "Duration":"5 min 04 sec",
+        "singer": [" Neeraj Sridhar"],
+        "genre": ["Funny"],
+        "link": "https://www.youtube.com/watch?v=1hCQgzZoeNM"
+
+
+},
+{
 
         "id": 50,
         "name": "Dil galt Kar Baitha hai",
@@ -542,7 +573,8 @@
         "link": "https://www.youtube.com/watch?v=lrAM_H7v8wM"
 
 },
-{		"id": 51,
+{		
+  "id": 51,
         "name": "Kal Ho Naa Ho",
         "lyrics": "https://www.lyrics.com/track/14063318/Sonu+Nigam/Kal+Ho+Naa+Ho",
         "album": "Kal Ho Naa Ho",
@@ -561,9 +593,8 @@
         "singer": ["Udit narayan "],
         "genre": [" Acoustic music", "Filmi", "Indian pop"],
         "link": "https://youtu.be/IJq0yyWug1k"
-   
 
-}
+},
 {
         "id": 53,
         "name": "Mitwa",
@@ -574,6 +605,25 @@
         "genre": [" Romanace", "Filmy"],
         "link": "https://www.youtube.com/watch?v=ru_5PA8cwkE"
    
-
-}
+},
+{
+        "id": 54,
+        "name": "dil dooba",
+        "lyrics": "https://gaana.com/lyrics/dil dooba",
+        "album": "khakee",
+        "Duration":"4 min 38 sec",
+        "singer": ["Sonu nigam "],
+        "genre": ["Motivation","Pop"],
+        "link": "https://www.youtube.com/watch?v=SAiyopkF22M"
+    },
+{
+        "id": 55,
+        "name": "Chinta ta chita chita",
+        "lyrics": "https://www.lyricsmint.com/rowdy-rathore/chinta-ta-ta-chita-chita",
+        "album": "Rowdy Rathore",
+        "Duration":"5 min 7 sec",
+        "singer": ["Mika Singh "],
+        "genre": ["dance number","Pop"],
+        "link": "https://www.youtube.com/watch?v=NPRd7Xc0tfM"
+    }
 ]
