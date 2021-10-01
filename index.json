@@ -596,14 +596,14 @@
 
 },
 {
-        "id": 51,
-        "name": "dil dooba",
-        "lyrics": "https://gaana.com/lyrics/dil dooba",
-        "album": "khakee",
-        "Duration":"4 min 38 sec",
-        "singer": ["Sonu nigam "],
-        "genre": ["Motivation","Pop"],
-        "link": "https://www.youtube.com/watch?v=SAiyopkF22M"
-    },
+        "id": 53,
+        "name": "Zingat",
+        "lyrics": "http://www.whatobuy.in/2016/05/zing-zing-zingat-song-lyrics-sairat-in-english/",
+        "album": "Sairat",
+        "Duration":"3 min 51 sec",
+        "singer": ["Ajay "],
+        "genre": ["Party","Marathi"],
+        "link": "https://www.youtube.com/watch?v=2gcsgfzqN8k"
+    }
 
 ]
