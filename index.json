@@ -164,7 +164,7 @@
         "name": "Raftaarein",
         "lyrics": "https://www.indicine.com/movies/lyrics/raftaarein-lyrics-ra-one/",
         "album": "Ra.One",
-        "Duration":4 min 45 sec",
+        "Duration":"4 min 45 sec",
         "singer": ["Vishal Dadlani"],
         "genre": ["Pop"],
         "link": "https://www.youtube.com/watch?v=MlE-GojmNwM&ab_channel=T-Series"
@@ -506,7 +506,6 @@
 
 },
 {
-
         "id": 49,
         "name": "Bawaal",
         "lyrics": "https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwi7v5zqyKjzAhXVXCsKHVZeDe0QFnoECAIQAQ&url=https%3A%2F%2Fwww.lyricsbell.com%2Fbawaal-mj5%2F&usg=AOvVaw2ptmUKxp_hdhV-MMKr5kP_",
@@ -515,6 +514,96 @@
         "singer": [" Kartik, Rohit"],
         "genre": [ "Filmy"],
         "link": "https://youtu.be/SGLVh57-HJs"
+},
+{ 
+      "id": 49,
+        "name": "Stay a little longer",
+        "lyrics": "https://www.lyricsmint.com/half-girlfriend/stay-a-little-longer",
+        "album": "Half Girlfriend",
+        "Duration":"4 min 59 sec",
+        "singer": [" Anushka Shahaney "],
+        "genre": [" Western swing", "Filmy"],
+        "link": "https://www.youtube.com/watch?v=tjXHcyQhzqI"
+},
+{
+    "id": 49,
+    "name": "Dil Ko Karar Aaya",
+    "lyrics": "https://gaana.com/lyrics/dil-ko-karaar-aaya",
+    "album": "Sukoon",
+    "Duration":"2 min 29 sec",
+    "singer": [" Neha Kakkar & Yasser Desai"],
+    "genre": ["Romantic", "lo-fi"],
+    "link": "https://youtu.be/Ad5s2_Z7-Pw"
 
 }
+,
+{
+
+        "id": 49,
+        "name": "Kya Mujhe Pyar Hai",
+        "lyrics": "https://gaana.com/song/kya-mujhe-pyar-hai",
+        "album": "Woh Lamhe",
+        "Duration":"4 min 26 sec",
+        "singer": [" KK,Pritam"],
+        "genre": ["Romantic", "Filmy"],
+        "link": "https://www.youtube.com/watch?v=lrAM_H7v8wM"
+
+},
+{
+    "id": 50,
+        "name": "Bhul Bhulaiya Title Track",
+        "lyrics": "https://gaana.com/song/bhool-bhulaiyaa-remix-1",
+        "album": "Bhul Bhulaiya Remix",
+        "Duration":"5 min 04 sec",
+        "singer": [" Neeraj Sridhar"],
+        "genre": ["Funny"],
+        "link": "https://www.youtube.com/watch?v=1hCQgzZoeNM"
+
+
+},
+{
+
+        "id": 50,
+        "name": "Dil galt Kar Baitha hai",
+        "lyrics": "https://gaana.com/song/dil-galti-kar-baitha-hai-feat-mouni-roy",
+        "album": "Dil galt Kar Baitha hai",
+        "Duration":"4 min 26 sec",
+        "singer": ["jubin"],
+        "genre": ["Romantic", "Filmy"],
+        "link": "https://www.youtube.com/watch?v=lrAM_H7v8wM"
+
+},
+{		
+  "id": 51,
+        "name": "Kal Ho Naa Ho",
+        "lyrics": "https://gaana.com/song/kya-mujhe-pyar-hai",
+        "album": "Kal Ho Naa Ho",
+        "Duration":"4 min 46 sec",
+        "singer": ["Sonu Nigam"],
+        "genre": ["Romantic", "Filmy"],
+        "link": "https://www.youtube.com/watch?v=g0eO74UmRBs"
+},
+
+{
+        "id": 52,
+        "name": "bazigar hai bazigar ",
+        "lyrics": "https://www.indicine.com/movies/lyrics/baigar/",
+        "album": "Bazigar",
+        "Duration":"03 minutes 15 seconds",
+        "singer": ["Udit narayan "],
+        "genre": [" Acoustic music", "Filmi", "Indian pop"],
+        "link": "https://youtu.be/IJq0yyWug1k"
+
+},
+{
+        "id": 51,
+        "name": "dil dooba",
+        "lyrics": "https://gaana.com/lyrics/dil dooba",
+        "album": "khakee",
+        "Duration":"4 min 38 sec",
+        "singer": ["Sonu nigam "],
+        "genre": ["Motivation","Pop"],
+        "link": "https://www.youtube.com/watch?v=SAiyopkF22M"
+    },
+
 ]
