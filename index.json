@@ -530,4 +530,16 @@
         "link": "https://www.youtube.com/watch?v=lrAM_H7v8wM"
 
 }
+,{ 
+    
+        "id": 50,
+         name": "Jeena Jeena ",
+        "lyrics": "https://gaana.com/lyrics/jeena-3",
+        "album": "Jeena Jeena",
+        "Duration":"3 min 49 sec",
+        "singer": [" Atif Aslam"],
+        "genre": ["Romantic", "Filmy"],
+        "link": "https://youtu.be/zFdi834FiZ4"
+
+}
 ]
