@@ -289,7 +289,7 @@
     },
  {
 
-        "id": 29,
+        "id": 19,
         "name": "ranjha",
         "lyrics": "https://www.hinditracks.in/ranjha-lyrics",
         "album": "Shershaah",
@@ -298,31 +298,11 @@
         "genre": ["Romantic"],
         "link": "https://www.youtube.com/watch?v=V7LwfY5U5WI"
 },
-{
 
-        "id": 30,
-        "name": "Sooraj Dooba Hain",
-        "lyrics": "https://gaana.com/lyrics/sooraj-dooba-hain-yaaron",
-        "album": "Roy",
-        "Duration":"4 min 24 sec",
-        "singer": ["Aditi Singh Sharma","Arijit Singh","Amaal Mallik"],
-        "genre": ["Party"],
-        "link": "https://www.youtube.com/watch?v=nJZcbidTutE"
-},
-{
 
-        "id": 31,
-        "name": "Aankhon Mein Teri",
-        "lyrics": "https://gaana.com/lyrics/aankhon-mein-teri",
-        "album": "Om Shanti Om",
-        "Duration":"4 min 1 sec",
-        "singer": ["KK"],
-        "genre": ["Love"],
-        "link": "https://www.youtube.com/watch?v=2drIKUOCZxU"
-},
  {
 
-        "id": 32,
+        "id": 20,
         "name": "aarambh hai prachand",
         "lyrics": "https://www.hinditracks.in/aarambh-hai-prachand-lyrics-in-hindi-gulaal",
         "album": "Gulaal",
@@ -333,7 +313,7 @@
  },
 {
 
-        "id": 33,
+        "id": 21,
         "name": "Snake",
         "lyrics": "https://genius.com/Mc-stan-snake-lyrics",
         "album": "Snake",
@@ -343,7 +323,7 @@
         "link": "https://youtu.be/DSb7tmVcZm4"
 },
 {
-        "id": 34,
+        "id": 22,
         "name": "Tujhse Naraz Nahi Zindagi - Sanam",
         "lyrics": "https://www.hinditracks.in/ranjha-lyrics",
         "album": "SANAM",
@@ -353,7 +333,7 @@
         "link": "https://www.youtube.com/watch?v=V7LwfY5U5WI"
 },
 {
-        "id": 35,
+        "id": 25,
         "name": "Namo Namo",
         "lyrics": "https://www.lyricsmint.com/kedarnath/namo-namo",
         "album": "Kedarnath",
@@ -363,7 +343,7 @@
         "link": "https://www.youtube.com/watch?v=HFX6AZ5bDDo"
 },
 {
-        "id": 36,
+        "id": 35,
         "name": "Tum Hi Ho",
         "lyrics": "https://www.indicine.com/movies/lyrics/tum-hi-ho-lyrics-aashiqui-2/",
         "album": "Aashiqui 2",
@@ -376,7 +356,7 @@
 },
 
 {
-        "id": 37,
+        "id": 33,
         "name": "Saagar Kinare-Sagar(1985)",
         "lyrics": "https://www.lyrics.com/lyric/28653018/Kishore+Kumar/Saagar+Kinare",
         "album": "Saagar Kinare-Saagar
@@ -385,7 +365,7 @@
 },
 
 {
-        "id": 38,
+        "id": 34,
         "name": "Zara Zara by Maadhyam",
         "lyrics": "https://youtu.be/MB6bUI5uaoc",
         "album": "M.S.Dhoni",
@@ -395,7 +375,7 @@
         "link": "https://youtu.be/MB6bUI5uaoc"
     },
  {
-        "id": 39,
+        "id": 35,
         "name": "FRIENDS",
         "lyrics": "https://www.azlyrics.com/lyrics/marshmello/friends.html",
         "album": "FRIENDS",
@@ -405,7 +385,7 @@
         "link": "https://youtu.be/jzD_yyEcp0M"
     },
 {
-    "id":40,
+    "id":34,
     "name":"Genda Phool",
     "lyrics":"https://gaana.com/lyrics/genda-phool-6",
     "albhum":"Genda Phool"
@@ -415,7 +395,7 @@
      "link":"https://youtu.be/SD4Z8dlZPd8"
 },
 {
-        "id": 41,
+        "id": 35,
         "name": "Enna Sona",
         "lyrics": "https://www.azlyrics.com/lyrics/arijitsingh/ennasona.html",
         "album": "Ok Jaanu",
@@ -424,7 +404,7 @@
         "link":"https://youtu.be/ofTxceS4wLI"
 },
 {
-        "id": 42,
+        "id": 24,
         "name": "Qaafirana",
         "lyrics": "https://www.lyricsmint.com/kedarnath/qaafirana",
         "album": "Kedarnath",
@@ -444,7 +424,7 @@
             "link": "https://youtu.be/lPXdn-pR8mI"
  },
 {
-        "id": 44,
+        "id": 40,
         "name": "Heropanti : Raat Bhar ",
         "lyrics": "https://youtu.be/4KFVySixs_E",
         "album": "Heropanti",
@@ -454,7 +434,7 @@
         "link":""
 },
 {
-        "id": 45,
+        "id": 42,
         "name": "Tu Har Lamha ",
         "lyrics": "https://www.hinditracks.in/tu-har-lamha-hindi-lyrics-khamoshiyan",
         "album": "not available",
@@ -464,7 +444,7 @@
         "link":"https://youtu.be/SdGL0qxgZGM"
 },
 {
-    "id": 46,
+    "id": 43,
     "name":"Filhall",
     "lyrics":"https://lyricsraag.com/filhaal-song-translation-akshay-kumar/",
     "album":"Filhall",
@@ -474,7 +454,7 @@
     "link":"https://youtu.be/DUwlGduupRI"
 },
 {
-    "id": 47,
+    "id": 44,
     "name":"Dekha Hazaro Dafaa",
     "lyrices":"https://www.azlyrics.com/lyrics/arijitsingh/dekhahazarodafa.html",
     "album":"Rustom",
@@ -484,7 +464,7 @@
     "link":"https://youtu.be/ImnYPjOd1Tw"
 },
 {
-    "id": 48,
+    "id": 45,
     "name":"Kun Faaya Kun",
     "lyrics":"https://gaana.com/lyrics/kun-fayakun",
     "album":"Rockstar",
@@ -494,7 +474,7 @@
     "link":"https://www.youtube.com/watch?v=T94PHkuydcw"
 },
 {
-  "id": 49,
+  "id": 46,
     "name":"Dharkhaast",
     "lyrics":"https://gaana.com/lyrics/darkhaast-1",
     "album":"Shivaay",
@@ -504,7 +484,7 @@
     "link":"https://youtu.be/GNm7vIZXEYw":
 },
   {
-        "id": 50,
+        "id": 47,
         "name": "Bade Acche Lagte Hai",
         "lyrics": "https://gaana.com/lyrics/bade-achhe-lagte-hain",
         "album": "Balika Badhu(1976)",
@@ -515,7 +495,7 @@
     },
 {
 
-        "id": 51,
+        "id": 48,
         "name": "Zara Zara",
         "lyrics": "https://gaana.com/lyrics/zara-zara-5",
         "album": "Zara Zara",
@@ -526,7 +506,7 @@
 
 },
 {
-        "id": 52,
+        "id": 49,
         "name": "Bawaal",
         "lyrics": "https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwi7v5zqyKjzAhXVXCsKHVZeDe0QFnoECAIQAQ&url=https%3A%2F%2Fwww.lyricsbell.com%2Fbawaal-mj5%2F&usg=AOvVaw2ptmUKxp_hdhV-MMKr5kP_",
         "album": "ZBawaal",
@@ -536,7 +516,7 @@
         "link": "https://youtu.be/SGLVh57-HJs"
 },
 { 
-      "id": 53,
+      "id": 49,
         "name": "Stay a little longer",
         "lyrics": "https://www.lyricsmint.com/half-girlfriend/stay-a-little-longer",
         "album": "Half Girlfriend",
@@ -546,7 +526,7 @@
         "link": "https://www.youtube.com/watch?v=tjXHcyQhzqI"
 },
 {
-    "id": 54,
+    "id": 49,
     "name": "Dil Ko Karar Aaya",
     "lyrics": "https://gaana.com/lyrics/dil-ko-karaar-aaya",
     "album": "Sukoon",
@@ -554,11 +534,12 @@
     "singer": [" Neha Kakkar & Yasser Desai"],
     "genre": ["Romantic", "lo-fi"],
     "link": "https://youtu.be/Ad5s2_Z7-Pw"
+
 }
 ,
 {
 
-        "id": 55,
+        "id": 49,
         "name": "Kya Mujhe Pyar Hai",
         "lyrics": "https://gaana.com/song/kya-mujhe-pyar-hai",
         "album": "Woh Lamhe",
@@ -569,7 +550,7 @@
 
 },
 {
-    "id": 56,
+    "id": 50,
         "name": "Bhul Bhulaiya Title Track",
         "lyrics": "https://gaana.com/song/bhool-bhulaiyaa-remix-1",
         "album": "Bhul Bhulaiya Remix",
@@ -582,7 +563,7 @@
 },
 {
 
-        "id": 57,
+        "id": 50,
         "name": "Dil galt Kar Baitha hai",
         "lyrics": "https://gaana.com/song/dil-galti-kar-baitha-hai-feat-mouni-roy",
         "album": "Dil galt Kar Baitha hai",
@@ -593,7 +574,7 @@
 
 },
 {		
-  "id": 58,
+  "id": 51,
         "name": "Kal Ho Naa Ho",
         "lyrics": "https://gaana.com/song/kya-mujhe-pyar-hai",
         "album": "Kal Ho Naa Ho",
@@ -604,7 +585,7 @@
 },
 
 {
-        "id": 59,
+        "id": 52,
         "name": "bazigar hai bazigar ",
         "lyrics": "https://www.indicine.com/movies/lyrics/baigar/",
         "album": "Bazigar",
@@ -615,7 +596,7 @@
 
 },
 {
-        "id": 60,
+        "id": 51,
         "name": "dil dooba",
         "lyrics": "https://gaana.com/lyrics/dil dooba",
         "album": "khakee",
@@ -624,5 +605,14 @@
         "genre": ["Motivation","Pop"],
         "link": "https://www.youtube.com/watch?v=SAiyopkF22M"
     },
-
+{
+        "id": 52,
+        "name": "Chinta ta chita chita",
+        "lyrics": "https://www.lyricsmint.com/rowdy-rathore/chinta-ta-ta-chita-chita",
+        "album": "Rowdy Rathore",
+        "Duration":"5 min 7 sec",
+        "singer": ["Mika Singh "],
+        "genre": ["dance number","Pop"],
+        "link": "https://www.youtube.com/watch?v=NPRd7Xc0tfM"
+    },
 ]
