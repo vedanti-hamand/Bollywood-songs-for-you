@@ -530,4 +530,13 @@
         "link": "https://www.youtube.com/watch?v=lrAM_H7v8wM"
 
 }
+{		"id": 53,
+        "name": "Kal Ho Naa Ho",
+        "lyrics": "https://gaana.com/song/kya-mujhe-pyar-hai",
+        "album": "Kal Ho Naa Ho",
+        "Duration":"4 min 46 sec",
+        "singer": ["Sonu Nigam"],
+        "genre": ["Romantic", "Filmy"],
+        "link": "https://www.youtube.com/watch?v=g0eO74UmRBs"
+}
 ]
