@@ -164,7 +164,7 @@
         "name": "Raftaarein",
         "lyrics": "https://www.indicine.com/movies/lyrics/raftaarein-lyrics-ra-one/",
         "album": "Ra.One",
-        "Duration":4 min 45 sec",
+        "Duration":"4 min 45 sec",
         "singer": ["Vishal Dadlani"],
         "genre": ["Pop"],
         "link": "https://www.youtube.com/watch?v=MlE-GojmNwM&ab_channel=T-Series"
@@ -506,7 +506,6 @@
 
 },
 {
-
         "id": 49,
         "name": "Stay a little longer",
         "lyrics": "https://www.lyricsmint.com/half-girlfriend/stay-a-little-longer",
@@ -515,6 +514,98 @@
         "singer": [" Anushka Shahaney "],
         "genre": [" Western swing", "Filmy"],
         "link": "https://www.youtube.com/watch?v=tjXHcyQhzqI"
+},
+{
+    "id": 49,
+    "name": "Dil Ko Karar Aaya",
+    "lyrics": "https://gaana.com/lyrics/dil-ko-karaar-aaya",
+    "album": "Sukoon",
+    "Duration":"2 min 29 sec",
+    "singer": [" Neha Kakkar & Yasser Desai"],
+    "genre": ["Romantic", "lo-fi"],
+    "link": "https://youtu.be/Ad5s2_Z7-Pw"
+
+},
+{
+
+    "id": 50,
+    "name": "Tujh Mein Rab Dikhta Hai",
+    "lyrics": "https://gaana.com/lyrics/tujh-mein-rab-dikhta-hai",
+    "album": "Tujh Mein Rab Dikhta Hai",
+    "Duration":"2 min 42 sec",
+    "singer": ["Roop Kumar Rathod"],
+    "genre": ["Romantic", "lo-fi"],
+    "link": "https://youtu.be/3qrpE5T10RI"
+
+},
+{
+
+    "id": 51,
+    "name": "Jeena Jeena - atif aslam",
+    "lyrics": "https://www.azlyrics.com/lyrics/atifaslam/jeenajeena.html",
+    "album": "Jeena Jeena",
+    "Duration":"2 min 52 sec",
+    "singer": ["Atif Aslam"],
+    "genre": ["Romantic", "lo-fi"],
+    "link": "https://youtu.be/nYe7d117C6w"
+
+},
+{
+
+    "id": 52,
+    "name": "Tum Tak",
+    "lyrics": "https://gaana.com/lyrics/tum-tak",
+    "album": "Tum Tak",
+    "Duration":"3 min 28 sec",
+    "singer": ["Javed Ali, Kirti Sagathia, and Pooja AV"],
+    "genre": ["Romantic", "lo-fi"],
+    "link": "https://youtu.be/M4CxChgi4e8"
+
+}
+,
+{
+
+        "id": 49,
+        "name": "Kya Mujhe Pyar Hai",
+        "lyrics": "https://gaana.com/song/kya-mujhe-pyar-hai",
+        "album": "Woh Lamhe",
+        "Duration":"4 min 26 sec",
+        "singer": [" KK,Pritam"],
+        "genre": ["Romantic", "Filmy"],
+        "link": "https://www.youtube.com/watch?v=lrAM_H7v8wM"
+
+},
+{
+
+        "id": 50,
+        "name": "Dil galt Kar Baitha hai",
+        "lyrics": "https://gaana.com/song/dil-galti-kar-baitha-hai-feat-mouni-roy",
+        "album": "Dil galt Kar Baitha hai",
+        "Duration":"4 min 26 sec",
+        "singer": ["jubin"],
+        "genre": ["Romantic", "Filmy"],
+        "link": "https://www.youtube.com/watch?v=lrAM_H7v8wM"
+
+},
+{		"id": 51,
+        "name": "Kal Ho Naa Ho",
+        "lyrics": "https://gaana.com/song/kya-mujhe-pyar-hai",
+        "album": "Kal Ho Naa Ho",
+        "Duration":"4 min 46 sec",
+        "singer": ["Sonu Nigam"],
+        "genre": ["Romantic", "Filmy"],
+        "link": "https://www.youtube.com/watch?v=g0eO74UmRBs"
+},
+
+{
+        "id": 52,
+        "name": "bazigar hai bazigar ",
+        "lyrics": "https://www.indicine.com/movies/lyrics/baigar/",
+        "album": "Bazigar",
+        "Duration":"03 minutes 15 seconds",
+        "singer": ["Udit narayan "],
+        "genre": [" Acoustic music", "Filmi", "Indian pop"],
+        "link": "https://youtu.be/IJq0yyWug1k"
 
 }
 ]
