@@ -1,5 +1,5 @@
 [
-    {
+    { 
         "id": 1,
         "name": "Sajdaa",
         "lyrics": "https://www.indicine.com/movies/bollywood/sajda-lyrics-my-name-is-khan/",
@@ -559,20 +559,8 @@
         "singer": [" KK,Pritam"],
         "genre": ["Romantic", "Filmy"],
         "link": "https://www.youtube.com/watch?v=lrAM_H7v8wM"
+}
 
-},
-{
-    "id": 50,
-        "name": "Bhul Bhulaiya Title Track",
-        "lyrics": "https://gaana.com/song/bhool-bhulaiyaa-remix-1",
-        "album": "Bhul Bhulaiya Remix",
-        "Duration":"5 min 04 sec",
-        "singer": [" Neeraj Sridhar"],
-        "genre": ["Funny"],
-        "link": "https://www.youtube.com/watch?v=1hCQgzZoeNM"
-
-
-},
 {
 
         "id": 50,
@@ -608,6 +596,16 @@
 
 },
 {
+        "id": 50,
+        "name": "Kal Ho Naa Ho ",
+        "lyrics": "https://gaana.com/lyrics/kal-ho-naa-ho-5",
+        "album": " Kal Ho Naa Ho ",
+        "Duration":"5 min 23 sec",
+        "singer": ["Sonu Nigam"],
+        "genre": ["Romance","Filmi"],
+        "link": "https://youtu.be/g0eO74UmRBs"
+
+},{
         "id": 51,
         "name": "dil dooba",
         "lyrics": "https://gaana.com/lyrics/dil dooba",
@@ -680,17 +678,16 @@
         "link": "https://www.youtube.com/watch?v=gQ5qVtoLMk4"
 
 },
-
 {
         "id": 58,
-        "name": "Meri Mehbooba",
-        "lyrics": "https://www.lyricsbox.com/pardes-meri-mehbooba-lyrics-k19pln9.html",
-        "album": "Pardes",
-        "Duration":"5 min 26 sec",
-        "singer": ["Kumar Sanu","Alka Yagnik"],
+        "name": "Tu Tu Hai Wahi ",
+        "lyrics": "https://www.lyricsoff.com/songs/tu-tu-hai-wahi-yeh-vaada-raha.html",
+        "album": "Yeh Vaada Raha ",
+        "Duration":"6 min 50 sec",
+        "singer": ["Kishore Kumar","Asha Bhosle"],
         "genre": ["Romanace"],
-        "link": "https://www.youtube.com/watch?v=g1GJlyWjdY8"
-       },
+        "link": "https://youtu.be/hjfzFVw2Zjo"
+    },
 
 {
         "id": 59,
@@ -735,7 +732,36 @@
         "link": "https://youtu.be/zWEOx7TSM6I"
 
     },
-     
+{
+        "name": "Makhna",
+        "lyrics": "https://www.lyricsbell.com/makhna-drive/",
+        "album": "Drive",
+        "Duration":"3 min 13 sec",
+        "singer": ["Tanishk Bagchi","Yasser Desai","Asees Kaur"],
+        "genre": ["Filmy"],
+        "link": "https://www.youtube.com/watch?v=HqUeSjsYLNU"
+    },
+{ 
+    
+        "id": 62,
+        "name": "Pani Da Rang",
+        "lyrics": "https://gaana.com/lyrics/pani-di-gal",
+        "album": "Vicky Donor",
+        "Duration":"4 min",
+        "singer": [" Ayushman Khurrana"],
+        "genre": ["Filmi, Acoustic pop"],
+        "link": "https://youtu.be/2kgEc6oH9J0"
+},
+{
+    "id": 63,
+        "name": "Bhul Bhulaiya Title Track",
+        "lyrics": "https://gaana.com/song/bhool-bhulaiyaa-remix-1",
+        "album": "Bhul Bhulaiya Remix",
+        "Duration":"5 min 04 sec",
+        "singer": [" Neeraj Sridhar"],
+        "genre": ["Funny"],
+        "link": "https://www.youtube.com/watch?v=1hCQgzZoeNM"
 
 
+}
 ]
