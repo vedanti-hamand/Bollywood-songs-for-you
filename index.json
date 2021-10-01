@@ -517,4 +517,17 @@
     "link": "https://youtu.be/Ad5s2_Z7-Pw"
 
 }
+,
+{
+
+        "id": 49,
+        "name": "Kya Mujhe Pyar Hai",
+        "lyrics": "https://gaana.com/song/kya-mujhe-pyar-hai",
+        "album": "Woh Lamhe",
+        "Duration":"4 min 26 sec",
+        "singer": [" KK,Pritam"],
+        "genre": ["Romantic", "Filmy"],
+        "link": "https://www.youtube.com/watch?v=lrAM_H7v8wM"
+
+}
 ]
