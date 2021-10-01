@@ -607,12 +607,13 @@
     },
 {
         "id": 52,
-        "name": "Chinta ta chita chita",
-        "lyrics": "https://www.lyricsmint.com/rowdy-rathore/chinta-ta-ta-chita-chita",
-        "album": "Rowdy Rathore",
-        "Duration":"5 min 7 sec",
-        "singer": ["Mika Singh "],
-        "genre": ["dance number","Pop"],
-        "link": "https://www.youtube.com/watch?v=NPRd7Xc0tfM"
+        "name": "Rozana",
+        "lyrics": "https://gaana.com/lyrics/rozana-19",
+        "album": "Naam Shabana",
+        "Duration":"4 min 29 sec",
+        "singer": ["Shreya, Rochak "],
+        "genre": ["Romantic"],
+        "link": "https://youtu.be/CtgD91Ev4NU"
     },
+
 ]
