@@ -597,6 +597,16 @@
 },
 {
         "id": 53,
+        "name": "Zingat",
+        "lyrics": "http://www.whatobuy.in/2016/05/zing-zing-zingat-song-lyrics-sairat-in-english/",
+        "album": "Sairat",
+        "Duration":"3 min 51 sec",
+        "singer": ["Ajay "],
+        "genre": ["Party","Marathi"],
+        "link": "https://www.youtube.com/watch?v=2gcsgfzqN8k"
+    }
+,{
+  "id": 54,
         "name": "Mitwa",
         "lyrics": "https://lyricalwoods.com/1976-mitwa-song-lyrics/",
         "album": "Kabhi Alvida Naa Kehna",
@@ -607,7 +617,7 @@
    
 },
 {
-        "id": 54,
+        "id": 55,
         "name": "dil dooba",
         "lyrics": "https://gaana.com/lyrics/dil dooba",
         "album": "khakee",
@@ -617,7 +627,7 @@
         "link": "https://www.youtube.com/watch?v=SAiyopkF22M"
     },
 {
-        "id": 55,
+        "id": 56,
         "name": "Chinta ta chita chita",
         "lyrics": "https://www.lyricsmint.com/rowdy-rathore/chinta-ta-ta-chita-chita",
         "album": "Rowdy Rathore",
