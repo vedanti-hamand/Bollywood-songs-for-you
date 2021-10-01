@@ -542,4 +542,16 @@
         "link": "https://www.youtube.com/watch?v=lrAM_H7v8wM"
 
 }
+{
+        "id": 50,
+        "name": "bazigar hai bazigar ",
+        "lyrics": "https://www.indicine.com/movies/lyrics/baigar/",
+        "album": "Bazigar",
+        "Duration":"03 minutes 15 seconds",
+        "singer": ["Udit narayan "],
+        "genre": [" Acoustic music", "Filmi", "Indian pop"],
+        "link": "https://youtu.be/IJq0yyWug1k"
+   
+
+},
 ]
