@@ -544,7 +544,7 @@
 },
 {		"id": 51,
         "name": "Kal Ho Naa Ho",
-        "lyrics": "https://gaana.com/song/kya-mujhe-pyar-hai",
+        "lyrics": "https://www.lyrics.com/track/14063318/Sonu+Nigam/Kal+Ho+Naa+Ho",
         "album": "Kal Ho Naa Ho",
         "Duration":"4 min 46 sec",
         "singer": ["Sonu Nigam"],
@@ -561,6 +561,18 @@
         "singer": ["Udit narayan "],
         "genre": [" Acoustic music", "Filmi", "Indian pop"],
         "link": "https://youtu.be/IJq0yyWug1k"
+   
+
+}
+{
+        "id": 53,
+        "name": "Mitwa",
+        "lyrics": "https://lyricalwoods.com/1976-mitwa-song-lyrics/",
+        "album": "Kabhi Alvida Naa Kehna",
+        "Duration":"06 minutes 00 seconds",
+        "singer": ["Shankar Mahadevan, Caralisa Monteiro & Shafqat Amanat Ali "],
+        "genre": [" Romanace", "Filmy"],
+        "link": "https://www.youtube.com/watch?v=ru_5PA8cwkE"
    
 
 }
