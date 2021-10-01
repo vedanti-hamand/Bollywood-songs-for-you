@@ -507,6 +507,16 @@
 },
 {
         "id": 49,
+        "name": "Bawaal",
+        "lyrics": "https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwi7v5zqyKjzAhXVXCsKHVZeDe0QFnoECAIQAQ&url=https%3A%2F%2Fwww.lyricsbell.com%2Fbawaal-mj5%2F&usg=AOvVaw2ptmUKxp_hdhV-MMKr5kP_",
+        "album": "ZBawaal",
+        "Duration":"3 min 14 sec",
+        "singer": [" Kartik, Rohit"],
+        "genre": [ "Filmy"],
+        "link": "https://youtu.be/SGLVh57-HJs"
+},
+{ 
+      "id": 49,
         "name": "Stay a little longer",
         "lyrics": "https://www.lyricsmint.com/half-girlfriend/stay-a-little-longer",
         "album": "Half Girlfriend",
@@ -537,6 +547,18 @@
         "singer": [" KK,Pritam"],
         "genre": ["Romantic", "Filmy"],
         "link": "https://www.youtube.com/watch?v=lrAM_H7v8wM"
+
+},
+{
+    "id": 50,
+        "name": "Bhul Bhulaiya Title Track",
+        "lyrics": "https://gaana.com/song/bhool-bhulaiyaa-remix-1",
+        "album": "Bhul Bhulaiya Remix",
+        "Duration":"5 min 04 sec",
+        "singer": [" Neeraj Sridhar"],
+        "genre": ["Funny"],
+        "link": "https://www.youtube.com/watch?v=1hCQgzZoeNM"
+
 
 },
 {
@@ -584,7 +606,7 @@
         "link": "https://www.youtube.com/watch?v=SAiyopkF22M"
     },
 {
-        "id": 53,
+        "id": 52,
         "name": "Panchhi Banoo Udti Phiroon ",
         "lyrics": "https://youtu.be/fUtIQtRMGzg",
         "album": "Chori Chori",
@@ -592,5 +614,24 @@
         "singer": ["Lata Mangeshkar"],
         "genre": ["Motivation","Folk"],
         "link": "https://youtu.be/bIhhCGFR2NE"
+},{
+        "id": 53,
+        "name": "Chinta ta chita chita",
+        "lyrics": "https://www.lyricsmint.com/rowdy-rathore/chinta-ta-ta-chita-chita",
+        "album": "Rowdy Rathore",
+        "Duration":"5 min 7 sec",
+        "singer": ["Mika Singh "],
+        "genre": ["dance number","Pop"],
+        "link": "https://www.youtube.com/watch?v=NPRd7Xc0tfM"
     },
+{
+        "id": 54,
+        "name": "KHAIRIYAT",
+        "lyrics": "https://www.ilyricshub.com/khairiyat-chhichhore-arijit-singh/",
+        "album": "Chhichhore",
+        "Duration":"3 min 58 sec",
+        "singer": ["Arijit Singh "],
+        "genre": ["dance number","Pop"],
+        "link": "https://www.youtube.com/watch?v=hoNb6HuNmU0"
+    }
 ]
