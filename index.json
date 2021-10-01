@@ -533,13 +533,13 @@
 ,{ 
     
         "id": 50,
-         name": "Jeena Jeena ",
-        "lyrics": "https://gaana.com/lyrics/jeena-3",
-        "album": "Jeena Jeena",
-        "Duration":"3 min 49 sec",
-        "singer": [" Atif Aslam"],
-        "genre": ["Romantic", "Filmi"],
-        "link": "https://youtu.be/zFdi834FiZ4"
+        "name": "Pani Da Rang",
+        "lyrics": "https://gaana.com/lyrics/pani-di-gal",
+        "album": "Vicky Donor",
+        "Duration":"4 min",
+        "singer": [" Ayushman Khurrana"],
+        "genre": ["Filmi, Acoustic pop"],
+        "link": "https://youtu.be/2kgEc6oH9J0"
 
 }
 ]
