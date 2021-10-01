@@ -743,4 +743,16 @@
 
 
 },
+{
+    "id": 64,
+        "name": "Dekhte Dekhte",
+        "lyrics": "https://www.lyricspedia.co.in/dekhte-dekhte-lyrics-atif-aslam/",
+        "album": "Batti Gul Meter Chalu",
+        "Duration":"4 min 36 sec",
+        "singer": [" Atif Aslam"],
+        "genre": ["Romantic"],
+        "link": "https://www.youtube.com/watch?v=jBQpGiubj0c"
+
+
+}
 ]
