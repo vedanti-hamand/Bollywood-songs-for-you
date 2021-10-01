@@ -576,7 +576,7 @@
 {		
   "id": 51,
         "name": "Kal Ho Naa Ho",
-        "lyrics": "https://www.lyrics.com/track/14063318/Sonu+Nigam/Kal+Ho+Naa+Ho",
+        "lyrics": "https://gaana.com/song/kya-mujhe-pyar-hai",
         "album": "Kal Ho Naa Ho",
         "Duration":"4 min 46 sec",
         "singer": ["Sonu Nigam"],
@@ -596,28 +596,7 @@
 
 },
 {
-        "id": 53,
-        "name": "Zingat",
-        "lyrics": "http://www.whatobuy.in/2016/05/zing-zing-zingat-song-lyrics-sairat-in-english/",
-        "album": "Sairat",
-        "Duration":"3 min 51 sec",
-        "singer": ["Ajay "],
-        "genre": ["Party","Marathi"],
-        "link": "https://www.youtube.com/watch?v=2gcsgfzqN8k"
-    }
-,{
-  "id": 54,
-        "name": "Mitwa",
-        "lyrics": "https://lyricalwoods.com/1976-mitwa-song-lyrics/",
-        "album": "Kabhi Alvida Naa Kehna",
-        "Duration":"06 minutes 00 seconds",
-        "singer": ["Shankar Mahadevan, Caralisa Monteiro & Shafqat Amanat Ali "],
-        "genre": [" Romanace", "Filmy"],
-        "link": "https://www.youtube.com/watch?v=ru_5PA8cwkE"
-   
-},
-{
-        "id": 55,
+        "id": 51,
         "name": "dil dooba",
         "lyrics": "https://gaana.com/lyrics/dil dooba",
         "album": "khakee",
@@ -627,7 +606,7 @@
         "link": "https://www.youtube.com/watch?v=SAiyopkF22M"
     },
 {
-        "id": 56,
+        "id": 52,
         "name": "Chinta ta chita chita",
         "lyrics": "https://www.lyricsmint.com/rowdy-rathore/chinta-ta-ta-chita-chita",
         "album": "Rowdy Rathore",
@@ -635,5 +614,15 @@
         "singer": ["Mika Singh "],
         "genre": ["dance number","Pop"],
         "link": "https://www.youtube.com/watch?v=NPRd7Xc0tfM"
-    }
+    },
+{
+        "id": 53,
+        "name": "KHAIRIYAT",
+        "lyrics": "https://www.ilyricshub.com/khairiyat-chhichhore-arijit-singh/",
+        "album": "Chhichhore",
+        "Duration":"3 min 58 sec",
+        "singer": ["Arijit Singh "],
+        "genre": ["dance number","Pop"],
+        "link": "https://www.youtube.com/watch?v=hoNb6HuNmU0"
+    },
 ]
