@@ -889,6 +889,46 @@
 },
 {
         "id": 74,
+        "name": "Enna Sona",
+        "lyrics": "https://www.azlyrics.com/lyrics/arijitsingh/ennasona.html",
+        "album": "Ok Jaanu",
+        "Duration":"3 min 33 sec",
+        "singer": ["Arijit Singh"],
+        "genre": ["Romantic"],
+        "link": "https://youtu.be/mrdRHsIkK_c"
+},
+{
+        "id": 75 ,
+        "name": "Kalank (Title Track)",
+        "lyrics": "https://www.lyricsmint.com/kalank/kalank-title-track",
+        "album": "Kalank",
+        "Duration":"5 min 11 sec",
+        "singer": ["Arijit Singh"],
+        "genre": ["Romantic"],
+        "link": "https://youtu.be/Grr0FlC8SQA"
+},
+{
+        "id": 76,
+        "name": "Iktara",
+        "lyrics": "https://gaana.com/lyrics/iktara-9",
+        "album": "wake up sid",
+        "Duration":"4 min 13 sec",
+        "singer": ["Amitabh Bhattachary","Amit Trivedi", "kavita Seth"],
+        "genre": ["Romantic"],
+        "link": "https://www.youtube.com/watch?v=fSS_R91Nimw"
+},
+{
+        "id": 77 ,
+        "name": "tu bin bataye",
+        "lyrics": "https://genius.com/Ar-rahman-tu-bin-bataye-lyrics",
+        "album": "Rang de basanti",
+        "Duration":"5 min 55 sec",
+        "singer": ["A.R Rahman"],
+        "genre": ["Romantic"],
+        "link": "https://www.youtube.com/watch?v=UqblLzBwlns"
+},
+  {
+        "id": 80
         "name": "Kinna Sona",
         "lyrics": "https://www.ilyricshub.com/kinna-sona-marjaavaan/",
         "album": "Marjaavaan",
