@@ -645,8 +645,32 @@
         "singer": ["Arijit Singh "],
         "genre": ["dance number","Pop"],
         "link": "https://www.youtube.com/watch?v=hoNb6HuNmU0"
-    },{
+    },
+
+{
         "id": 55,
+        "name": "kun faya kun",
+        "lyrics": "https://genius.com/Ar-rahman-kun-faya-kun-lyrics",
+        "album": "Rockstar",
+        "Duration":"6 min 20 sec",
+        "singer": ["A R Rahman","Javed Ali"],
+        "genre": ["Sufi"],
+        "link": "https://youtu.be/T94PHkuydcw"
+    },
+
+{
+        "id": 56,
+        "name": "vienna waits for you",
+        "lyrics":" https://genius.com/Billy-joel-vienna-lyrics",
+        "album": "vienna",
+        "Duration":"3 min 37 sec",
+        "singer": ["billy joel "],
+        "genre": ["dance number","Pop"],
+        "link": "https://www.youtube.com/results?search_query=vienna"
+
+    },
+{
+        "id": 57,
         "name": "Dildara",
         "lyrics": "https://lyricsdna.com/songs/lyrics/dildara-dildara-lyrics-stand-by-me-ra-one",
         "album": "Ra.One",
@@ -654,28 +678,9 @@
         "singer": ["Abhijeet Bhattacharya, Sowmya Raoh "],
         "genre": ["dance number","Pop"],
         "link": "https://www.youtube.com/watch?v=gQ5qVtoLMk4"
-    },
-{
-    "id": 56,
-        "name": "zindagi ke safar me",
-        "lyrics": "https://youtu.be/eguJdX9igJE",
-        "album": "App Ki kasam",
-        "Duration":"7 min 17 sec",
-        "singer": ["Kishor Kumar"],
-        "genre": ["Romantic"],
-        "link": "https://youtu.be/TqdNqBA44Bg"
-    },
 
-{
-        "id": 57,
-        "name": "Tu Tu Hai Wahi ",
-        "lyrics": "https://www.lyricsoff.com/songs/tu-tu-hai-wahi-yeh-vaada-raha.html",
-        "album": "Yeh Vaada Raha ",
-        "Duration":"6 min 50 sec",
-        "singer": ["Kishore Kumar","Asha Bhosle"],
-        "genre": ["Romanace"],
-        "link": "https://youtu.be/hjfzFVw2Zjo"
-    }
+},
+
 {
         "id": 58,
         "name": "Meri Mehbooba",
@@ -685,6 +690,41 @@
         "singer": ["Kumar Sanu","Alka Yagnik"],
         "genre": ["Romanace"],
         "link": "https://www.youtube.com/watch?v=g1GJlyWjdY8"
+       },
+
+{
+        "id": 59,
+        "name": "Raat kali ek khwab mein aayi",
+        "lyrics": "https://gaana.com/lyrics/raat-kali-ek-khwab-men-aai-23",
+        "album": "Buddha Mil Gaya",
+        "Duration":"4 min 59 sec",
+        "singer": ["Kishore Kumar"],
+        "genre": ["Romanace"],
+        "link": "https://www.youtube.com/watch?v=jFYlChHSdzo"
+    },
+{
+        "id": 60,
+        "name": " Kisi Ki Muskurahaton Se ",
+        "lyrics": "https://youtu.be/z6FukwueP1o",
+        "album": "Legend Raj Kapoor-The Showman  Vol-3",
+        "Duration":"4 min 08 sec",
+        "singer": ["Mukesh"],
+        "genre": ["Motivational","Folk"],
+        "link": "https://youtu.be/z6FukwueP1o"
+},
+
+{
+        "id": 61,
+        "name": "Tu Tu Hai Wahi ",
+        "lyrics": "https://www.lyricsoff.com/songs/tu-tu-hai-wahi-yeh-vaada-raha.html",
+        "album": "Yeh Vaada Raha ",
+        "Duration":"6 min 50 sec",
+        "singer": ["Kishore Kumar","Asha Bhosle"],
+        "genre": ["Romanace"],
+        "link": "https://youtu.be/hjfzFVw2Zjo"
+
     }
+     
+
 
 ]
