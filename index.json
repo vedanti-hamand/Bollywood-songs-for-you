@@ -308,6 +308,17 @@
         "singer": ["Aditi Singh Sharma","Arijit Singh","Amaal Mallik"],
         "genre": ["Party"],
         "link": "https://www.youtube.com/watch?v=nJZcbidTutE"
+},
+{
+
+        "id": 31,
+        "name": "Aankhon Mein Teri",
+        "lyrics": "https://gaana.com/lyrics/aankhon-mein-teri",
+        "album": "Om Shanti Om",
+        "Duration":"4 min 1 sec",
+        "singer": ["KK"],
+        "genre": ["Love"],
+        "link": "https://www.youtube.com/watch?v=2drIKUOCZxU"
 }
 
 ]
