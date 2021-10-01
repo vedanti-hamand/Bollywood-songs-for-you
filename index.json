@@ -668,6 +668,38 @@
 
 {
         "id": 57,
+        "name": "Meri Mehbooba",
+        "lyrics": "https://www.lyricsbox.com/pardes-meri-mehbooba-lyrics-k19pln9.html",
+        "album": "Pardes",
+        "Duration":"5 min 26 sec",
+        "singer": ["Kumar Sanu","Alka Yagnik"],
+        "genre": ["Romanace"],
+        "link": "https://www.youtube.com/watch?v=g1GJlyWjdY8"
+       },
+
+{
+        "id": 58,
+        "name": "Raat kali ek khwab mein aayi",
+        "lyrics": "https://gaana.com/lyrics/raat-kali-ek-khwab-men-aai-23",
+        "album": "Buddha Mil Gaya",
+        "Duration":"4 min 59 sec",
+        "singer": ["Kishore Kumar"],
+        "genre": ["Romanace"],
+        "link": "https://www.youtube.com/watch?v=jFYlChHSdzo"
+    },
+{
+        "id": 59,
+        "name": " Kisi Ki Muskurahaton Se ",
+        "lyrics": "https://youtu.be/z6FukwueP1o",
+        "album": "Legend Raj Kapoor-The Showman  Vol-3",
+        "Duration":"4 min 08 sec",
+        "singer": ["Mukesh"],
+        "genre": ["Motivational","Folk"],
+        "link": "https://youtu.be/z6FukwueP1o"
+},
+
+{
+        "id": 60,
         "name": "Tu Tu Hai Wahi ",
         "lyrics": "https://www.lyricsoff.com/songs/tu-tu-hai-wahi-yeh-vaada-raha.html",
         "album": "Yeh Vaada Raha ",
@@ -675,16 +707,10 @@
         "singer": ["Kishore Kumar","Asha Bhosle"],
         "genre": ["Romanace"],
         "link": "https://youtu.be/hjfzFVw2Zjo"
-    },
-   {
-        "id": 58,
-        "name": "Shiddat Title Track",
-        "lyrics": "https://www.ilyricshub.com/shiddat-manan-bhardwaj/",
-        "album": "SHIDDAT",
-        "Duration":"2 min 26 sec",
-        "singer": [" Manan Bhardwaj"],
-        "genre": ["Romanace"],
-        "link": "https://youtu.be/4POvT6O0ygE"
+
     }
+     
+
+
 
 ]
