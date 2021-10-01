@@ -576,7 +576,7 @@
 {		
   "id": 51,
         "name": "Kal Ho Naa Ho",
-        "lyrics": "https://gaana.com/song/kya-mujhe-pyar-hai",
+        "lyrics": "https://www.lyrics.com/track/14063318/Sonu+Nigam/Kal+Ho+Naa+Ho",
         "album": "Kal Ho Naa Ho",
         "Duration":"4 min 46 sec",
         "singer": ["Sonu Nigam"],
@@ -605,5 +605,35 @@
         "genre": ["Party","Marathi"],
         "link": "https://www.youtube.com/watch?v=2gcsgfzqN8k"
     }
-
+,{
+  "id": 54,
+        "name": "Mitwa",
+        "lyrics": "https://lyricalwoods.com/1976-mitwa-song-lyrics/",
+        "album": "Kabhi Alvida Naa Kehna",
+        "Duration":"06 minutes 00 seconds",
+        "singer": ["Shankar Mahadevan, Caralisa Monteiro & Shafqat Amanat Ali "],
+        "genre": [" Romanace", "Filmy"],
+        "link": "https://www.youtube.com/watch?v=ru_5PA8cwkE"
+   
+},
+{
+        "id": 55,
+        "name": "dil dooba",
+        "lyrics": "https://gaana.com/lyrics/dil dooba",
+        "album": "khakee",
+        "Duration":"4 min 38 sec",
+        "singer": ["Sonu nigam "],
+        "genre": ["Motivation","Pop"],
+        "link": "https://www.youtube.com/watch?v=SAiyopkF22M"
+    },
+{
+        "id": 56,
+        "name": "Chinta ta chita chita",
+        "lyrics": "https://www.lyricsmint.com/rowdy-rathore/chinta-ta-ta-chita-chita",
+        "album": "Rowdy Rathore",
+        "Duration":"5 min 7 sec",
+        "singer": ["Mika Singh "],
+        "genre": ["dance number","Pop"],
+        "link": "https://www.youtube.com/watch?v=NPRd7Xc0tfM"
+    }
 ]
