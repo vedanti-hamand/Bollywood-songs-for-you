@@ -676,5 +676,15 @@
         "genre": ["Romanace"],
         "link": "https://youtu.be/hjfzFVw2Zjo"
     }
+{
+        "id": 58,
+        "name": "Meri Mehbooba",
+        "lyrics": "https://www.lyricsbox.com/pardes-meri-mehbooba-lyrics-k19pln9.html",
+        "album": "Pardes",
+        "Duration":"5 min 26 sec",
+        "singer": ["Kumar Sanu","Alka Yagnik"],
+        "genre": ["Romanace"],
+        "link": "https://www.youtube.com/watch?v=g1GJlyWjdY8"
+    }
 
 ]
