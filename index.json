@@ -451,7 +451,7 @@
 {
     "id": 43,
     "name":"Filhall",
-    "lyrices":"https://lyricsraag.com/filhaal-song-translation-akshay-kumar/",
+    "lyrics":"https://lyricsraag.com/filhaal-song-translation-akshay-kumar/",
     "album":"Filhall",
     "Duration":"4:16",
     "singer":["B Praak"],
@@ -460,8 +460,18 @@
 },
 {
     "id": 44,
+    "name":"Kun Faaya Kun",
+    "lyrics":"https://gaana.com/lyrics/kun-fayakun",
+    "album":"Rockstar",
+    "Duration":"6:21",
+    "singer":["A. R. Rahman, Javed Ali, Mohit Chauhan"],
+    "genre": ["Sufi"],
+    "link":"https://www.youtube.com/watch?v=T94PHkuydcw":
+}
+{
+  "id": 45,
     "name":"Dharkhaast",
-    "lyrices":"https://gaana.com/lyrics/darkhaast-1",
+    "lyrics":"https://gaana.com/lyrics/darkhaast-1",
     "album":"Shivaay",
     "Duration":"6:55",
     "singer":["Arijit Singh,Sunidhi Chauhan"],
@@ -469,7 +479,7 @@
     "link":"https://youtu.be/GNm7vIZXEYw":
 },
   {
-        "id": 44,
+        "id": 46,
         "name": "Bade Acche Lagte Hai",
         "lyrics": "https://gaana.com/lyrics/bade-achhe-lagte-hain",
         "album": "Balika Badhu(1976)",
