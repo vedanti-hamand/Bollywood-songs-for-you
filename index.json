@@ -886,5 +886,15 @@
         "singer": ["Arijit Singh"],
         "genre": ["Romantic"],
         "link": "https://youtu.be/AEIVhBS6baE"
+},
+{
+        "id": 74,
+        "name": "Kinna Sona",
+        "lyrics": "https://www.ilyricshub.com/kinna-sona-marjaavaan/",
+        "album": "Marjaavaan",
+        "Duration":"4 min 33 sec",
+        "singer": ["Jubin Nautiyal"],
+        "genre": ["Romantic"],
+        "link": "https://www.youtube.com/watch?v=7lfFZs50JHM"
 }
 ]
