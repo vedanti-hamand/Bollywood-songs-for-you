@@ -161,7 +161,7 @@
     },
   {
         "id": 17,
-        "name": "Raftaarein"",
+        "name": "Raftaarein",
         "lyrics": "https://www.indicine.com/movies/lyrics/raftaarein-lyrics-ra-one/",
         "album": "Ra.One",
         "Duration":4 min 45 sec",
@@ -451,7 +451,7 @@
 {
     "id": 43,
     "name":"Filhall",
-    "lyrices":"https://lyricsraag.com/filhaal-song-translation-akshay-kumar/",
+    "lyrics":"https://lyricsraag.com/filhaal-song-translation-akshay-kumar/",
     "album":"Filhall",
     "Duration":"4:16",
     "singer":["B Praak"],
@@ -467,5 +467,35 @@
     "singer":["Arijit Singh , Palak M"],
     "genre": ["Romantic"],
     "link":"https://youtu.be/ImnYPjOd1Tw"
-}
+},
+{
+    "id": 45,
+    "name":"Kun Faaya Kun",
+    "lyrics":"https://gaana.com/lyrics/kun-fayakun",
+    "album":"Rockstar",
+    "Duration":"6:21",
+    "singer":["A. R. Rahman, Javed Ali, Mohit Chauhan"],
+    "genre": ["Sufi"],
+    "link":"https://www.youtube.com/watch?v=T94PHkuydcw"
+},
+{
+  "id": 46,
+    "name":"Dharkhaast",
+    "lyrics":"https://gaana.com/lyrics/darkhaast-1",
+    "album":"Shivaay",
+    "Duration":"6:55",
+    "singer":["Arijit Singh,Sunidhi Chauhan"],
+    "genre": ["Romantic"],
+    "link":"https://youtu.be/GNm7vIZXEYw":
+},
+  {
+        "id": 47,
+        "name": "Bade Acche Lagte Hai",
+        "lyrics": "https://gaana.com/lyrics/bade-achhe-lagte-hain",
+        "album": "Balika Badhu(1976)",
+        "Duration":"3 min 41 sec",
+        "singer": [" Amit Kumar"],
+        "genre": ["Romantic"],
+        "link": "https://youtu.be/ags3vxqbk-s"
+    }
 ]
