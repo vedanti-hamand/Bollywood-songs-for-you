@@ -796,6 +796,26 @@
 
 },
 {
+    "id": 64,
+        "name": "Ilahi",
+        "lyrics": "https://gaana.com/lyrics/ilahi-9",
+        "album": "Yeh Jawaani Hai Deewani",
+        "Duration":"3 min 48 sec",
+        "singer": ["Pritam","Arijit Singh"],
+        "genre": ["Travel"],
+        "link": "https://www.youtube.com/watch?v=fdubeMFwuGs"
+},
+{
+    "id": 65,
+        "name": "Kaam 25",
+        "lyrics": "https://gaana.com/lyrics/kaam-25",
+        "album": "Sacred Games",
+        "Duration":"2 min 29 sec",
+        "singer": ["Divine"],
+        "genre": ["Rap"],
+        "link": "https://www.youtube.com/watch?v=ATf05n5LBHQ"
+},
+{
         "id": 69,
         "name": "Drivers license",
         "lyrics": "https://www.republicworld.com/entertainment-news/music/drivers-license-lyrics-and-meaning-behind-this-olivia-rodrigo-song-explained.html",
@@ -835,5 +855,4 @@
         "genre": ["Romantic"],
         "link": "https://www.youtube.com/watch?v=rTuxUAuJRyY"
 }
-
 ]
