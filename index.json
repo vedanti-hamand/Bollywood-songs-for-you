@@ -457,5 +457,15 @@
     "singer":["B Praak"],
     "genre": ["Romantic"],
     "link":"https://youtu.be/DUwlGduupRI":
+},
+{
+    "id": 44,
+    "name":"Kun Faaya Kun",
+    "lyrices":"https://gaana.com/lyrics/kun-fayakun",
+    "album":"Rockstar",
+    "Duration":"6:21",
+    "singer":["A. R. Rahman, Javed Ali, Mohit Chauhan"],
+    "genre": ["Sufi"],
+    "link":"https://www.youtube.com/watch?v=T94PHkuydcw":
 }
 ]
