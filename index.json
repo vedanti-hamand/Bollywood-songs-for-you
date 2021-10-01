@@ -743,4 +743,16 @@
 
 
 },
+{
+    "id": 64,
+        "name": "Janam Janam",
+        "lyrics": "https://www.azlyrics.com/lyrics/arijitsingh/janamjanam.html",
+        "album": "Dilwale",
+        "Duration":"4 min 13 sec",
+        "singer": [" Arjit Singh"],
+        "genre": ["Romantic"],
+        "link": "https://www.youtube.com/watch?v=pIBoAh4OXhQ"
+
+
+}
 ]
