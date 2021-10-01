@@ -164,7 +164,7 @@
         "name": "Raftaarein",
         "lyrics": "https://www.indicine.com/movies/lyrics/raftaarein-lyrics-ra-one/",
         "album": "Ra.One",
-        "Duration":4 min 45 sec",
+        "Duration":"4 min 45 sec",
         "singer": ["Vishal Dadlani"],
         "genre": ["Pop"],
         "link": "https://www.youtube.com/watch?v=MlE-GojmNwM&ab_channel=T-Series"
@@ -503,6 +503,18 @@
         "singer": [" Bombay Jayashri"],
         "genre": ["Romantic", "Filmy"],
         "link": "https://youtu.be/NeXbmEnpSz0"
+
+},
+{
+
+    "id": 49,
+    "name": "Dil Ko Karar Aaya",
+    "lyrics": "https://gaana.com/lyrics/dil-ko-karaar-aaya",
+    "album": "Sukoon",
+    "Duration":"2 min 29 sec",
+    "singer": [" Neha Kakkar & Yasser Desai"],
+    "genre": ["Romantic", "lo-fi"],
+    "link": "https://youtu.be/Ad5s2_Z7-Pw"
 
 }
 ]
