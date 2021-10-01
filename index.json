@@ -899,6 +899,16 @@
 },
 {
         "id": 75,
+        "name": "Khoj",
+        "lyrics": "https://genius.com/When-chai-met-toast-khoj-lyrics",
+        "album": "Believe",
+        "Duration":"3 min 31 sec",
+        "singer": ["When Chai Met Toast pop/folk band"],
+        "genre": ["Pop, Rock, Folk"],
+        "link": "https://youtu.be/LMEdbBK4bk0"
+},
+{ 
+        "id": 76
         "name": "Kinna Sona",
         "lyrics": "https://www.ilyricshub.com/kinna-sona-marjaavaan/",
         "album": "Marjaavaan",
