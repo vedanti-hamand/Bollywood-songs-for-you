@@ -675,6 +675,17 @@
         "singer": ["Kishore Kumar","Asha Bhosle"],
         "genre": ["Romanace"],
         "link": "https://youtu.be/hjfzFVw2Zjo"
+    },
+
+{
+        "id": 58,
+        "name": "Raat kali ek khwab mein aayi",
+        "lyrics": "https://gaana.com/lyrics/raat-kali-ek-khwab-men-aai-23",
+        "album": "Buddha Mil Gaya",
+        "Duration":"4 min 59 sec",
+        "singer": ["Kishore Kumar"],
+        "genre": ["Romanace"],
+        "link": "https://www.youtube.com/watch?v=jFYlChHSdzo"
     }
 
 ]
