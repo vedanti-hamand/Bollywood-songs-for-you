@@ -645,21 +645,19 @@
         "singer": ["Arijit Singh "],
         "genre": ["dance number","Pop"],
         "link": "https://www.youtube.com/watch?v=hoNb6HuNmU0"
-
     },
 
 {
         "id": 55,
-        "name": "Believer",
-        "lyrics": "https://gaana.com/lyrics/believer-224",
-        "album": "Imagine dragons",
-        "Duration":"3 min 36 sec",
-        "singer": ["Mattias Larsson, Dan Reynolds, Robin Fredriksson, Ben McKee, Justin Tranter, Daniel Platzman, Daniel Wayne Sermon"],
-        "genre": ["Motivation"],
-        "link": "https://youtu.be/7wtfhZwyrcc"
-
-
+        "name": "kun faya kun",
+        "lyrics": "https://genius.com/Ar-rahman-kun-faya-kun-lyrics",
+        "album": "Rockstar",
+        "Duration":"6 min 20 sec",
+        "singer": ["A R Rahman","Javed Ali"],
+        "genre": ["Sufi"],
+        "link": "https://youtu.be/T94PHkuydcw"
     },
+
 {
         "id": 56,
         "name": "vienna waits for you",
@@ -670,7 +668,8 @@
         "genre": ["dance number","Pop"],
         "link": "https://www.youtube.com/results?search_query=vienna"
 
-    },{
+    },
+{
         "id": 57,
         "name": "Dildara",
         "lyrics": "https://lyricsdna.com/songs/lyrics/dildara-dildara-lyrics-stand-by-me-ra-one",
@@ -681,5 +680,6 @@
         "link": "https://www.youtube.com/watch?v=gQ5qVtoLMk4"
 
     }
+
 
 ]
