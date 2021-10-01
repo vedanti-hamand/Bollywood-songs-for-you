@@ -504,5 +504,17 @@
         "genre": ["Romantic", "Filmy"],
         "link": "https://youtu.be/NeXbmEnpSz0"
 
+},
+{
+
+        "id": 49,
+        "name": "Bawaal",
+        "lyrics": "https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwi7v5zqyKjzAhXVXCsKHVZeDe0QFnoECAIQAQ&url=https%3A%2F%2Fwww.lyricsbell.com%2Fbawaal-mj5%2F&usg=AOvVaw2ptmUKxp_hdhV-MMKr5kP_",
+        "album": "ZBawaal",
+        "Duration":"3 min 14 sec",
+        "singer": [" Kartik, Rohit"],
+        "genre": [ "Filmy"],
+        "link": "https://youtu.be/SGLVh57-HJs"
+
 }
 ]
