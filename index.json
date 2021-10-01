@@ -456,20 +456,30 @@
     "Duration":"4:16",
     "singer":["B Praak"],
     "genre": ["Romantic"],
-    "link":"https://youtu.be/DUwlGduupRI":
+    "link":"https://youtu.be/DUwlGduupRI"
 },
 {
     "id": 44,
+    "name":"Dekha Hazaro Dafaa",
+    "lyrices":"https://www.azlyrics.com/lyrics/arijitsingh/dekhahazarodafa.html",
+    "album":"Rustom",
+    "Duration":"3:33",
+    "singer":["Arijit Singh , Palak M"],
+    "genre": ["Romantic"],
+    "link":"https://youtu.be/ImnYPjOd1Tw"
+},
+{
+    "id": 45,
     "name":"Kun Faaya Kun",
     "lyrics":"https://gaana.com/lyrics/kun-fayakun",
     "album":"Rockstar",
     "Duration":"6:21",
     "singer":["A. R. Rahman, Javed Ali, Mohit Chauhan"],
     "genre": ["Sufi"],
-    "link":"https://www.youtube.com/watch?v=T94PHkuydcw":
-}
+    "link":"https://www.youtube.com/watch?v=T94PHkuydcw"
+},
 {
-  "id": 45,
+  "id": 46,
     "name":"Dharkhaast",
     "lyrics":"https://gaana.com/lyrics/darkhaast-1",
     "album":"Shivaay",
@@ -479,7 +489,7 @@
     "link":"https://youtu.be/GNm7vIZXEYw":
 },
   {
-        "id": 46,
+        "id": 47,
         "name": "Bade Acche Lagte Hai",
         "lyrics": "https://gaana.com/lyrics/bade-achhe-lagte-hain",
         "album": "Balika Badhu(1976)",
