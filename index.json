@@ -583,4 +583,14 @@
         "genre": ["Motivation","Pop"],
         "link": "https://www.youtube.com/watch?v=SAiyopkF22M"
     },
+{
+        "id": 53,
+        "name": "Panchhi Banoo Udti Phiroon ",
+        "lyrics": "https://youtu.be/fUtIQtRMGzg",
+        "album": "Chori Chori",
+        "Duration":"4 min 20 sec",
+        "singer": ["Lata Mangeshkar"],
+        "genre": ["Motivation","Folk"],
+        "link": "https://youtu.be/bIhhCGFR2NE"
+    },
 ]
