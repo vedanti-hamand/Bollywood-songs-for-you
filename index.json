@@ -634,4 +634,24 @@
         "genre": ["dance number","Pop"],
         "link": "https://www.youtube.com/watch?v=hoNb6HuNmU0"
     }
+{
+    "id": 55,
+    "name":"Dekha Hazaro Dafaa",
+    "lyrices":"https://www.azlyrics.com/lyrics/arijitsingh/dekhahazarodafa.html",
+    "album":"Rustom",
+    "Duration":"3:33",
+    "singer":["Arijit Singh , Palak M"],
+    "genre": ["Romantic"],
+    "link":"https://youtu.be/ImnYPjOd1Tw"
+},
+{
+    "id": 56,
+    "name":"Mere Mehboob Qayamat Hogi",
+    "lyrices":"https://youtu.be/EBRc5ckj5k0",
+    "album":"NA",
+    "Duration":"4:32",
+    "singer":["Kishore Kumar"],
+    "genre": ["Romantic"],
+    "link":"https://youtu.be/yIzCBU0_LyY"
+},
 ]
