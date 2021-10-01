@@ -680,16 +680,17 @@
         "link": "https://www.youtube.com/watch?v=gQ5qVtoLMk4"
 
 },
+
 {
         "id": 58,
-        "name": "Tu Tu Hai Wahi ",
-        "lyrics": "https://www.lyricsoff.com/songs/tu-tu-hai-wahi-yeh-vaada-raha.html",
-        "album": "Yeh Vaada Raha ",
-        "Duration":"6 min 50 sec",
-        "singer": ["Kishore Kumar","Asha Bhosle"],
+        "name": "Meri Mehbooba",
+        "lyrics": "https://www.lyricsbox.com/pardes-meri-mehbooba-lyrics-k19pln9.html",
+        "album": "Pardes",
+        "Duration":"5 min 26 sec",
+        "singer": ["Kumar Sanu","Alka Yagnik"],
         "genre": ["Romanace"],
-        "link": "https://youtu.be/hjfzFVw2Zjo"
-    },
+        "link": "https://www.youtube.com/watch?v=g1GJlyWjdY8"
+       },
 
 {
         "id": 59,
@@ -710,7 +711,20 @@
         "singer": ["Mukesh"],
         "genre": ["Motivational","Folk"],
         "link": "https://youtu.be/z6FukwueP1o"
-}
+},
+
+{
+        "id": 61,
+        "name": "Tu Tu Hai Wahi ",
+        "lyrics": "https://www.lyricsoff.com/songs/tu-tu-hai-wahi-yeh-vaada-raha.html",
+        "album": "Yeh Vaada Raha ",
+        "Duration":"6 min 50 sec",
+        "singer": ["Kishore Kumar","Asha Bhosle"],
+        "genre": ["Romanace"],
+        "link": "https://youtu.be/hjfzFVw2Zjo"
+
+    }
      
+
 
 ]
