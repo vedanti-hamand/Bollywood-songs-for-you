@@ -796,6 +796,18 @@
 
 },
 {
+    "id": 63,
+        "name": "Love you zindagi",
+        "lyrics": "http://songolyrics.in/dear-zindagi/love-you-zindagi",
+        "album": "Dear Zindagi",
+        "Duration":"4 min 11 sec",
+        "singer": [" Jasleen Royal"],
+        "genre": ["motivation"],
+        "link": "https://www.youtube.com/watch?v=bw7bVpI5VcM"
+
+
+},
+{
     "id": 64,
         "name": "Ilahi",
         "lyrics": "https://gaana.com/lyrics/ilahi-9",
