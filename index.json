@@ -664,6 +664,17 @@
         "singer": ["Kishor Kumar"],
         "genre": ["Romantic"],
         "link": "https://youtu.be/TqdNqBA44Bg"
+    },
+
+{
+        "id": 57,
+        "name": "Tu Tu Hai Wahi ",
+        "lyrics": "https://www.lyricsoff.com/songs/tu-tu-hai-wahi-yeh-vaada-raha.html",
+        "album": "Yeh Vaada Raha ",
+        "Duration":"6 min 50 sec",
+        "singer": ["Kishore Kumar","Asha Bhosle"],
+        "genre": ["Romanace"],
+        "link": "https://youtu.be/hjfzFVw2Zjo"
     }
 
 ]
