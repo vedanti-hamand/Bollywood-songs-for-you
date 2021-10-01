@@ -321,8 +321,6 @@
         "singer": ["MC STAN"],
         "genre": ["Motivation", "Pop"],
         "link": "https://youtu.be/DSb7tmVcZm4"
-
-
 },
 {
         "id": 22,
@@ -385,9 +383,6 @@
         "singer": ["Marshmello & Anne-Marie "],
         "genre": ["Romance"],
         "link": "https://youtu.be/jzD_yyEcp0M"
-
-          
-
     },
 {
     "id":34,
@@ -497,5 +492,17 @@
         "singer": [" Amit Kumar"],
         "genre": ["Romantic"],
         "link": "https://youtu.be/ags3vxqbk-s"
-    }
+    },
+{
+
+        "id": 48,
+        "name": "Zara Zara",
+        "lyrics": "https://gaana.com/lyrics/zara-zara-5",
+        "album": "Zara Zara",
+        "Duration":"4 min 56 sec",
+        "singer": [" Bombay Jayashri"],
+        "genre": ["Romantic", "Filmy"],
+        "link": "https://youtu.be/NeXbmEnpSz0"
+
+}
 ]
