@@ -896,5 +896,15 @@
         "singer": ["Jubin Nautiyal"],
         "genre": ["Romantic"],
         "link": "https://www.youtube.com/watch?v=7lfFZs50JHM"
-}
+},
+{
+        "id": 75,
+        "name": "Khoj",
+        "lyrics": "https://genius.com/When-chai-met-toast-khoj-lyrics",
+        "album": "Believe",
+        "Duration":"3 min 31 sec",
+        "singer": ["When Chai Met Toast pop/folk band"],
+        "genre": ["Pop, Rock, Folk"],
+        "link": "https://youtu.be/LMEdbBK4bk0"
+},
 ]
