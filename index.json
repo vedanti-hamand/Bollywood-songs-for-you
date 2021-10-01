@@ -516,5 +516,17 @@
     "genre": ["Romantic", "lo-fi"],
     "link": "https://youtu.be/Ad5s2_Z7-Pw"
 
+},
+{
+
+    "id": 50,
+    "name": "Tujh Mein Rab Dikhta Hai",
+    "lyrics": "https://gaana.com/lyrics/tujh-mein-rab-dikhta-hai",
+    "album": "Tujh Mein Rab Dikhta Hai",
+    "Duration":"2 min 42 sec",
+    "singer": ["Roop Kumar Rathod"],
+    "genre": ["Romantic", "lo-fi"],
+    "link": "https://youtu.be/3qrpE5T10RI"
+
 }
 ]
