@@ -647,10 +647,23 @@
         "link": "https://www.youtube.com/watch?v=hoNb6HuNmU0"
 
     },
+
 {
         "id": 55,
+        "name": "Believer",
+        "lyrics": "https://gaana.com/lyrics/believer-224",
+        "album": "Imagine dragons",
+        "Duration":"3 min 36 sec",
+        "singer": ["Mattias Larsson, Dan Reynolds, Robin Fredriksson, Ben McKee, Justin Tranter, Daniel Platzman, Daniel Wayne Sermon"],
+        "genre": ["Motivation"],
+        "link": "https://youtu.be/7wtfhZwyrcc"
+
+
+    },
+{
+        "id": 56,
         "name": "vienna waits for you",
-        "lyrics": https://genius.com/Billy-joel-vienna-lyrics"",
+        "lyrics":" https://genius.com/Billy-joel-vienna-lyrics",
         "album": "vienna",
         "Duration":"3 min 37 sec",
         "singer": ["billy joel "],
@@ -658,7 +671,7 @@
         "link": "https://www.youtube.com/results?search_query=vienna"
 
     },{
-        "id": 56,
+        "id": 57,
         "name": "Dildara",
         "lyrics": "https://lyricsdna.com/songs/lyrics/dildara-dildara-lyrics-stand-by-me-ra-one",
         "album": "Ra.One",
