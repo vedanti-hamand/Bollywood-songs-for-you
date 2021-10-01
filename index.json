@@ -540,6 +540,18 @@
 
 },
 {
+    "id": 50,
+        "name": "Bhul Bhulaiya Title Track",
+        "lyrics": "https://gaana.com/song/bhool-bhulaiyaa-remix-1",
+        "album": "Bhul Bhulaiya Remix",
+        "Duration":"5 min 04 sec",
+        "singer": [" Neeraj Sridhar"],
+        "genre": ["Funny"],
+        "link": "https://www.youtube.com/watch?v=1hCQgzZoeNM"
+
+
+},
+{
 
         "id": 50,
         "name": "Dil galt Kar Baitha hai",
@@ -583,4 +595,5 @@
         "genre": ["Motivation","Pop"],
         "link": "https://www.youtube.com/watch?v=SAiyopkF22M"
     },
+
 ]
