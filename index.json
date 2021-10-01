@@ -765,6 +765,16 @@
 },
 {
     "id": 64,
+        "name": "Kashmir Main Tu Kanyakumari",
+        "lyrics": "https://www.lyricsoff.com/songs/kashmir-main-tu-kanyakumari.html",
+        "album": "Chennai Express",
+        "Duration":"3 min 41 sec",
+        "singer": ["Arijit Singh","Sunidhi Chauhan"],
+        "genre": ["Folk"],
+        "link": "https://www.youtube.com/watch?v=dodDteh-m3Q"
+},
+{
+    "id": 64,
         "name": "Dekhte Dekhte",
         "lyrics": "https://www.lyricspedia.co.in/dekhte-dekhte-lyrics-atif-aslam/",
         "album": "Batti Gul Meter Chalu",
