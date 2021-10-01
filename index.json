@@ -896,5 +896,15 @@
         "singer": ["Jubin Nautiyal"],
         "genre": ["Romantic"],
         "link": "https://www.youtube.com/watch?v=7lfFZs50JHM"
+},
+{
+        "id": 75,
+        "name": "Mere naal tu whistle baja",
+        "lyrics": "https://gaana.com/lyrics/whistle-baja",
+        "album": "Heropanti",
+        "Duration":"3 min 25 sec",
+        "singer": ["Manj Musik"],
+        "genre": ["Romantic"],
+        "link": "https://www.youtube.com/watch?v=5NM7VF0AOfo"
 }
 ]
