@@ -764,6 +764,18 @@
 
 },
 {
+    "id": 64,
+        "name": "Janam Janam",
+        "lyrics": "https://www.azlyrics.com/lyrics/arijitsingh/janamjanam.html",
+        "album": "Dilwale",
+        "Duration":"4 min 13 sec",
+        "singer": [" Arjit Singh"],
+        "genre": ["Romantic"],
+        "link": "https://www.youtube.com/watch?v=pIBoAh4OXhQ"
+
+
+},
+{
         "id": 65,
         "name": "Drivers license",
         "lyrics": "https://www.republicworld.com/entertainment-news/music/drivers-license-lyrics-and-meaning-behind-this-olivia-rodrigo-song-explained.html",
@@ -803,5 +815,4 @@
         "genre": ["Romantic"],
         "link": "https://www.youtube.com/watch?v=rTuxUAuJRyY"
 }
-
 ]
