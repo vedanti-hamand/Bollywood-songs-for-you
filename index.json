@@ -559,20 +559,8 @@
         "singer": [" KK,Pritam"],
         "genre": ["Romantic", "Filmy"],
         "link": "https://www.youtube.com/watch?v=lrAM_H7v8wM"
+}
 
-},
-{
-    "id": 50,
-        "name": "Bhul Bhulaiya Title Track",
-        "lyrics": "https://gaana.com/song/bhool-bhulaiyaa-remix-1",
-        "album": "Bhul Bhulaiya Remix",
-        "Duration":"5 min 04 sec",
-        "singer": [" Neeraj Sridhar"],
-        "genre": ["Funny"],
-        "link": "https://www.youtube.com/watch?v=1hCQgzZoeNM"
-
-
-},
 {
 
         "id": 50,
@@ -608,6 +596,16 @@
 
 },
 {
+        "id": 50,
+        "name": "Kal Ho Naa Ho ",
+        "lyrics": "https://gaana.com/lyrics/kal-ho-naa-ho-5",
+        "album": " Kal Ho Naa Ho ",
+        "Duration":"5 min 23 sec",
+        "singer": ["Sonu Nigam"],
+        "genre": ["Romance","Filmi"],
+        "link": "https://youtu.be/g0eO74UmRBs"
+
+},{
         "id": 51,
         "name": "dil dooba",
         "lyrics": "https://gaana.com/lyrics/dil dooba",
@@ -722,7 +720,27 @@
         "genre": ["Filmy"],
         "link": "https://www.youtube.com/watch?v=HqUeSjsYLNU"
     },
+,{ 
+    
+        "id": 62,
+        "name": "Pani Da Rang",
+        "lyrics": "https://gaana.com/lyrics/pani-di-gal",
+        "album": "Vicky Donor",
+        "Duration":"4 min",
+        "singer": [" Ayushman Khurrana"],
+        "genre": ["Filmi, Acoustic pop"],
+        "link": "https://youtu.be/2kgEc6oH9J0"
+},
+{
+    "id": 63,
+        "name": "Bhul Bhulaiya Title Track",
+        "lyrics": "https://gaana.com/song/bhool-bhulaiyaa-remix-1",
+        "album": "Bhul Bhulaiya Remix",
+        "Duration":"5 min 04 sec",
+        "singer": [" Neeraj Sridhar"],
+        "genre": ["Funny"],
+        "link": "https://www.youtube.com/watch?v=1hCQgzZoeNM"
 
-     
 
+},
 ]
