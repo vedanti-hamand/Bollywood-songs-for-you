@@ -645,32 +645,8 @@
         "singer": ["Arijit Singh "],
         "genre": ["dance number","Pop"],
         "link": "https://www.youtube.com/watch?v=hoNb6HuNmU0"
-    },
-
-{
+    },{
         "id": 55,
-        "name": "kun faya kun",
-        "lyrics": "https://genius.com/Ar-rahman-kun-faya-kun-lyrics",
-        "album": "Rockstar",
-        "Duration":"6 min 20 sec",
-        "singer": ["A R Rahman","Javed Ali"],
-        "genre": ["Sufi"],
-        "link": "https://youtu.be/T94PHkuydcw"
-    },
-
-{
-        "id": 56,
-        "name": "vienna waits for you",
-        "lyrics":" https://genius.com/Billy-joel-vienna-lyrics",
-        "album": "vienna",
-        "Duration":"3 min 37 sec",
-        "singer": ["billy joel "],
-        "genre": ["dance number","Pop"],
-        "link": "https://www.youtube.com/results?search_query=vienna"
-
-    },
-{
-        "id": 57,
         "name": "Dildara",
         "lyrics": "https://lyricsdna.com/songs/lyrics/dildara-dildara-lyrics-stand-by-me-ra-one",
         "album": "Ra.One",
@@ -678,9 +654,16 @@
         "singer": ["Abhijeet Bhattacharya, Sowmya Raoh "],
         "genre": ["dance number","Pop"],
         "link": "https://www.youtube.com/watch?v=gQ5qVtoLMk4"
-
-
-
+    },
+{
+    "id": 56,
+        "name": "zindagi ke safar me",
+        "lyrics": "https://youtu.be/eguJdX9igJE",
+        "album": "App Ki kasam",
+        "Duration":"7 min 17 sec",
+        "singer": ["Kishor Kumar"],
+        "genre": ["Romantic"],
+        "link": "https://youtu.be/TqdNqBA44Bg"
     }
 
 ]
