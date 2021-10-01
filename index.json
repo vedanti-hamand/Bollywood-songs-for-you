@@ -359,7 +359,7 @@
         "id": 33,
         "name": "Saagar Kinare-Sagar(1985)",
         "lyrics": "https://www.lyrics.com/lyric/28653018/Kishore+Kumar/Saagar+Kinare",
-        "album": "Saagar Kinare-Saagar
+        "album": "Saagar Kinare-Saagar",
         "Duration":"3 min 45 sec",
         "singer": ["Lata Mangeshkar","Kishore Kumar"]
 },
@@ -743,4 +743,24 @@
 
 
 },
+{
+    "id": 64,
+        "name": "Ilahi",
+        "lyrics": "https://gaana.com/lyrics/ilahi-9",
+        "album": "Yeh Jawaani Hai Deewani",
+        "Duration":"3 min 48 sec",
+        "singer": ["Pritam","Arijit Singh"],
+        "genre": ["Travel"],
+        "link": "https://www.youtube.com/watch?v=fdubeMFwuGs"
+},
+{
+    "id": 65,
+        "name": "Kaam 25",
+        "lyrics": "https://gaana.com/lyrics/kaam-25",
+        "album": "Sacred Games",
+        "Duration":"2 min 29 sec",
+        "singer": ["Divine"],
+        "genre": ["Rap"],
+        "link": "https://www.youtube.com/watch?v=ATf05n5LBHQ"
+}
 ]
