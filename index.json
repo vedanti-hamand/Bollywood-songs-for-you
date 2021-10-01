@@ -535,6 +535,18 @@
     "genre": ["Romantic", "lo-fi"],
     "link": "https://youtu.be/Ad5s2_Z7-Pw"
 
+},
+{
+
+        "id": 21,
+        "name": "Sheikchillie",
+        "lyrics": "https://www.lyrics.com/sublyric/54086/Raftaar/Sheikh+Chilli+Original+Lyrics",
+        "album": "Sheikchillie",
+        "Duration":"4 min 13 sec",
+        "singer": ["sheikchilli"],
+        "genre": ["Pop"],
+        "link": "https://www.youtube.com/watch?v=uykOHAhId0Q"
+
 }
 ,
 {
