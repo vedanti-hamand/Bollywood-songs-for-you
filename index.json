@@ -540,5 +540,17 @@
     "genre": ["Romantic", "lo-fi"],
     "link": "https://youtu.be/nYe7d117C6w"
 
+},
+{
+
+    "id": 52,
+    "name": "Tum Tak",
+    "lyrics": "https://gaana.com/lyrics/tum-tak",
+    "album": "Tum Tak",
+    "Duration":"3 min 28 sec",
+    "singer": ["Javed Ali, Kirti Sagathia, and Pooja AV"],
+    "genre": ["Romantic", "lo-fi"],
+    "link": "https://youtu.be/M4CxChgi4e8"
+
 }
 ]
