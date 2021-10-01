@@ -541,5 +541,17 @@
         "genre": ["Filmi, Acoustic pop"],
         "link": "https://youtu.be/2kgEc6oH9J0"
 
+},
+{
+        "id": 51,
+        "name": "Kal Ho Naa Ho ",
+        "lyrics": "https://gaana.com/lyrics/kal-ho-naa-ho-5",
+        "album": " Kal Ho Naa Ho ",
+        "Duration":"5 min 23 sec",
+        "singer": ["Sonu Nigam"],
+        "genre": ["Romance","Filmi"],
+        "link": "https://youtu.be/g0eO74UmRBs"
+
 }
+    
 ]
