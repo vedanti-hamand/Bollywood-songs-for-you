@@ -516,6 +516,42 @@
     "genre": ["Romantic", "lo-fi"],
     "link": "https://youtu.be/Ad5s2_Z7-Pw"
 
+},
+{
+
+    "id": 50,
+    "name": "Tujh Mein Rab Dikhta Hai",
+    "lyrics": "https://gaana.com/lyrics/tujh-mein-rab-dikhta-hai",
+    "album": "Tujh Mein Rab Dikhta Hai",
+    "Duration":"2 min 42 sec",
+    "singer": ["Roop Kumar Rathod"],
+    "genre": ["Romantic", "lo-fi"],
+    "link": "https://youtu.be/3qrpE5T10RI"
+
+},
+{
+
+    "id": 51,
+    "name": "Jeena Jeena - atif aslam",
+    "lyrics": "https://www.azlyrics.com/lyrics/atifaslam/jeenajeena.html",
+    "album": "Jeena Jeena",
+    "Duration":"2 min 52 sec",
+    "singer": ["Atif Aslam"],
+    "genre": ["Romantic", "lo-fi"],
+    "link": "https://youtu.be/nYe7d117C6w"
+
+},
+{
+
+    "id": 52,
+    "name": "Tum Tak",
+    "lyrics": "https://gaana.com/lyrics/tum-tak",
+    "album": "Tum Tak",
+    "Duration":"3 min 28 sec",
+    "singer": ["Javed Ali, Kirti Sagathia, and Pooja AV"],
+    "genre": ["Romantic", "lo-fi"],
+    "link": "https://youtu.be/M4CxChgi4e8"
+
 }
 ,
 {
