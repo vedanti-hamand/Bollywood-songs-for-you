@@ -679,10 +679,30 @@
         "genre": ["dance number","Pop"],
         "link": "https://www.youtube.com/watch?v=gQ5qVtoLMk4"
 
-
-    }
+},
 {
         "id": 58,
+        "name": "Tu Tu Hai Wahi ",
+        "lyrics": "https://www.lyricsoff.com/songs/tu-tu-hai-wahi-yeh-vaada-raha.html",
+        "album": "Yeh Vaada Raha ",
+        "Duration":"6 min 50 sec",
+        "singer": ["Kishore Kumar","Asha Bhosle"],
+        "genre": ["Romanace"],
+        "link": "https://youtu.be/hjfzFVw2Zjo"
+    },
+
+{
+        "id": 59,
+        "name": "Raat kali ek khwab mein aayi",
+        "lyrics": "https://gaana.com/lyrics/raat-kali-ek-khwab-men-aai-23",
+        "album": "Buddha Mil Gaya",
+        "Duration":"4 min 59 sec",
+        "singer": ["Kishore Kumar"],
+        "genre": ["Romanace"],
+        "link": "https://www.youtube.com/watch?v=jFYlChHSdzo"
+    },
+{
+        "id": 60,
         "name": " Kisi Ki Muskurahaton Se ",
         "lyrics": "https://youtu.be/z6FukwueP1o",
         "album": "Legend Raj Kapoor-The Showman  Vol-3",
@@ -690,7 +710,7 @@
         "singer": ["Mukesh"],
         "genre": ["Motivational","Folk"],
         "link": "https://youtu.be/z6FukwueP1o"
-},
+}
      
 
 ]
