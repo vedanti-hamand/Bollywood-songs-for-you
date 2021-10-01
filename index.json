@@ -607,6 +607,15 @@
     },
 {
         "id": 52,
+        "name": "Panchhi Banoo Udti Phiroon ",
+        "lyrics": "https://youtu.be/fUtIQtRMGzg",
+        "album": "Chori Chori",
+        "Duration":"4 min 20 sec",
+        "singer": ["Lata Mangeshkar"],
+        "genre": ["Motivation","Folk"],
+        "link": "https://youtu.be/bIhhCGFR2NE"
+},{
+        "id": 53,
         "name": "Chinta ta chita chita",
         "lyrics": "https://www.lyricsmint.com/rowdy-rathore/chinta-ta-ta-chita-chita",
         "album": "Rowdy Rathore",
@@ -616,7 +625,7 @@
         "link": "https://www.youtube.com/watch?v=NPRd7Xc0tfM"
     },
 {
-        "id": 53,
+        "id": 54,
         "name": "KHAIRIYAT",
         "lyrics": "https://www.ilyricshub.com/khairiyat-chhichhore-arijit-singh/",
         "album": "Chhichhore",
@@ -624,5 +633,5 @@
         "singer": ["Arijit Singh "],
         "genre": ["dance number","Pop"],
         "link": "https://www.youtube.com/watch?v=hoNb6HuNmU0"
-    },
+    }
 ]
