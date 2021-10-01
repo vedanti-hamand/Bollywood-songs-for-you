@@ -743,4 +743,14 @@
 
 
 },
+    {
+        "id": 64,
+        "name": "Bahara",
+        "lyrics": "https://gaana.com/lyrics/bahara-13",
+        "album": "I Hate Luv Storys",
+        "Duration":"4 min 08 sec",
+        "singer": ["Shreya Goshal", "Sona Mohapatra", "Vishal–Shekhar"],
+        "genre": ["Romantic"],
+        "link": "https://youtu.be/_VOXxKDNCuM"
+    }
 ]
