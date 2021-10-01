@@ -322,5 +322,17 @@
         "link": "https://youtu.be/DSb7tmVcZm4"
 
 }
+{
+
+        "id": 22,
+        "name": "Zara Zara",
+        "lyrics": "https://gaana.com/lyrics/zara-zara-5",
+        "album": "Zara Zara",
+        "Duration":"4 min 56 sec",
+        "singer": [" Bombay Jayashri"],
+        "genre": ["Romantic", "Filmy"],
+        "link": "https://youtu.be/NeXbmEnpSz0"
+
+}
 
 ]
