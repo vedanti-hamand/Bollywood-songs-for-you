@@ -529,5 +529,17 @@
         "genre": ["Romantic", "Filmy"],
         "link": "https://www.youtube.com/watch?v=lrAM_H7v8wM"
 
+},
+{
+
+        "id": 50,
+        "name": "Dil galt Kar Baitha hai",
+        "lyrics": "https://gaana.com/song/dil-galti-kar-baitha-hai-feat-mouni-roy",
+        "album": "Dil galt Kar Baitha hai",
+        "Duration":"4 min 26 sec",
+        "singer": ["jubin"],
+        "genre": ["Romantic", "Filmy"],
+        "link": "https://www.youtube.com/watch?v=lrAM_H7v8wM"
+
 }
 ]
