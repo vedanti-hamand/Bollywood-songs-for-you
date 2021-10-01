@@ -516,42 +516,6 @@
     "genre": ["Romantic", "lo-fi"],
     "link": "https://youtu.be/Ad5s2_Z7-Pw"
 
-},
-{
-
-    "id": 50,
-    "name": "Tujh Mein Rab Dikhta Hai",
-    "lyrics": "https://gaana.com/lyrics/tujh-mein-rab-dikhta-hai",
-    "album": "Tujh Mein Rab Dikhta Hai",
-    "Duration":"2 min 42 sec",
-    "singer": ["Roop Kumar Rathod"],
-    "genre": ["Romantic", "lo-fi"],
-    "link": "https://youtu.be/3qrpE5T10RI"
-
-},
-{
-
-    "id": 51,
-    "name": "Jeena Jeena - atif aslam",
-    "lyrics": "https://www.azlyrics.com/lyrics/atifaslam/jeenajeena.html",
-    "album": "Jeena Jeena",
-    "Duration":"2 min 52 sec",
-    "singer": ["Atif Aslam"],
-    "genre": ["Romantic", "lo-fi"],
-    "link": "https://youtu.be/nYe7d117C6w"
-
-},
-{
-
-    "id": 52,
-    "name": "Tum Tak",
-    "lyrics": "https://gaana.com/lyrics/tum-tak",
-    "album": "Tum Tak",
-    "Duration":"3 min 28 sec",
-    "singer": ["Javed Ali, Kirti Sagathia, and Pooja AV"],
-    "genre": ["Romantic", "lo-fi"],
-    "link": "https://youtu.be/M4CxChgi4e8"
-
 }
 ,
 {
@@ -577,27 +541,15 @@
         "genre": ["Romantic", "Filmy"],
         "link": "https://www.youtube.com/watch?v=lrAM_H7v8wM"
 
-},
-{		"id": 51,
-        "name": "Kal Ho Naa Ho",
-        "lyrics": "https://gaana.com/song/kya-mujhe-pyar-hai",
-        "album": "Kal Ho Naa Ho",
-        "Duration":"4 min 46 sec",
-        "singer": ["Sonu Nigam"],
-        "genre": ["Romantic", "Filmy"],
-        "link": "https://www.youtube.com/watch?v=g0eO74UmRBs"
-},
-
-{
-        "id": 52,
-        "name": "bazigar hai bazigar ",
-        "lyrics": "https://www.indicine.com/movies/lyrics/baigar/",
-        "album": "Bazigar",
-        "Duration":"03 minutes 15 seconds",
-        "singer": ["Udit narayan "],
-        "genre": [" Acoustic music", "Filmi", "Indian pop"],
-        "link": "https://youtu.be/IJq0yyWug1k"
-   
-
 }
+{
+        "id": 51,
+        "name": "dil dooba",
+        "lyrics": "https://gaana.com/lyrics/dil dooba",
+        "album": "khakee",
+        "Duration":"4 min 38 sec",
+        "singer": ["Sonu nigam "],
+        "genre": ["Motivation","Pop"],
+        "link": "https://www.youtube.com/watch?v=SAiyopkF22M"
+    },
 ]
