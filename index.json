@@ -321,6 +321,18 @@
         "genre": ["Motivation", "Pop"],
         "link": "https://youtu.be/DSb7tmVcZm4"
 
+},
+{
+
+        "id": 21,
+        "name": "Sheikchillie",
+        "lyrics": "https://www.lyrics.com/sublyric/54086/Raftaar/Sheikh+Chilli+Original+Lyrics",
+        "album": "Sheikchillie",
+        "Duration":"4 min 13 sec",
+        "singer": ["sheikchilli"],
+        "genre": ["Pop"],
+        "link": "https://www.youtube.com/watch?v=uykOHAhId0Q"
+
 }
 
 ]
