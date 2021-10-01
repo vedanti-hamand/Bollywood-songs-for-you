@@ -506,7 +506,26 @@
 
 },
 {
-
+        "id": 49,
+        "name": "Bawaal",
+        "lyrics": "https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwi7v5zqyKjzAhXVXCsKHVZeDe0QFnoECAIQAQ&url=https%3A%2F%2Fwww.lyricsbell.com%2Fbawaal-mj5%2F&usg=AOvVaw2ptmUKxp_hdhV-MMKr5kP_",
+        "album": "ZBawaal",
+        "Duration":"3 min 14 sec",
+        "singer": [" Kartik, Rohit"],
+        "genre": [ "Filmy"],
+        "link": "https://youtu.be/SGLVh57-HJs"
+},
+{ 
+      "id": 49,
+        "name": "Stay a little longer",
+        "lyrics": "https://www.lyricsmint.com/half-girlfriend/stay-a-little-longer",
+        "album": "Half Girlfriend",
+        "Duration":"4 min 59 sec",
+        "singer": [" Anushka Shahaney "],
+        "genre": [" Western swing", "Filmy"],
+        "link": "https://www.youtube.com/watch?v=tjXHcyQhzqI"
+},
+{
     "id": 49,
     "name": "Dil Ko Karar Aaya",
     "lyrics": "https://gaana.com/lyrics/dil-ko-karaar-aaya",
@@ -515,6 +534,18 @@
     "singer": [" Neha Kakkar & Yasser Desai"],
     "genre": ["Romantic", "lo-fi"],
     "link": "https://youtu.be/Ad5s2_Z7-Pw"
+
+},
+{
+
+        "id": 21,
+        "name": "Sheikchillie",
+        "lyrics": "https://www.lyrics.com/sublyric/54086/Raftaar/Sheikh+Chilli+Original+Lyrics",
+        "album": "Sheikchillie",
+        "Duration":"4 min 13 sec",
+        "singer": ["sheikchilli"],
+        "genre": ["Pop"],
+        "link": "https://www.youtube.com/watch?v=uykOHAhId0Q"
 
 }
 ,
@@ -528,22 +559,44 @@
         "singer": [" KK,Pritam"],
         "genre": ["Romantic", "Filmy"],
         "link": "https://www.youtube.com/watch?v=lrAM_H7v8wM"
-
 }
-,{ 
-    
+
+{
+
         "id": 50,
-        "name": "Pani Da Rang",
-        "lyrics": "https://gaana.com/lyrics/pani-di-gal",
-        "album": "Vicky Donor",
-        "Duration":"4 min",
-        "singer": [" Ayushman Khurrana"],
-        "genre": ["Filmi, Acoustic pop"],
-        "link": "https://youtu.be/2kgEc6oH9J0"
+        "name": "Dil galt Kar Baitha hai",
+        "lyrics": "https://gaana.com/song/dil-galti-kar-baitha-hai-feat-mouni-roy",
+        "album": "Dil galt Kar Baitha hai",
+        "Duration":"4 min 26 sec",
+        "singer": ["jubin"],
+        "genre": ["Romantic", "Filmy"],
+        "link": "https://www.youtube.com/watch?v=lrAM_H7v8wM"
+
+},
+{		
+  "id": 51,
+        "name": "Kal Ho Naa Ho",
+        "lyrics": "https://gaana.com/song/kya-mujhe-pyar-hai",
+        "album": "Kal Ho Naa Ho",
+        "Duration":"4 min 46 sec",
+        "singer": ["Sonu Nigam"],
+        "genre": ["Romantic", "Filmy"],
+        "link": "https://www.youtube.com/watch?v=g0eO74UmRBs"
+},
+
+{
+        "id": 52,
+        "name": "bazigar hai bazigar ",
+        "lyrics": "https://www.indicine.com/movies/lyrics/baigar/",
+        "album": "Bazigar",
+        "Duration":"03 minutes 15 seconds",
+        "singer": ["Udit narayan "],
+        "genre": [" Acoustic music", "Filmi", "Indian pop"],
+        "link": "https://youtu.be/IJq0yyWug1k"
 
 },
 {
-        "id": 51,
+        "id": 50,
         "name": "Kal Ho Naa Ho ",
         "lyrics": "https://gaana.com/lyrics/kal-ho-naa-ho-5",
         "album": " Kal Ho Naa Ho ",
@@ -552,6 +605,142 @@
         "genre": ["Romance","Filmi"],
         "link": "https://youtu.be/g0eO74UmRBs"
 
-}
+},{
+        "id": 51,
+        "name": "dil dooba",
+        "lyrics": "https://gaana.com/lyrics/dil dooba",
+        "album": "khakee",
+        "Duration":"4 min 38 sec",
+        "singer": ["Sonu nigam "],
+        "genre": ["Motivation","Pop"],
+        "link": "https://www.youtube.com/watch?v=SAiyopkF22M"
+    },
+{
+        "id": 52,
+        "name": "Panchhi Banoo Udti Phiroon ",
+        "lyrics": "https://youtu.be/fUtIQtRMGzg",
+        "album": "Chori Chori",
+        "Duration":"4 min 20 sec",
+        "singer": ["Lata Mangeshkar"],
+        "genre": ["Motivation","Folk"],
+        "link": "https://youtu.be/bIhhCGFR2NE"
+},{
+        "id": 53,
+        "name": "Chinta ta chita chita",
+        "lyrics": "https://www.lyricsmint.com/rowdy-rathore/chinta-ta-ta-chita-chita",
+        "album": "Rowdy Rathore",
+        "Duration":"5 min 7 sec",
+        "singer": ["Mika Singh "],
+        "genre": ["dance number","Pop"],
+        "link": "https://www.youtube.com/watch?v=NPRd7Xc0tfM"
+    },
+{
+        "id": 54,
+        "name": "KHAIRIYAT",
+        "lyrics": "https://www.ilyricshub.com/khairiyat-chhichhore-arijit-singh/",
+        "album": "Chhichhore",
+        "Duration":"3 min 58 sec",
+        "singer": ["Arijit Singh "],
+        "genre": ["dance number","Pop"],
+        "link": "https://www.youtube.com/watch?v=hoNb6HuNmU0"
+    },
+
+{
+        "id": 55,
+        "name": "kun faya kun",
+        "lyrics": "https://genius.com/Ar-rahman-kun-faya-kun-lyrics",
+        "album": "Rockstar",
+        "Duration":"6 min 20 sec",
+        "singer": ["A R Rahman","Javed Ali"],
+        "genre": ["Sufi"],
+        "link": "https://youtu.be/T94PHkuydcw"
+    },
+
+{
+        "id": 56,
+        "name": "vienna waits for you",
+        "lyrics":" https://genius.com/Billy-joel-vienna-lyrics",
+        "album": "vienna",
+        "Duration":"3 min 37 sec",
+        "singer": ["billy joel "],
+        "genre": ["dance number","Pop"],
+        "link": "https://www.youtube.com/results?search_query=vienna"
+
+    },
+{
+        "id": 57,
+        "name": "Dildara",
+        "lyrics": "https://lyricsdna.com/songs/lyrics/dildara-dildara-lyrics-stand-by-me-ra-one",
+        "album": "Ra.One",
+        "Duration":"4 min 30 sec",
+        "singer": ["Abhijeet Bhattacharya, Sowmya Raoh "],
+        "genre": ["dance number","Pop"],
+        "link": "https://www.youtube.com/watch?v=gQ5qVtoLMk4"
+
+},
+{
+        "id": 58,
+        "name": "Tu Tu Hai Wahi ",
+        "lyrics": "https://www.lyricsoff.com/songs/tu-tu-hai-wahi-yeh-vaada-raha.html",
+        "album": "Yeh Vaada Raha ",
+        "Duration":"6 min 50 sec",
+        "singer": ["Kishore Kumar","Asha Bhosle"],
+        "genre": ["Romanace"],
+        "link": "https://youtu.be/hjfzFVw2Zjo"
+    },
+
+{
+        "id": 59,
+        "name": "Raat kali ek khwab mein aayi",
+        "lyrics": "https://gaana.com/lyrics/raat-kali-ek-khwab-men-aai-23",
+        "album": "Buddha Mil Gaya",
+        "Duration":"4 min 59 sec",
+        "singer": ["Kishore Kumar"],
+        "genre": ["Romanace"],
+        "link": "https://www.youtube.com/watch?v=jFYlChHSdzo"
+    },
+{
+        "id": 60,
+        "name": " Kisi Ki Muskurahaton Se ",
+        "lyrics": "https://youtu.be/z6FukwueP1o",
+        "album": "Legend Raj Kapoor-The Showman  Vol-3",
+        "Duration":"4 min 08 sec",
+        "singer": ["Mukesh"],
+        "genre": ["Motivational","Folk"],
+        "link": "https://youtu.be/z6FukwueP1o"
+},
+
+{
+        "id": 61,
+        "name": "Makhna",
+        "lyrics": "https://www.lyricsbell.com/makhna-drive/",
+        "album": "Drive",
+        "Duration":"3 min 13 sec",
+        "singer": ["Tanishk Bagchi","Yasser Desai","Asees Kaur"],
+        "genre": ["Filmy"],
+        "link": "https://www.youtube.com/watch?v=HqUeSjsYLNU"
+    },
+,{ 
     
+        "id": 62,
+        "name": "Pani Da Rang",
+        "lyrics": "https://gaana.com/lyrics/pani-di-gal",
+        "album": "Vicky Donor",
+        "Duration":"4 min",
+        "singer": [" Ayushman Khurrana"],
+        "genre": ["Filmi, Acoustic pop"],
+        "link": "https://youtu.be/2kgEc6oH9J0"
+},
+{
+    "id": 63,
+        "name": "Bhul Bhulaiya Title Track",
+        "lyrics": "https://gaana.com/song/bhool-bhulaiyaa-remix-1",
+        "album": "Bhul Bhulaiya Remix",
+        "Duration":"5 min 04 sec",
+        "singer": [" Neeraj Sridhar"],
+        "genre": ["Funny"],
+        "link": "https://www.youtube.com/watch?v=1hCQgzZoeNM"
+
+
+},
 ]
