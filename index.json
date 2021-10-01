@@ -359,7 +359,7 @@
         "id": 33,
         "name": "Saagar Kinare-Sagar(1985)",
         "lyrics": "https://www.lyrics.com/lyric/28653018/Kishore+Kumar/Saagar+Kinare",
-        "album": "Saagar Kinare-Saagar
+        "album": "Saagar Kinare-Saagar",
         "Duration":"3 min 45 sec",
         "singer": ["Lata Mangeshkar","Kishore Kumar"]
 },
@@ -643,10 +643,30 @@
         "singer": ["Arijit Singh "],
         "genre": ["dance number","Pop"],
         "link": "https://www.youtube.com/watch?v=hoNb6HuNmU0"
-    },
-
+},
+    }
 {
-        "id": 55,
+    "id": 55,
+    "name":"Dekha Hazaro Dafaa",
+    "lyrices":"https://www.azlyrics.com/lyrics/arijitsingh/dekhahazarodafa.html",
+    "album":"Rustom",
+    "Duration":"3:33",
+    "singer":["Arijit Singh , Palak M"],
+    "genre": ["Romantic"],
+    "link":"https://youtu.be/ImnYPjOd1Tw"
+},
+{
+    "id": 56,
+    "name":"Mere Mehboob Qayamat Hogi",
+    "lyrices":"https://youtu.be/EBRc5ckj5k0",
+    "album":"NA",
+    "Duration":"4:32",
+    "singer":["Kishore Kumar"],
+    "genre": ["Romantic"],
+    "link":"https://youtu.be/yIzCBU0_LyY"
+},
+{
+        "id": 57,
         "name": "kun faya kun",
         "lyrics": "https://genius.com/Ar-rahman-kun-faya-kun-lyrics",
         "album": "Rockstar",
@@ -657,7 +677,7 @@
     },
 
 {
-        "id": 56,
+        "id": 58,
         "name": "vienna waits for you",
         "lyrics":" https://genius.com/Billy-joel-vienna-lyrics",
         "album": "vienna",
@@ -668,7 +688,7 @@
 
     },
 {
-        "id": 57,
+        "id": 59,
         "name": "Dildara",
         "lyrics": "https://lyricsdna.com/songs/lyrics/dildara-dildara-lyrics-stand-by-me-ra-one",
         "album": "Ra.One",
@@ -679,7 +699,7 @@
 
 },
 {
-        "id": 58,
+        "id": 60,
         "name": "Tu Tu Hai Wahi ",
         "lyrics": "https://www.lyricsoff.com/songs/tu-tu-hai-wahi-yeh-vaada-raha.html",
         "album": "Yeh Vaada Raha ",
@@ -690,7 +710,7 @@
     },
 
 {
-        "id": 59,
+        "id": 61,
         "name": "Raat kali ek khwab mein aayi",
         "lyrics": "https://gaana.com/lyrics/raat-kali-ek-khwab-men-aai-23",
         "album": "Buddha Mil Gaya",
@@ -700,7 +720,7 @@
         "link": "https://www.youtube.com/watch?v=jFYlChHSdzo"
     },
 {
-        "id": 60,
+        "id": 62,
         "name": " Kisi Ki Muskurahaton Se ",
         "lyrics": "https://youtu.be/z6FukwueP1o",
         "album": "Legend Raj Kapoor-The Showman  Vol-3",
@@ -711,7 +731,28 @@
 },
 
 {
-        "id": 61,
+        "id": 63,
+        "name": "Tu Tu Hai Wahi ",
+        "lyrics": "https://www.lyricsoff.com/songs/tu-tu-hai-wahi-yeh-vaada-raha.html",
+        "album": "Yeh Vaada Raha ",
+        "Duration":"6 min 50 sec",
+        "singer": ["Kishore Kumar","Asha Bhosle"],
+        "genre": ["Romanace"],
+        "link": "https://youtu.be/hjfzFVw2Zjo"
+
+    },
+{
+        "id": 64,
+        "name": "Chand Sifarish ",
+        "lyrics": "https://gaana.com/lyrics/chand-sifarish-13",
+        "album": "Fanaa ",
+        "Duration":"4 min 536 sec",
+        "singer": ["Shaan", "Kailash Kher"],
+        "genre": ["Romanace"],
+        "link": "https://youtu.be/zWEOx7TSM6I"
+
+    },
+{       "id": 65,
         "name": "Makhna",
         "lyrics": "https://www.lyricsbell.com/makhna-drive/",
         "album": "Drive",
@@ -720,9 +761,9 @@
         "genre": ["Filmy"],
         "link": "https://www.youtube.com/watch?v=HqUeSjsYLNU"
     },
-,{ 
+{ 
     
-        "id": 62,
+        "id": 66,
         "name": "Pani Da Rang",
         "lyrics": "https://gaana.com/lyrics/pani-di-gal",
         "album": "Vicky Donor",
@@ -732,7 +773,7 @@
         "link": "https://youtu.be/2kgEc6oH9J0"
 },
 {
-    "id": 63,
+    "id": 67,
         "name": "Bhul Bhulaiya Title Track",
         "lyrics": "https://gaana.com/song/bhool-bhulaiyaa-remix-1",
         "album": "Bhul Bhulaiya Remix",
@@ -740,6 +781,17 @@
         "singer": [" Neeraj Sridhar"],
         "genre": ["Funny"],
         "link": "https://www.youtube.com/watch?v=1hCQgzZoeNM"
+
+},
+{
+    "id": 68,
+        "name": "Janam Janam",
+        "lyrics": "https://www.azlyrics.com/lyrics/arijitsingh/janamjanam.html",
+        "album": "Dilwale",
+        "Duration":"4 min 13 sec",
+        "singer": [" Arjit Singh"],
+        "genre": ["Romantic"],
+        "link": "https://www.youtube.com/watch?v=pIBoAh4OXhQ"
 
 
 },
@@ -752,5 +804,77 @@
         "singer": ["Shreya Goshal", "Sona Mohapatra", "Vishal–Shekhar"],
         "genre": ["Romantic"],
         "link": "https://youtu.be/_VOXxKDNCuM"
-    }
+    },
+{
+    "id": 63,
+        "name": "Love you zindagi",
+        "lyrics": "http://songolyrics.in/dear-zindagi/love-you-zindagi",
+        "album": "Dear Zindagi",
+        "Duration":"4 min 11 sec",
+        "singer": [" Jasleen Royal"],
+        "genre": ["motivation"],
+        "link": "https://www.youtube.com/watch?v=bw7bVpI5VcM"
+
+
+},
+{
+    "id": 64,
+        "name": "Ilahi",
+        "lyrics": "https://gaana.com/lyrics/ilahi-9",
+        "album": "Yeh Jawaani Hai Deewani",
+        "Duration":"3 min 48 sec",
+        "singer": ["Pritam","Arijit Singh"],
+        "genre": ["Travel"],
+        "link": "https://www.youtube.com/watch?v=fdubeMFwuGs"
+},
+{
+    "id": 65,
+        "name": "Kaam 25",
+        "lyrics": "https://gaana.com/lyrics/kaam-25",
+        "album": "Sacred Games",
+        "Duration":"2 min 29 sec",
+        "singer": ["Divine"],
+        "genre": ["Rap"],
+        "link": "https://www.youtube.com/watch?v=ATf05n5LBHQ"
+},
+{
+        "id": 69,
+        "name": "Drivers license",
+        "lyrics": "https://www.republicworld.com/entertainment-news/music/drivers-license-lyrics-and-meaning-behind-this-olivia-rodrigo-song-explained.html",
+        "album": "Divers license",
+        "Duration":"4 min 2 sec",
+        "singer": ["Daniel Nigro / Olivia Rodrigo"],
+        "genre": ["Indie Pop"],
+        "link": "https://www.youtube.com/watch?v=_Bjf-iExroI"
+    },
+{
+    "id": 70,
+        "name": "Kashmir Main Tu Kanyakumari",
+        "lyrics": "https://www.lyricsoff.com/songs/kashmir-main-tu-kanyakumari.html",
+        "album": "Chennai Express",
+        "Duration":"3 min 41 sec",
+        "singer": ["Arijit Singh","Sunidhi Chauhan"],
+        "genre": ["Folk"],
+        "link": "https://www.youtube.com/watch?v=dodDteh-m3Q"
+},
+{
+    "id": 71,
+        "name": "Dekhte Dekhte",
+        "lyrics": "https://www.lyricspedia.co.in/dekhte-dekhte-lyrics-atif-aslam/",
+        "album": "Batti Gul Meter Chalu",
+        "Duration":"4 min 36 sec",
+        "singer": [" Atif Aslam"],
+        "genre": ["Romantic"],
+        "link": "https://www.youtube.com/watch?v=jBQpGiubj0c"
+},
+{
+        "id": 72,
+        "name": "Tera Hone Laga Hoon",
+        "lyrics": "https://gaana.com/playlist/ashitharamesh2-terahonelagahoon",
+        "album": "Ajab Prem Ki Ghazab Kahani",
+        "Duration":"4 min 59 sec",
+        "singer": ["  Atif Aslam"],
+        "genre": ["Romantic"],
+        "link": "https://www.youtube.com/watch?v=rTuxUAuJRyY"
+}
 ]
