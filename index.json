@@ -388,7 +388,7 @@
     "id":34,
     "name":"Genda Phool",
     "lyrics":"https://gaana.com/lyrics/genda-phool-6",
-    "albhum":"Genda Phool"
+    "albhum":"Genda Phool",
     "Duration":"02:48",
     "singer":["Badshah, Payal Dev"],
      "genre":[" Indian pop"],
@@ -481,7 +481,7 @@
     "Duration":"6:55",
     "singer":["Arijit Singh,Sunidhi Chauhan"],
     "genre": ["Romantic"],
-    "link":"https://youtu.be/GNm7vIZXEYw":
+    "link":"https://youtu.be/GNm7vIZXEYw"
 },
   {
         "id": 47,
@@ -560,7 +560,7 @@
         "genre": ["Romantic", "Filmy"],
         "link": "https://www.youtube.com/watch?v=lrAM_H7v8wM"
 }
-
+,
 {
 
         "id": 50,
@@ -644,7 +644,7 @@
         "genre": ["dance number","Pop"],
         "link": "https://www.youtube.com/watch?v=hoNb6HuNmU0"
 },
-    }
+    
 {
     "id": 55,
     "name":"Dekha Hazaro Dafaa",
@@ -906,5 +906,35 @@
         "singer": ["Manj Musik"],
         "genre": ["Romantic"],
         "link": "https://www.youtube.com/watch?v=5NM7VF0AOfo"
+},
+  {
+        "id": 79,
+        "name": "Khoj",
+        "lyrics": "https://genius.com/When-chai-met-toast-khoj-lyrics",
+        "album": "Believe",
+        "Duration":"3 min 31 sec",
+        "singer": ["When Chai Met Toast pop/folk band"],
+        "genre": ["Pop, Rock, Folk"],
+        "link": "https://youtu.be/LMEdbBK4bk0"
+},
+{ 
+        "id": 76
+        "name": "Kinna Sona",
+        "lyrics": "https://www.ilyricshub.com/kinna-sona-marjaavaan/",
+        "album": "Marjaavaan",
+        "Duration":"4 min 33 sec",
+        "singer": ["Jubin Nautiyal"],
+        "genre": ["Romantic"],
+        "link": "https://www.youtube.com/watch?v=7lfFZs50JHM"
+}
+,{
+  "id": 75,
+  "name": "Thug Le",
+  "lyrics": "https://gaana.com/lyrics/thug-le-14",
+  "album": "Ladies Vs Rickt Bahl",
+  "Duration": "3 min 38 sec",
+  "singer": ["Vishal Dadlani"],
+  "genre": ["Energetic"],
+  "link": "https://www.youtube.com/watch?v=LEYXdZ_rVbo"
 }
 ]
