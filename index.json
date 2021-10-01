@@ -907,4 +907,14 @@
         "genre": ["Pop, Rock, Folk"],
         "link": "https://youtu.be/LMEdbBK4bk0"
 },
+{ 
+        "id": 76
+        "name": "Kinna Sona",
+        "lyrics": "https://www.ilyricshub.com/kinna-sona-marjaavaan/",
+        "album": "Marjaavaan",
+        "Duration":"4 min 33 sec",
+        "singer": ["Jubin Nautiyal"],
+        "genre": ["Romantic"],
+        "link": "https://www.youtube.com/watch?v=7lfFZs50JHM"
+}
 ]
