@@ -506,7 +506,16 @@
 
 },
 {
-
+        "id": 49,
+        "name": "Stay a little longer",
+        "lyrics": "https://www.lyricsmint.com/half-girlfriend/stay-a-little-longer",
+        "album": "Half Girlfriend",
+        "Duration":"4 min 59 sec",
+        "singer": [" Anushka Shahaney "],
+        "genre": [" Western swing", "Filmy"],
+        "link": "https://www.youtube.com/watch?v=tjXHcyQhzqI"
+},
+{
     "id": 49,
     "name": "Dil Ko Karar Aaya",
     "lyrics": "https://gaana.com/lyrics/dil-ko-karaar-aaya",
@@ -541,7 +550,29 @@
         "genre": ["Romantic", "Filmy"],
         "link": "https://www.youtube.com/watch?v=lrAM_H7v8wM"
 
-}
+},
+{		
+  "id": 51,
+        "name": "Kal Ho Naa Ho",
+        "lyrics": "https://gaana.com/song/kya-mujhe-pyar-hai",
+        "album": "Kal Ho Naa Ho",
+        "Duration":"4 min 46 sec",
+        "singer": ["Sonu Nigam"],
+        "genre": ["Romantic", "Filmy"],
+        "link": "https://www.youtube.com/watch?v=g0eO74UmRBs"
+},
+
+{
+        "id": 52,
+        "name": "bazigar hai bazigar ",
+        "lyrics": "https://www.indicine.com/movies/lyrics/baigar/",
+        "album": "Bazigar",
+        "Duration":"03 minutes 15 seconds",
+        "singer": ["Udit narayan "],
+        "genre": [" Acoustic music", "Filmi", "Indian pop"],
+        "link": "https://youtu.be/IJq0yyWug1k"
+
+},
 {
         "id": 51,
         "name": "dil dooba",
