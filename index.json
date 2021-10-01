@@ -712,6 +712,27 @@
 
 {
         "id": 61,
+        "name": "Tu Tu Hai Wahi ",
+        "lyrics": "https://www.lyricsoff.com/songs/tu-tu-hai-wahi-yeh-vaada-raha.html",
+        "album": "Yeh Vaada Raha ",
+        "Duration":"6 min 50 sec",
+        "singer": ["Kishore Kumar","Asha Bhosle"],
+        "genre": ["Romanace"],
+        "link": "https://youtu.be/hjfzFVw2Zjo"
+
+    },
+{
+        "id": 62,
+        "name": "Chand Sifarish ",
+        "lyrics": "https://gaana.com/lyrics/chand-sifarish-13",
+        "album": "Fanaa ",
+        "Duration":"4 min 536 sec",
+        "singer": ["Shaan", "Kailash Kher"],
+        "genre": ["Romanace"],
+        "link": "https://youtu.be/zWEOx7TSM6I"
+
+    },
+{
         "name": "Makhna",
         "lyrics": "https://www.lyricsbell.com/makhna-drive/",
         "album": "Drive",
@@ -720,7 +741,7 @@
         "genre": ["Filmy"],
         "link": "https://www.youtube.com/watch?v=HqUeSjsYLNU"
     },
-,{ 
+{ 
     
         "id": 62,
         "name": "Pani Da Rang",
@@ -741,7 +762,6 @@
         "genre": ["Funny"],
         "link": "https://www.youtube.com/watch?v=1hCQgzZoeNM"
 
-
 },
 {
         "id": 64,
@@ -752,4 +772,5 @@
         "singer": ["  Atif Aslam"],
         "genre": ["Romantic"],
         "link": "https://www.youtube.com/watch?v=rTuxUAuJRyY"
+}
 ]
