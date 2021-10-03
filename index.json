@@ -938,6 +938,46 @@
         "link": "https://www.youtube.com/watch?v=7lfFZs50JHM"
 },
 {
+        "id":81,
+        "name": "kaun disha mein leke chala re",
+        "lyrics": "https://gaana.com/lyrics/kaun-disha-mein-leke-chala",
+        "album": " Nadiya Ke Paar ",
+        "Duration":"6 min 52 sec",
+        "singer": ["Hemlata, Jaspal Singh"],
+        "genre": ["Romantic"],
+        "link": "https://www.youtube.com/watch?v=D61BvxAOxm0"
+},
+{
+        "id":82,
+        "name": "Ankhiyon Ke Jharokhon Se",
+        "lyrics": "https://gaana.com/lyrics/ankhiyon-ke-jharokhon-se-happy-ii",
+        "album": "Ankhiyon Ke Jharokhon Se",
+        "Duration":"2 min 58 sec",
+        "singer": ["Hemlata"],
+        "genre": ["Romantic"],
+        "link": "https://www.youtube.com/watch?v=_NIFoqfSO6E"
+},
+{
+        "id":83,
+        "name": "Jhilmil Sitaron Ka Aangan Hoga",
+        "lyrics": "https://gaana.com/lyrics/jhilmil-sitaron-ka-angan-hoga-1",
+        "album": "Jeevan Mrityue",
+        "Duration":"5 min 28 sec",
+        "singer": ["Mohammed Rafi, Lata Mangeshkar"],
+        "genre": ["Romantic"],
+        "link": "https://www.youtube.com/watch?v=v13cUeX6_co"
+},
+{
+        "id":84,
+        "name": "Solah Baras Ki Bali Umar ",
+        "lyrics": "https://gaana.com/lyrics/solah-baras-ki-bali-umariya",
+        "album": " Ek Duuje Ke Liye",
+        "Duration":"6 min 13 sec",
+        "singer": [" Lata Mangeshkar, Anup Jalota"],
+        "genre": ["Romantic"],
+        "link": "https://www.youtube.com/watch?v=1RIEPUjTXEA"
+},
+{
         "id": 75,
         "name": "Mere naal tu whistle baja",
         "lyrics": "https://gaana.com/lyrics/whistle-baja",
@@ -1037,5 +1077,4 @@
     "genre": ["Romatic"],
     "link": "https://www.youtube.com/watch?v=dTu5dTEzVM4"
   }
-
 ]
