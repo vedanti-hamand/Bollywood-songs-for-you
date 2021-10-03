@@ -976,5 +976,15 @@
   "singer": ["Vishal Dadlani"],
   "genre": ["Energetic"],
   "link": "https://www.youtube.com/watch?v=LEYXdZ_rVbo"
+},
+{
+  "id": 76,
+  "name": "KHAIRIYAT",
+  "lyrics": "https://gaana.com/lyrics/khairiyat-happy",
+  "album": "chhichhore",
+  "Duration": "3 min 58 sec",
+  "singer": ["Arijit Singh"],
+  "genre": ["Romantic"],
+  "link": "https://www.youtube.com/watch?v=hoNb6HuNmU0"
 }
 ]
