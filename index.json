@@ -977,4 +977,14 @@
   "genre": ["Energetic"],
   "link": "https://www.youtube.com/watch?v=LEYXdZ_rVbo"
 }
+{
+   "id": 76,
+    "name": "Mere Liye Tum Kaafi Ho",
+    "lyrics": "https://gaana.com/lyrics/moh-moh-ke-dhaage-male",
+    "movie": "Dum Laga Ke Haisha",
+    "Duration":"5 min 22 sec",
+    "singer": ["Monali Thakur"],
+    "genre": ["Romantic"],
+    "link": "https://www.youtube.com/watch?v=JbDktrsnH40"
+ },
 ]
