@@ -1016,6 +1016,65 @@
   "singer": ["Vishal Dadlani"],
   "genre": ["Energetic"],
   "link": "https://www.youtube.com/watch?v=LEYXdZ_rVbo"
+},
+{
+  "id": 76,
+  "name": "KHAIRIYAT",
+  "lyrics": "https://gaana.com/lyrics/khairiyat-happy",
+  "album": "chhichhore",
+  "Duration": "3 min 58 sec",
+  "singer": ["Arijit Singh"],
+  "genre": ["Romantic"],
+  "link": "https://www.youtube.com/watch?v=hoNb6HuNmU0"
 }
-
+,{
+    "id": 81,
+    "name": "Lut Gaye",
+    "lyrics": "https://gaana.com/lyrics/lut-gaye-feat-emraan-hashmi",
+    "album": "Lut Gaye(feat Emraan Hashmi",
+    "Duration": "4 min 57 sec",
+    "singer": ["Jubin Nautiyal"],
+    "genre": ["Romatic"],
+    "link": "https://www.youtube.com/watch?v=sCbbMZ-q4-I"
+  },
+  {
+    "id": 82,
+    "name": "Thoda Thoda Pyaar",
+    "lyrics": "https://lyricsmint.com/stebin-ben/thoda-thoda-pyaar",
+    "album": "Thoda Thoda Pyaar",
+    "Duration": "4 min 57 sec",
+    "singer": ["Stebin Ben"],
+    "genre": ["Romatic"],
+    "link": "https://www.youtube.com/watch?v=USccSZnS8MQ"
+  },
+  {
+    "id": 83,
+    "name": "Shayad",
+    "lyrics": "https://www.lyricsmint.com/love-aaj-kal/shayad",
+    "album": "Love aaj kal",
+    "Duration": "3 min 10 sec",
+    "singer": ["Arijit Singh"],
+    "genre": ["Romatic"],
+    "link": "https://www.youtube.com/watch?v=MJyKN-8UncM"
+  },
+  {
+    "id": 84,
+    "name": "Aaj din Chadheya",
+    "lyrics": "https://www.indicine.com/movies/bollywood/ajj-din-chadheya-lyrics-love-aaj-kal/",
+    "album": "Love aaj kal",
+    "Duration": "5 min 24 sec",
+    "singer": ["Rahat Fateh Ali Khan"],
+    "genre": ["Romatic"],
+    "link": "https://www.youtube.com/watch?v=YSWMbwQuWAY"
+  },
+  {
+    "id": 85,
+    "name": "Tune Jo Na Kaha",
+    "lyrics": "https://gaana.com/lyrics/tune-jo-na-kaha",
+    "album": "New York",
+    "Duration": "2 min 23 sec",
+    "singer": ["Mohit Chauhan"],
+    "genre": ["Romatic"],
+    "link": "https://www.youtube.com/watch?v=dTu5dTEzVM4"
+  }
 ]
