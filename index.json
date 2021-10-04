@@ -1098,5 +1098,15 @@
     "singer": ["R.D. Burman"],
     "genre": ["Romatic"],
     "link": "https://www.youtube.com/watch?v=ByAbV-MKDgs"
+  },
+    {
+    "id": 87,
+    "name": "Chitta",
+    "lyrics": "https://www.ilyricshub.com/chitta-shiddat-manan-bhardwaj/",
+    "album": "Shiddat",
+    "Duration": "2 min 25 sec",
+    "singer": ["Manan Bhardwaj"],
+    "genre": ["Romatic"],
+    "link": "https://www.youtube.com/watch?v=4vpfmr6M4FU"
   }
 ]
