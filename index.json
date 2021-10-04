@@ -1088,5 +1088,15 @@
     "singer": ["Mohit Chauhan"],
     "genre": ["Romatic"],
     "link": "https://www.youtube.com/watch?v=dTu5dTEzVM4"
+  },
+    {
+    "id": 86,
+    "name": "Mehbooba Mehbooba",
+    "lyrics": "https://www.lyrics.com/lyric/6166149/R.D.+Burman/Mehbooba+Mehbooba+%5BFrom+Sholay%5D",
+    "album": "Sholay",
+    "Duration": "3 min 56 sec",
+    "singer": ["R.D. Burman"],
+    "genre": ["Romatic"],
+    "link": "https://www.youtube.com/watch?v=ByAbV-MKDgs"
   }
 ]
