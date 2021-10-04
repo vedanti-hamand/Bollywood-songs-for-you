@@ -1108,5 +1108,15 @@
     "singer": ["Manan Bhardwaj"],
     "genre": ["Romatic"],
     "link": "https://www.youtube.com/watch?v=4vpfmr6M4FU"
-  }
+  },
+ {
+   "id": 88,
+    "name": "goom hai kisi ke pyar mein",
+    "lyrics": "https://gaana.com/lyrics/goom-hai-kisi-ke-pyar-mein-1",
+    "album": "Raampur Ka Lakshman",
+    "Duration": "4 min 30 sec",
+    "singer": ["Lata Mangeshkar", "Kishore Kumar "],
+    "genre": ["Romatic"],
+    "link": "https://www.youtube.com/watch?v=sPiOMuvzSI8"
+ }
 ]
