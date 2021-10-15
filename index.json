@@ -2394,8 +2394,9 @@
         "singer": ["Jubin Nautiyal"],
         "genre": ["Romantic"],
         "link": "https://www.youtube.com/watch?v=7lfFZs50JHM"
-}
-,{
+},
+
+ {
   "id": 75,
   "name": "Thug Le",
   "lyrics": "https://gaana.com/lyrics/thug-le-14",
@@ -2506,9 +2507,19 @@
     "singer": ["Lata Mangeshkar", "Kishore Kumar "],
     "genre": ["Romatic"],
     "link": "https://www.youtube.com/watch?v=sPiOMuvzSI8"
- }
+ },
 {
-   "id": 89,
+        "id": 89,
+        "name": "Virah",
+        "lyrics": "https://www.lyricsgoal.com/virah-bandish-bandits/",
+        "album": "Bandish Bandits",
+        "Duration":"3 min 10 sec",
+        "singer": ["Shankar Mahadevan"],
+        "genre": ["classical"],
+        "link": "https://www.youtube.com/watch?v=2lARCtyoiT8"
+},
+{
+   "id": 90,
     "name": "Badmash Company",
     "lyrics": "https://www.indicine.com/movies/bollywood/badmaash-company-lyrics/",
     "album": "Badmash Company",
