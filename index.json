@@ -2517,4 +2517,14 @@
     "genre": ["Rock , pop"],
     "link": "https://gaana.com/album/badmaash-company"
  }
+{
+   "id": 90,
+    "name": "Mourya Re",
+    "lyrics": "https://gaana.com/lyrics/mourya-re-3",
+    "album": "Chalisa Sangrah",
+    "Duration": "5 min 48 sec",
+    "singer": ["Shankar Mahadevan"],
+    "genre": ["God"],
+    "link": "https://gaana.com/song/mourya-re-3"
+ }
 ]
