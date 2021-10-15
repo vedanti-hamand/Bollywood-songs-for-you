@@ -2527,4 +2527,15 @@
     "genre": ["God"],
     "link": "https://gaana.com/song/mourya-re-3"
  }
+
+{
+   "id": 91,
+    "name": "insane ",
+    "lyrics": "https://gaana.com/lyrics/mourya-re-3",
+    "album": "insane",
+    "Duration": "5 min 48 sec",
+    "singer": ["AP dhillon],
+    "genre": ["pop"],
+    "link": "https://www.youtube.com/watch?v=cqP8I5aaud8"
+ }
 ]
