@@ -2507,4 +2507,14 @@
     "genre": ["Romatic"],
     "link": "https://www.youtube.com/watch?v=sPiOMuvzSI8"
  }
+{
+   "id": 89,
+    "name": "Badmash Company",
+    "lyrics": "https://www.indicine.com/movies/bollywood/badmaash-company-lyrics/",
+    "album": "Badmash Company",
+    "Duration": "4 min",
+    "singer": ["Benny Dayal"],
+    "genre": ["Rock , pop"],
+    "link": "https://gaana.com/album/badmaash-company"
+ }
 ]
