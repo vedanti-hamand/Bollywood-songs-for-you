@@ -2394,8 +2394,9 @@
         "singer": ["Jubin Nautiyal"],
         "genre": ["Romantic"],
         "link": "https://www.youtube.com/watch?v=7lfFZs50JHM"
-}
-,{
+},
+
+ {
   "id": 75,
   "name": "Thug Le",
   "lyrics": "https://gaana.com/lyrics/thug-le-14",
@@ -2508,7 +2509,17 @@
     "link": "https://www.youtube.com/watch?v=sPiOMuvzSI8"
  },
 {
-   "id": 89,
+        "id": 89,
+        "name": "Virah",
+        "lyrics": "https://www.lyricsgoal.com/virah-bandish-bandits/",
+        "album": "Bandish Bandits",
+        "Duration":"3 min 10 sec",
+        "singer": ["Shankar Mahadevan"],
+        "genre": ["classical"],
+        "link": "https://www.youtube.com/watch?v=2lARCtyoiT8"
+},
+{
+   "id": 90,
     "name": "Badmash Company",
     "lyrics": "https://www.indicine.com/movies/bollywood/badmaash-company-lyrics/",
     "album": "Badmash Company",
@@ -2518,8 +2529,38 @@
     "link": "https://gaana.com/album/badmaash-company"
  },
 {
-     "id": 90,
-    "name": "Maahi ve",
+   "id": 91,
+    "name": "Mourya Re",
+    "lyrics": "https://gaana.com/lyrics/mourya-re-3",
+    "album": "Chalisa Sangrah",
+    "Duration": "5 min 48 sec",
+    "singer": ["Shankar Mahadevan"],
+    "genre": ["God"],
+    "link": "https://gaana.com/song/mourya-re-3"
+ },
+{
+   "id": 92,
+    "name": "insane",
+    "lyrics": "https://www.lyricsgoal.com/insane-ap-dhillon/",
+    "album": "insane",
+    "Duration": "5 min 48 sec",
+    "singer": ["AP dhillon],
+    "genre": ["pop"],
+    "link": "https://www.youtube.com/watch?v=cqP8I5aaud8"
+ },
+    {
+    "id": 93,
+    "name": "Agar tum saath ho",
+    "lyrics": "https://gaana.com/song/agar-tum-saath-ho",
+    "album": "Tamasha",
+    "Duration": "5 min 41 sec",
+    "singer": ["Arjit singh,Alka yagnik"],
+    "genre": ["Romatic"],
+    "link": "https://www.youtube.com/watch?v=sK7riqg2mr4"
+  },
+{
+     "id": 94,
+    "name": "Maahi Ve",
     "lyrics": "https://www.lyricsoff.com/songs/maahi-ve-highway.html",
     "album": "Highway",
     "Duration": "4 min",
