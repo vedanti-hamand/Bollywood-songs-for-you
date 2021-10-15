@@ -2506,7 +2506,7 @@
     "singer": ["Lata Mangeshkar", "Kishore Kumar "],
     "genre": ["Romatic"],
     "link": "https://www.youtube.com/watch?v=sPiOMuvzSI8"
- }
+ },
 {
    "id": 89,
     "name": "Badmash Company",
@@ -2516,5 +2516,15 @@
     "singer": ["Benny Dayal"],
     "genre": ["Rock , pop"],
     "link": "https://gaana.com/album/badmaash-company"
- }
+ },
+{
+     "id": 90,
+    "name": "Maahi ve",
+    "lyrics": "https://www.lyricsoff.com/songs/maahi-ve-highway.html",
+    "album": "Highway",
+    "Duration": "4 min",
+    "singer": ["AR Rahman"],
+    "genre": ["Rock , pop"],
+    "link": "https://open.spotify.com/track/1sbW5E7w8tnqpYk0Frx8QG?si=3bac1a7746994768"
+}
 ]
