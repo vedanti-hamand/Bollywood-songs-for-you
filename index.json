@@ -2527,5 +2527,25 @@
     "singer": ["Benny Dayal"],
     "genre": ["Rock , pop"],
     "link": "https://gaana.com/album/badmaash-company"
+ },
+{
+   "id": 91,
+    "name": "Baatein ye Kabhi na",
+    "lyrics": "https://www.hinditracks.in/baatein-ye-kabhi-na-khamoshiyan",
+    "album": "Khamoshiyan",
+    "Duration": "4 min 16 sec",
+    "singer": ["Arijit Singh"],
+    "genre": ["Pop, Soul, Folk"],
+    "link": "https://www.youtube.com/watch?v=SOessajf_Ik"
+ },
+{
+   "id": 92,
+    "name": "Ae Dil hai Mushkil",
+    "lyrics": "https://www.azlyrics.com/lyrics/arijitsingh/aedilhaimushkil.html",
+    "album": "Ae Dil Hai Mushkil",
+    "Duration": "5 min 01 sec",
+    "singer": ["Arijit Singh"],
+    "genre": ["Love, Instrumental"],
+    "link": "https://www.youtube.com/watch?v=6FURuLYrR_Q"
  }
 ]
