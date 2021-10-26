@@ -2595,7 +2595,7 @@
     "singer": ["Arijit Singh"],
     "genre": ["Love, Instrumental"],
     "link": "https://www.youtube.com/watch?v=6FURuLYrR_Q"
- }
+ },
 {
    "id": 93,
     "name": "Raatan Lambiyan",
@@ -2605,6 +2605,16 @@
     "singer": ["Jubin Nautiyal, Asees Kaur"],
     "genre": ["Love, Instrumental"],
     "link": "https://youtu.be/orYf6VDtj_k"
- }
+ },
+{
+  "id": 94,
+  "name": "Ve Maahi",
+  "lyrics": "https://www.azlyrics.com/lyrics/bollywood/vemaahi.html",
+  "album": "Kesari",
+  "Duration": "3 min 54 sec",
+  "singer": ["Arijit Singh",  "Asees Kaur"],
+  "genre": ["Love","Instrumental"],
+  "link": "https://www.youtube.com/watch?v=j6muwUGdvXw"
+}
 
 ]
